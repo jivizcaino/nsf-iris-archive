@@ -239,16 +239,16 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1963,industry,Scientific and mechanical measuring instruments,15,381–82,wages_support,22.0,pct_of_total,,56
 1963,industry,Scientific and mechanical measuring instruments,15,381–82,materials,18.0,pct_of_total,,56
 1963,industry,Scientific and mechanical measuring instruments,15,381–82,other,26.0,pct_of_total,,56
-1962,industry,and other instruments,20,384–87,total,123.0,usd_millions,,58
-1962,industry,and other instruments,20,384–87,wages_se,40.0,usd_millions,,58
-1962,industry,and other instruments,20,384–87,wages_support,23.0,usd_millions,,58
-1962,industry,and other instruments,20,384–87,materials,26.0,usd_millions,,58
-1962,industry,and other instruments,20,384–87,other,34.0,usd_millions,,58
-1963,industry,and other instruments,20,384–87,total,144.0,usd_millions,,58
-1963,industry,and other instruments,20,384–87,wages_se,32.0,pct_of_total,,58
-1963,industry,and other instruments,20,384–87,wages_support,21.0,pct_of_total,,58
-1963,industry,and other instruments,20,384–87,materials,17.0,pct_of_total,,58
-1963,industry,and other instruments,20,384–87,other,31.0,pct_of_total,,58
+1962,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,123.0,usd_millions,,58
+1962,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,40.0,usd_millions,,58
+1962,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,23.0,usd_millions,,58
+1962,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,26.0,usd_millions,,58
+1962,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,34.0,usd_millions,,58
+1963,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,144.0,usd_millions,,58
+1963,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,32.0,pct_of_total,,58
+1963,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,21.0,pct_of_total,,58
+1963,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,17.0,pct_of_total,,58
+1963,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,31.0,pct_of_total,,58
 1962,industry,Other manufacturing industries,10,"27,31,39",total,68.0,usd_millions,,60
 1962,industry,Other manufacturing industries,10,"27,31,39",wages_se,21.0,usd_millions,,60
 1962,industry,Other manufacturing industries,10,"27,31,39",wages_support,14.0,usd_millions,,60
@@ -509,16 +509,16 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1965,industry,Scientific and mechanical measuring instruments,15,381–82,wages_support,24.0,pct_of_total,,181
 1965,industry,Scientific and mechanical measuring instruments,15,381–82,materials,13.0,pct_of_total,,181
 1965,industry,Scientific and mechanical measuring instruments,15,381–82,other,25.0,pct_of_total,,181
-1964,industry,and other instruments,20,384–87,total,125.0,usd_millions,,183
-1964,industry,and other instruments,20,384–87,wages_se,33.0,pct_of_total,,183
-1964,industry,and other instruments,20,384–87,wages_support,19.0,pct_of_total,,183
-1964,industry,and other instruments,20,384–87,materials,17.0,pct_of_total,,183
-1964,industry,and other instruments,20,384–87,other,31.0,pct_of_total,,183
-1965,industry,and other instruments,20,384–87,total,153.0,usd_millions,,183
-1965,industry,and other instruments,20,384–87,wages_se,32.0,pct_of_total,,183
-1965,industry,and other instruments,20,384–87,wages_support,19.0,pct_of_total,,183
-1965,industry,and other instruments,20,384–87,materials,18.0,pct_of_total,,183
-1965,industry,and other instruments,20,384–87,other,30.0,pct_of_total,,183
+1964,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,125.0,usd_millions,,183
+1964,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,33.0,pct_of_total,,183
+1964,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,19.0,pct_of_total,,183
+1964,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,17.0,pct_of_total,,183
+1964,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,31.0,pct_of_total,,183
+1965,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,153.0,usd_millions,,183
+1965,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,32.0,pct_of_total,,183
+1965,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,19.0,pct_of_total,,183
+1965,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,18.0,pct_of_total,,183
+1965,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,30.0,pct_of_total,,183
 1964,industry,Other manufacturing industries,10,"27,31,39",total,40.0,usd_millions,,185
 1964,industry,Other manufacturing industries,10,"27,31,39",wages_se,38.0,pct_of_total,,185
 1964,industry,Other manufacturing industries,10,"27,31,39",wages_support,23.0,pct_of_total,,185
@@ -789,16 +789,16 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1967,industry,Scientific and mechanical measuring instruments,15,381–82,wages_support,24.0,pct_of_total,,306
 1967,industry,Scientific and mechanical measuring instruments,15,381–82,materials,15.0,pct_of_total,,306
 1967,industry,Scientific and mechanical measuring instruments,15,381–82,other,20.0,pct_of_total,,306
-1966,industry,and other instruments,20,384–87,total,357.0,usd_millions,,308
-1966,industry,and other instruments,20,384–87,wages_se,32.0,pct_of_total,,308
-1966,industry,and other instruments,20,384–87,wages_support,22.0,pct_of_total,,308
-1966,industry,and other instruments,20,384–87,materials,18.0,pct_of_total,,308
-1966,industry,and other instruments,20,384–87,other,28.0,pct_of_total,,308
-1967,industry,and other instruments,20,384–87,total,385.0,usd_millions,,308
-1967,industry,and other instruments,20,384–87,wages_se,36.0,pct_of_total,,308
-1967,industry,and other instruments,20,384–87,wages_support,23.0,pct_of_total,,308
-1967,industry,and other instruments,20,384–87,materials,16.0,pct_of_total,,308
-1967,industry,and other instruments,20,384–87,other,24.0,pct_of_total,,308
+1966,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,357.0,usd_millions,,308
+1966,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,32.0,pct_of_total,,308
+1966,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,22.0,pct_of_total,,308
+1966,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,18.0,pct_of_total,,308
+1966,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,28.0,pct_of_total,,308
+1967,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,385.0,usd_millions,,308
+1967,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,36.0,pct_of_total,,308
+1967,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,23.0,pct_of_total,,308
+1967,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,16.0,pct_of_total,,308
+1967,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,24.0,pct_of_total,,308
 1966,industry,Other manufacturing industries,10,"27,31,39",total,64.0,usd_millions,,310
 1966,industry,Other manufacturing industries,10,"27,31,39",wages_se,37.0,pct_of_total,,310
 1966,industry,Other manufacturing industries,10,"27,31,39",wages_support,22.0,pct_of_total,,310
@@ -1069,16 +1069,16 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1969,industry,Scientific and mechanical measuring instruments,15,381–82,wages_support,22.0,pct_of_total,,431
 1969,industry,Scientific and mechanical measuring instruments,15,381–82,materials,13.0,pct_of_total,,431
 1969,industry,Scientific and mechanical measuring instruments,15,381–82,other,22.0,pct_of_total,,431
-1968,industry,and other instruments,20,384–87,total,513.0,usd_millions,,433
-1968,industry,and other instruments,20,384–87,wages_se,37.0,pct_of_total,,433
-1968,industry,and other instruments,20,384–87,wages_support,22.0,pct_of_total,,433
-1968,industry,and other instruments,20,384–87,materials,17.0,pct_of_total,,433
-1968,industry,and other instruments,20,384–87,other,24.0,pct_of_total,,433
-1969,industry,and other instruments,20,384–87,total,576.0,usd_millions,,433
-1969,industry,and other instruments,20,384–87,wages_se,35.0,pct_of_total,,433
-1969,industry,and other instruments,20,384–87,wages_support,25.0,pct_of_total,,433
-1969,industry,and other instruments,20,384–87,materials,18.0,pct_of_total,,433
-1969,industry,and other instruments,20,384–87,other,22.0,pct_of_total,,433
+1968,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,513.0,usd_millions,,433
+1968,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,37.0,pct_of_total,,433
+1968,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,22.0,pct_of_total,,433
+1968,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,17.0,pct_of_total,,433
+1968,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,24.0,pct_of_total,,433
+1969,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,576.0,usd_millions,,433
+1969,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,35.0,pct_of_total,,433
+1969,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,25.0,pct_of_total,,433
+1969,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,18.0,pct_of_total,,433
+1969,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,22.0,pct_of_total,,433
 1968,industry,Other manufacturing industries,10,"27,31,39",total,89.0,usd_millions,,435
 1968,industry,Other manufacturing industries,10,"27,31,39",wages_se,37.0,pct_of_total,,435
 1968,industry,Other manufacturing industries,10,"27,31,39",wages_support,25.0,pct_of_total,,435
@@ -1349,16 +1349,16 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1971,industry,Scientific and mechanical measuring instruments,15,381–82,wages_support,23.0,pct_of_total,,556
 1971,industry,Scientific and mechanical measuring instruments,15,381–82,materials,13.0,pct_of_total,,556
 1971,industry,Scientific and mechanical measuring instruments,15,381–82,other,27.0,pct_of_total,,556
-1970,industry,and other instruments,20,384–87,total,627.0,usd_millions,,558
-1970,industry,and other instruments,20,384–87,wages_se,30.0,pct_of_total,,558
-1970,industry,and other instruments,20,384–87,wages_support,24.0,pct_of_total,,558
-1970,industry,and other instruments,20,384–87,materials,16.0,pct_of_total,,558
-1970,industry,and other instruments,20,384–87,other,30.0,pct_of_total,,558
-1971,industry,and other instruments,20,384–87,total,615.0,usd_millions,,558
-1971,industry,and other instruments,20,384–87,wages_se,31.0,pct_of_total,,558
-1971,industry,and other instruments,20,384–87,wages_support,27.0,pct_of_total,,558
-1971,industry,and other instruments,20,384–87,materials,16.0,pct_of_total,,558
-1971,industry,and other instruments,20,384–87,other,26.0,pct_of_total,,558
+1970,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,627.0,usd_millions,,558
+1970,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,30.0,pct_of_total,,558
+1970,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,24.0,pct_of_total,,558
+1970,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,16.0,pct_of_total,,558
+1970,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,30.0,pct_of_total,,558
+1971,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,615.0,usd_millions,,558
+1971,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,31.0,pct_of_total,,558
+1971,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,27.0,pct_of_total,,558
+1971,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,16.0,pct_of_total,,558
+1971,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,26.0,pct_of_total,,558
 1970,industry,Other manufacturing industries,10,"27,31,39",total,132.0,usd_millions,,560
 1970,industry,Other manufacturing industries,10,"27,31,39",wages_se,37.0,pct_of_total,,560
 1970,industry,Other manufacturing industries,10,"27,31,39",wages_support,22.0,pct_of_total,,560
@@ -1659,16 +1659,16 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1973,industry,Scientific and mechanical measuring instruments,15,381–82,wages_support,27.0,usd_millions,,681
 1973,industry,Scientific and mechanical measuring instruments,15,381–82,materials,14.0,usd_millions,,681
 1973,industry,Scientific and mechanical measuring instruments,15,381–82,other,35.0,usd_millions,,681
-1972,industry,and other instruments,20,384–87,total,694.0,usd_millions,,683
-1972,industry,and other instruments,20,384–87,wages_se,215.0,usd_millions,,683
-1972,industry,and other instruments,20,384–87,wages_support,187.0,usd_millions,,683
-1972,industry,and other instruments,20,384–87,materials,111.0,usd_millions,,683
-1972,industry,and other instruments,20,384–87,other,181.0,usd_millions,,683
-1973,industry,and other instruments,20,384–87,total,796.0,usd_millions,,683
-1973,industry,and other instruments,20,384–87,wages_se,247.0,usd_millions,,683
-1973,industry,and other instruments,20,384–87,wages_support,214.0,usd_millions,,683
-1973,industry,and other instruments,20,384–87,materials,125.0,usd_millions,,683
-1973,industry,and other instruments,20,384–87,other,210.0,usd_millions,,683
+1972,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,694.0,usd_millions,,683
+1972,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,215.0,usd_millions,,683
+1972,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,187.0,usd_millions,,683
+1972,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,111.0,usd_millions,,683
+1972,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,181.0,usd_millions,,683
+1973,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,796.0,usd_millions,,683
+1973,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,247.0,usd_millions,,683
+1973,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,214.0,usd_millions,,683
+1973,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,125.0,usd_millions,,683
+1973,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,210.0,usd_millions,,683
 1972,industry,Other manufacturing industries,10,"27,31,39",total,150.0,usd_millions,,685
 1972,industry,Other manufacturing industries,10,"27,31,39",wages_se,57.0,usd_millions,,685
 1972,industry,Other manufacturing industries,10,"27,31,39",wages_support,31.0,usd_millions,,685
@@ -1969,16 +1969,16 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1975,industry,Scientific and mechanical measuring instruments,15,381–82,wages_support,28.0,usd_millions,,806
 1975,industry,Scientific and mechanical measuring instruments,15,381–82,materials,15.0,usd_millions,,806
 1975,industry,Scientific and mechanical measuring instruments,15,381–82,other,40.0,usd_millions,,806
-1974,industry,and other instruments,20,384–87,total,873.0,usd_millions,,808
-1974,industry,and other instruments,20,384–87,wages_se,292.0,usd_millions,,808
-1974,industry,and other instruments,20,384–87,wages_support,226.0,usd_millions,,808
-1974,industry,and other instruments,20,384–87,materials,143.0,usd_millions,,808
-1974,industry,and other instruments,20,384–87,other,214.0,usd_millions,,808
-1975,industry,and other instruments,20,384–87,total,906.0,usd_millions,,808
-1975,industry,and other instruments,20,384–87,wages_se,329.0,usd_millions,,808
-1975,industry,and other instruments,20,384–87,wages_support,240.0,usd_millions,,808
-1975,industry,and other instruments,20,384–87,materials,128.0,usd_millions,,808
-1975,industry,and other instruments,20,384–87,other,208.0,usd_millions,,808
+1974,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,873.0,usd_millions,,808
+1974,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,292.0,usd_millions,,808
+1974,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,226.0,usd_millions,,808
+1974,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,143.0,usd_millions,,808
+1974,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,214.0,usd_millions,,808
+1975,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,906.0,usd_millions,,808
+1975,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_se,329.0,usd_millions,,808
+1975,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages_support,240.0,usd_millions,,808
+1975,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,128.0,usd_millions,,808
+1975,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,208.0,usd_millions,,808
 1974,industry,Other manufacturing industries,10,"27,31,39",total,174.0,usd_millions,,810
 1974,industry,Other manufacturing industries,10,"27,31,39",wages_se,63.0,usd_millions,,810
 1974,industry,Other manufacturing industries,10,"27,31,39",wages_support,41.0,usd_millions,,810
@@ -2223,14 +2223,14 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1977,industry,Scientific and mechanical measuring instruments,15,381–82,wages,,usd_millions,T,931
 1977,industry,Scientific and mechanical measuring instruments,15,381–82,materials,,usd_millions,T,931
 1977,industry,Scientific and mechanical measuring instruments,15,381–82,other,,usd_millions,T,931
-1976,industry,and other instruments,20,384–87,total,974.0,usd_millions,,933
-1976,industry,and other instruments,20,384–87,wages,,usd_millions,S,933
-1976,industry,and other instruments,20,384–87,materials,,usd_millions,S,933
-1976,industry,and other instruments,20,384–87,other,,usd_millions,S,933
-1977,industry,and other instruments,20,384–87,total,1030.0,usd_millions,,933
-1977,industry,and other instruments,20,384–87,wages,,usd_millions,S,933
-1977,industry,and other instruments,20,384–87,materials,,usd_millions,S,933
-1977,industry,and other instruments,20,384–87,other,,usd_millions,S,933
+1976,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,974.0,usd_millions,,933
+1976,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,,usd_millions,S,933
+1976,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,,usd_millions,S,933
+1976,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,,usd_millions,S,933
+1977,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,1030.0,usd_millions,,933
+1977,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,,usd_millions,S,933
+1977,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,,usd_millions,S,933
+1977,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,,usd_millions,S,933
 1976,industry,Other manufacturing industries,10,"27,31,39",total,217.0,usd_millions,,935
 1976,industry,Other manufacturing industries,10,"27,31,39",wages,126.0,usd_millions,,935
 1976,industry,Other manufacturing industries,10,"27,31,39",materials,34.0,usd_millions,,935
@@ -2479,14 +2479,14 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1981,industry,Scientific and mechanical measuring instruments,15,381–82,wages,,usd_millions,T,1056
 1981,industry,Scientific and mechanical measuring instruments,15,381–82,materials,,usd_millions,T,1056
 1981,industry,Scientific and mechanical measuring instruments,15,381–82,other,,usd_millions,T,1056
-1979,industry,and other instruments,20,384–87,total,1449.0,usd_millions,,1058
-1979,industry,and other instruments,20,384–87,wages,,usd_millions,T,1058
-1979,industry,and other instruments,20,384–87,materials,,usd_millions,T,1058
-1979,industry,and other instruments,20,384–87,other,,usd_millions,T,1058
-1981,industry,and other instruments,20,384–87,total,,usd_millions,T,1058
-1981,industry,and other instruments,20,384–87,wages,,usd_millions,T,1058
-1981,industry,and other instruments,20,384–87,materials,297.0,usd_millions,,1058
-1981,industry,and other instruments,20,384–87,other,,usd_millions,T,1058
+1979,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,1449.0,usd_millions,,1058
+1979,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,,usd_millions,T,1058
+1979,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,,usd_millions,T,1058
+1979,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,,usd_millions,T,1058
+1981,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,,usd_millions,T,1058
+1981,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,,usd_millions,T,1058
+1981,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,297.0,usd_millions,,1058
+1981,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,,usd_millions,T,1058
 1979,industry,Other manufacturing industries,10,"27,31,39",total,304.0,usd_millions,,1060
 1979,industry,Other manufacturing industries,10,"27,31,39",wages,,usd_millions,T,1060
 1979,industry,Other manufacturing industries,10,"27,31,39",materials,44.0,usd_millions,,1060
@@ -2739,14 +2739,14 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1985,industry,Scientific and mechanical measuring instruments,15,381–82,wages,52.9,pct_of_total,,1181
 1985,industry,Scientific and mechanical measuring instruments,15,381–82,materials,15.5,pct_of_total,,1181
 1985,industry,Scientific and mechanical measuring instruments,15,381–82,other,31.6,pct_of_total,,1181
-1983,industry,and other instruments,20,384–87,total,,usd_millions,T,1183
-1983,industry,and other instruments,20,384–87,wages,,usd_millions,T,1183
-1983,industry,and other instruments,20,384–87,materials,,usd_millions,T,1183
-1983,industry,and other instruments,20,384–87,other,,usd_millions,T,1183
-1985,industry,and other instruments,20,384–87,total,,usd_millions,,1183
-1985,industry,and other instruments,20,384–87,wages,66.2,pct_of_total,,1183
-1985,industry,and other instruments,20,384–87,materials,15.8,pct_of_total,,1183
-1985,industry,and other instruments,20,384–87,other,18.0,pct_of_total,,1183
+1983,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,,usd_millions,T,1183
+1983,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,,usd_millions,T,1183
+1983,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,,usd_millions,T,1183
+1983,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,,usd_millions,T,1183
+1985,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,,usd_millions,,1183
+1985,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,66.2,pct_of_total,,1183
+1985,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,15.8,pct_of_total,,1183
+1985,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,18.0,pct_of_total,,1183
 1983,industry,Other manufacturing industries,10,"27,31,39",total,,usd_millions,T,1185
 1983,industry,Other manufacturing industries,10,"27,31,39",wages,306.0,usd_millions,,1185
 1983,industry,Other manufacturing industries,10,"27,31,39",materials,,usd_millions,T,1185
@@ -3003,14 +3003,14 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1989,industry,Scientific and mechanical measuring instruments,15,381–82,wages,52.3,pct_of_total,,1306
 1989,industry,Scientific and mechanical measuring instruments,15,381–82,materials,11.3,pct_of_total,,1306
 1989,industry,Scientific and mechanical measuring instruments,15,381–82,other,36.3,pct_of_total,,1306
-1987,industry,and other instruments,20,384–87,total,,usd_millions,D,1308
-1987,industry,and other instruments,20,384–87,wages,48.6,pct_of_total,,1308
-1987,industry,and other instruments,20,384–87,materials,18.6,pct_of_total,,1308
-1987,industry,and other instruments,20,384–87,other,32.8,pct_of_total,,1308
-1989,industry,and other instruments,20,384–87,total,3895.0,usd_millions,,1308
-1989,industry,and other instruments,20,384–87,wages,42.8,pct_of_total,,1308
-1989,industry,and other instruments,20,384–87,materials,15.0,pct_of_total,,1308
-1989,industry,and other instruments,20,384–87,other,42.3,pct_of_total,,1308
+1987,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,,usd_millions,D,1308
+1987,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,48.6,pct_of_total,,1308
+1987,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,18.6,pct_of_total,,1308
+1987,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,32.8,pct_of_total,,1308
+1989,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,3895.0,usd_millions,,1308
+1989,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,42.8,pct_of_total,,1308
+1989,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,15.0,pct_of_total,,1308
+1989,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,42.3,pct_of_total,,1308
 1987,industry,Other manufacturing industries,10,"27,31,39",total,,usd_millions,D,1310
 1987,industry,Other manufacturing industries,10,"27,31,39",wages,58.8,pct_of_total,,1310
 1987,industry,Other manufacturing industries,10,"27,31,39",materials,10.7,pct_of_total,,1310
@@ -3267,14 +3267,14 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1993,industry,Scientific and mechanical measuring instruments,15,381–82,wages,45.710015251652266,pct_of_total,,1431
 1993,industry,Scientific and mechanical measuring instruments,15,381–82,materials,13.828435858329097,pct_of_total,,1431
 1993,industry,Scientific and mechanical measuring instruments,15,381–82,other,40.46154889001864,pct_of_total,,1431
-1991,industry,and other instruments,20,384–87,total,4471.0,usd_millions,,1433
-1991,industry,and other instruments,20,384–87,wages,44.6,pct_of_total,,1433
-1991,industry,and other instruments,20,384–87,materials,21.8,pct_of_total,,1433
-1991,industry,and other instruments,20,384–87,other,33.6,pct_of_total,,1433
-1993,industry,and other instruments,20,384–87,total,4387.0,usd_millions,,1433
-1993,industry,and other instruments,20,384–87,wages,49.988602689765216,pct_of_total,,1433
-1993,industry,and other instruments,20,384–87,materials,20.20743104627308,pct_of_total,,1433
-1993,industry,and other instruments,20,384–87,other,29.803966263961705,pct_of_total,,1433
+1991,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,4471.0,usd_millions,,1433
+1991,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,44.6,pct_of_total,,1433
+1991,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,21.8,pct_of_total,,1433
+1991,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,33.6,pct_of_total,,1433
+1993,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,4387.0,usd_millions,,1433
+1993,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,49.988602689765216,pct_of_total,,1433
+1993,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,20.20743104627308,pct_of_total,,1433
+1993,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,29.803966263961705,pct_of_total,,1433
 1991,industry,Other manufacturing industries,10,"27,31,39",total,,usd_millions,D,1435
 1991,industry,Other manufacturing industries,10,"27,31,39",wages,59.0,pct_of_total,,1435
 1991,industry,Other manufacturing industries,10,"27,31,39",materials,9.4,pct_of_total,,1435
@@ -3539,14 +3539,14 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1997,industry,Scientific and mechanical measuring instruments,15,381–82,wages,54.2,pct_of_total,,1556
 1997,industry,Scientific and mechanical measuring instruments,15,381–82,materials,12.5,pct_of_total,,1556
 1997,industry,Scientific and mechanical measuring instruments,15,381–82,other,33.3,pct_of_total,,1556
-1995,industry,and other instruments,20,384–87,total,4831.0,usd_millions,,1558
-1995,industry,and other instruments,20,384–87,wages,53.075199999999995,pct_of_total,,1558
-1995,industry,and other instruments,20,384–87,materials,16.0176,pct_of_total,,1558
-1995,industry,and other instruments,20,384–87,other,30.907200000000003,pct_of_total,,1558
-1997,industry,and other instruments,20,384–87,total,5323.0,usd_millions,,1558
-1997,industry,and other instruments,20,384–87,wages,53.6,pct_of_total,,1558
-1997,industry,and other instruments,20,384–87,materials,15.0,pct_of_total,,1558
-1997,industry,and other instruments,20,384–87,other,31.4,pct_of_total,,1558
+1995,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,4831.0,usd_millions,,1558
+1995,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,53.075199999999995,pct_of_total,,1558
+1995,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,16.0176,pct_of_total,,1558
+1995,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,30.907200000000003,pct_of_total,,1558
+1997,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,5323.0,usd_millions,,1558
+1997,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,53.6,pct_of_total,,1558
+1997,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,15.0,pct_of_total,,1558
+1997,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,31.4,pct_of_total,,1558
 1995,industry,Other manufacturing industries,10,"27,31,39",total,,usd_millions,D,1560
 1995,industry,Other manufacturing industries,10,"27,31,39",wages,68.32900000000001,pct_of_total,,1560
 1995,industry,Other manufacturing industries,10,"27,31,39",materials,12.785699999999999,pct_of_total,,1560
@@ -3667,14 +3667,14 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1997,industry,Health services,15,80,wages,49.7,pct_of_total,,1596
 1997,industry,Health services,15,80,materials,28.6,pct_of_total,,1596
 1997,industry,Health services,15,80,other,21.7,pct_of_total,,1596
-1995,industry,"hospitals, medical and dental labs",25,"801,806,807",total,,usd_millions,D,1598
-1995,industry,"hospitals, medical and dental labs",25,"801,806,807",wages,48.0844,pct_of_total,,1598
-1995,industry,"hospitals, medical and dental labs",25,"801,806,807",materials,25.185599999999997,pct_of_total,,1598
-1995,industry,"hospitals, medical and dental labs",25,"801,806,807",other,26.73,pct_of_total,,1598
-1997,industry,"hospitals, medical and dental labs",25,"801,806,807",total,,usd_millions,D,1598
-1997,industry,"hospitals, medical and dental labs",25,"801,806,807",wages,50.4,pct_of_total,,1598
-1997,industry,"hospitals, medical and dental labs",25,"801,806,807",materials,29.8,pct_of_total,,1598
-1997,industry,"hospitals, medical and dental labs",25,"801,806,807",other,19.8,pct_of_total,,1598
+1995,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",total,,usd_millions,D,1598
+1995,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",wages,48.0844,pct_of_total,,1598
+1995,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",materials,25.185599999999997,pct_of_total,,1598
+1995,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",other,26.73,pct_of_total,,1598
+1997,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",total,,usd_millions,D,1598
+1997,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",wages,50.4,pct_of_total,,1598
+1997,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",materials,29.8,pct_of_total,,1598
+1997,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",other,19.8,pct_of_total,,1598
 1995,industry,Other health services,20,"802–805,808–809",total,,usd_millions,D,1599
 1995,industry,Other health services,20,"802–805,808–809",wages,85.9,pct_of_total,S,1599
 1995,industry,Other health services,20,"802–805,808–809",materials,9.632,pct_of_total,,1599
@@ -3942,11 +3942,11 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1998,industry,Scientific and mechanical measuring instruments,15,381–82,depreciation,0.3,pct_of_total,,1679
 1998,industry,Scientific and mechanical measuring instruments,15,381–82,materials,12.8,pct_of_total,S,1679
 1998,industry,Scientific and mechanical measuring instruments,15,381–82,other,32.8,pct_of_total,S,1679
-1998,industry,and other instruments,20,384–87,total,6085.0,usd_millions,,1681
-1998,industry,and other instruments,20,384–87,wages,51.8,pct_of_total,S,1681
-1998,industry,and other instruments,20,384–87,depreciation,0.7352881144000001,pct_of_total,,1681
-1998,industry,and other instruments,20,384–87,materials,14.5,pct_of_total,S,1681
-1998,industry,and other instruments,20,384–87,other,32.9,pct_of_total,S,1681
+1998,industry,"Optical, surgical, photographic, and other instruments",20,384–87,total,6085.0,usd_millions,,1681
+1998,industry,"Optical, surgical, photographic, and other instruments",20,384–87,wages,51.8,pct_of_total,S,1681
+1998,industry,"Optical, surgical, photographic, and other instruments",20,384–87,depreciation,0.7352881144000001,pct_of_total,,1681
+1998,industry,"Optical, surgical, photographic, and other instruments",20,384–87,materials,14.5,pct_of_total,S,1681
+1998,industry,"Optical, surgical, photographic, and other instruments",20,384–87,other,32.9,pct_of_total,S,1681
 1998,industry,Other manufacturing industries,10,"27,31,39",total,2795.0,usd_millions,,1683
 1998,industry,Other manufacturing industries,10,"27,31,39",wages,79.5,pct_of_total,S,1683
 1998,industry,Other manufacturing industries,10,"27,31,39",depreciation,0.3,pct_of_total,,1683
@@ -4022,11 +4022,11 @@ year,section,label,indent,sic,variable,value,unit,flag,src_row
 1998,industry,Health services,15,80,depreciation,0.0,pct_of_total,,1717
 1998,industry,Health services,15,80,materials,20.2,pct_of_total,,1717
 1998,industry,Health services,15,80,other,14.9,pct_of_total,,1717
-1998,industry,"hospitals, medical and dental labs",25,"801,806,807",total,1096.0,usd_millions,,1719
-1998,industry,"hospitals, medical and dental labs",25,"801,806,807",wages,64.8,pct_of_total,,1719
-1998,industry,"hospitals, medical and dental labs",25,"801,806,807",depreciation,0.0,pct_of_total,,1719
-1998,industry,"hospitals, medical and dental labs",25,"801,806,807",materials,21.5,pct_of_total,,1719
-1998,industry,"hospitals, medical and dental labs",25,"801,806,807",other,13.7,pct_of_total,,1719
+1998,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",total,1096.0,usd_millions,,1719
+1998,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",wages,64.8,pct_of_total,,1719
+1998,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",depreciation,0.0,pct_of_total,,1719
+1998,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",materials,21.5,pct_of_total,,1719
+1998,industry,"Offices and clinics of medical doctors, hospitals, medical and dental labs",25,"801,806,807",other,13.7,pct_of_total,,1719
 1998,industry,Other health services,20,"802–805,808–809",total,111.0,usd_millions,,1720
 1998,industry,Other health services,20,"802–805,808–809",wages,66.2,pct_of_total,,1720
 1998,industry,Other health services,20,"802–805,808–809",depreciation,0.5,pct_of_total,,1720

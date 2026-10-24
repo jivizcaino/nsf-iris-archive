@@ -24,7 +24,7 @@ hdr = list(df.index[df[0].astype(str).str.contains("Industry and size", na=False
 rows = []
 for a, b in zip(hdr[:-1], hdr[1:]):
     years = [year_of(df.iloc[a, 2]), year_of(df.iloc[a, 7])]
-    section = "industry"
+    section = "industry"; pending = ""
     for r in range(a + 7, b):
         lab = df.iloc[r, 0]
         if pd.isna(lab): continue
@@ -34,6 +34,10 @@ for a, b in zip(hdr[:-1], hdr[1:]):
         if "Distribution by industry" in lab_s or "[Number of" in lab_s: continue
         name = re.sub(r"[.…]+$", "", re.sub(r"[.…]{2,}.*$", "", lab_s)).rstrip()
         name_clean = re.sub(r"(\D)\d$", r"\1", name.strip())
+        if name_clean.endswith(","):  # label wraps onto the next line
+            pending = name_clean + " "; continue
+        if pending and name_clean[:1].islower(): name_clean = pending + name_clean
+        pending = ""
         indent = len(lab_s) - len(lab_s.lstrip())
         sic = df.iloc[r, 1]
         for k, y in enumerate(years):
