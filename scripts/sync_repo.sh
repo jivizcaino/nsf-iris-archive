@@ -8,6 +8,7 @@ cp "$SRC/crawl/crawl2_log.tsv" "$SRC/crawl/state2.json" "$DST/raw/logs/"
 cp -u "$SRC"/scripts/* "$DST/scripts/"
 cp -u "$SRC"/data/* "$DST/data/" 2>/dev/null || true
 cp -u "$SRC/README.md" "$DST/README.md"
+mkdir -p "$DST/raw_berd2023"; cp -u "$SRC"/berd/raw/x/*/*.xlsx "$SRC"/berd/raw/x/*.xlsx "$DST/raw_berd2023/" 2>/dev/null || true
 cd "$DST"
 git checkout -q -B "$BR" 2>/dev/null || true
 git add -A

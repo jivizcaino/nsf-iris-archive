@@ -45,6 +45,26 @@ File: `raw/pages/excel-files_nsf_2007_36.xls`.
 - Type-of-cost data come only from Form RD-1, the questionnaire sent to larger R&D performers. The cost-type universe is therefore smaller than total industrial R&D. This also explains why h-27 totals fall below published total industrial R&D in early years.
 - Industry estimates from 2004 onward are not directly comparable with earlier years (change in the method that assigns industry codes).
 
+## BERD 2023 (NSF 25-354)
+
+Source: https://ncses.nsf.gov/surveys/business-enterprise-research-development/2023. All 76 Excel tables are in `raw_berd2023/`. Extract of table 10: `data/berd2023_tab10_type_of_cost.csv`.
+
+Tables relevant to the panel, all by NAICS industry (about 70 rows, including detailed nonmanufacturing) and company size:
+
+| Table | Content |
+|---|---|
+| 10 | Domestic R&D performed by the company, all funders, by type of cost. Same concept as IRIS cost-by-type tables. |
+| 25, 32 | Same, company-funded and funded by others. |
+| 45 | Capital expenditures, including domestic R&D capital expenditures by type of asset (flow, not stock). |
+| 46, 47 | Total and R&D employment (headcount); R&D cost per R&D employee. |
+| 52 | FTE R&D employees and FTE R&D scientists and engineers. Same FTE concept as SIRD up to 2007. |
+| 65 | R&D, depreciation, R&D capital expenditures, and R&D adjusted for capitalization. |
+| 57, 58 | R&D by industry, 2008 (or 2009) to 2023. |
+
+Type-of-cost items in table 10: salaries, wages, and fringe benefits; stock-based compensation; temporary staffing; expensed equipment; materials and supplies; lease and rental; depreciation; royalties and licensing; other purchased services; other.
+
+Labour share of total cost, all industries, 2023: 53.7 percent for salaries, wages, and fringe benefits; 69.7 percent adding stock-based compensation (11.7) and temporary staffing (4.2). Comparable 2007 SIRD figure: 56.8 percent (wages 46.7 plus fringe benefits 10.1). Stock-based compensation and temporary staffing are not separate items in SIRD; their treatment there must be checked in the technical notes.
+
 ## Open questions
 
 1. Whether "wages" in 1962 to 1998 includes fringe benefits, or whether fringe benefits sit in "other costs". The technical notes (`tn.doc`) for each year should settle this. They are in the crawl queue.
