@@ -1,0 +1,613 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="file:///z|/Templates/dst-content-template.dwt" codeOutsideHTMLIsLocked="false" -->
+
+ 
+<head><!-- Start Wayback Rewrite JS Include -->
+<script type="text/javascript" src="/static/js/wombat.js?v=uVfyaniA" charset="utf-8"></script>
+<script type="text/javascript">
+if (window._WBWombatInit) {
+  _wb_uc = new URL("https://www.nsf.gov/statistics/nsf11301/content.cfm?pub_id=3956&id=2");
+  wbinfo = {}
+  wbinfo.url = "https://www.nsf.gov/statistics/nsf11301/content.cfm?pub_id=3956&id=2";
+  wbinfo.timestamp = "20181004234713";
+  wbinfo.request_ts = "20181004234713";
+  wbinfo.prefix = "https://wayback.archive-it.org/5902/";
+  wbinfo.mod = "";
+  wbinfo.is_framed = false;
+  wbinfo.is_live = false;
+  wbinfo.coll = "5902";
+  wbinfo.proxy_magic = "";
+  wbinfo.static_prefix = "/static/";
+  wbinfo.enable_auto_fetch = true;
+  wbinfo.auto_fetch_worker_prefix = "https://wayback.archive-it.org/5902/";
+  wbinfo.wombat_ts = "20181004234713";
+  wbinfo.wombat_sec = "1538696833";
+  wbinfo.wombat_scheme = ( _wb_uc.protocol || 'http').replace(/:$/, '');
+  wbinfo.wombat_host = _wb_uc.host;
+  wbinfo.wombat_opts = {
+    no_rewrite_prefixes: [
+                            "https://wayback.archive-it.org/5902/",
+                            "//archive-it.org/",
+                            "https://partner.archive-it.org/",
+                          ]
+  };
+  window._WBWombatInit(wbinfo);
+
+  // variables useful for rulesengine rewrites from old ait-client_rewrite.js
+  WB_RewriteUrl = _wb_wombat.rewrite_url;
+  WB_ExtractOrig = _wb_wombat.extract_orig;
+  WB_wombat_self_location = window.WB_wombat_location
+}
+</script>
+<script type="text/javascript" src="https://partner.archive-it.org/static/AIT_Analytics.js" async="async"></script>
+<!-- End Wayback Rewrite JS Include -->
+
+
+		
+
+<style>
+.errataicon, a.errataicon:link, a.errataicon:visited, a.errataicon:hover, a.errataicon:active {
+	background-position: left top;
+	background-repeat: no-repeat;
+	padding-bottom: 12px;
+	padding-top: 10px;
+}
+
+.errata {
+	background-image:url(/5902/20181004234713im_/https://www.nsf.gov/statistics/graphics/errata_icon.gif);
+}
+-->
+</style>
+
+
+    <script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/statistics/js/highslide-full.js"></script>
+    <script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/statistics/js/lightboxconfig.js"></script>
+    <link rel="stylesheet" type="text/css" href="/5902/20181004234713cs_/https://www.nsf.gov/statistics/css/highslide.css"/>
+    <script language="javascript"> 
+    function toggle(rowNum) {
+        var ele = document.getElementById("toggleText" + rowNum);
+        var text = document.getElementById("displayText" + rowNum);
+        if(ele.style.display == "none") {
+                ele.style.display = "block";
+                text.innerHTML = "close -";
+        }
+        else {
+            ele.style.display = "none";
+            text.innerHTML = "expand +";
+        }
+    } 
+    </script>
+
+    
+		
+	
+                 
+<!--
+     FILE ARCHIVED ON 23:47:13 Oct 04, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:18:43 Oct 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+	urlKey(b'gov,nsf)/statistics/nsf11301/content.cfm?id=2&pub_id=3956')
+-->
+<div class="hideFromPrint">
+ 		    
+    </div>    
+
+<title>nsf.gov - NCSES Research and Development in Industry:  2006&#8211;07 - US National Science Foundation (NSF)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta name="creator" content="NSF-NCSES"/>
+<meta name="language" content="English"/>
+<meta name="created" content="Jun 24, 2011"/>
+<meta name="subject" content="Research and Development in Industry:  2006?07"/>
+<meta name="publication-date" content="2011-06-24"/>
+<meta name="author" content="National Science Foundation"/>
+<meta name="keywords" content=""/>
+<meta name="pubtype" content="DST"/>
+<meta name="pubyear" content="2011"/>
+<meta name="Description" content="[NSF 11-301] This report presents all of the statistics produced from the 2006 and 2007 cycles of the Survey of Industrial Research and Development, by size of company, the sources of R&amp;D funds, character of R&amp;D, and industry using the North American Industrial Classification System (NAICS).  Also included are tables covering historical trends in R&amp;D; R&amp;D as a percentage of sales, employment, and cost of R&amp;D scientists and engineers; and R&amp;D statistics by state."/>
+
+<meta name="MainTopic" content="Business and Industry"/>
+<meta name="SubTopic" content="Funding"/>
+<meta name="SubTopic" content="Geographic"/>
+<meta name="SubTopic" content="Innovation"/>
+<meta name="SubTopic" content="Research and Development"/>
+<meta name="SubTopic" content="Trends"/>
+<meta name="SubTopic" content="Workforce"/>
+<meta name="MainTopic" content="Federal Government"/>
+<meta name="SubTopic" content="Funding"/>
+<meta name="MainTopic" content="Research and Development"/>
+<meta name="SubTopic" content="Business and Industry"/>
+<meta name="SubTopic" content="Expenditures"/>
+<meta name="MainTopic" content="Workforce"/>
+<meta name="SubTopic" content="Business and Industry"/> <link rel="shortcut icon" href="/5902/20181004234713im_/https://www.nsf.gov/images/favicon.ico" type="image/x-icon"/>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]>  <html class="no-js" lang="en"> <![endif]-->
+<!--[if ! lte IE 6]><!-->
+  <link rel="stylesheet" type="text/css" media="screen" href="/5902/20181004234713cs_/https://www.nsf.gov/css/style1.css"/>
+  <link rel="stylesheet" type="text/css" href="/5902/20181004234713cs_/https://www.nsf.gov/css/main-slides.css" media="screen, projection"/>
+  <link rel="stylesheet" type="text/css" media="screen" href="/5902/20181004234713cs_/https://www.nsf.gov/css/tooltips.css"/>
+  <link rel="stylesheet" type="text/css" href="/5902/20181004234713cs_/https://www.nsf.gov/css/printStyle.css" media="print" title="Printer-Friendly Style">
+
+	
+		<link rel="STYLESHEET" type="text/css" href="/5902/20181004234713cs_/https://www.nsf.gov/statistics/css/srsglobal.css"/>
+	
+<!--<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="https://universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection">
+<![endif]-->
+
+<!--  <link rel="alternate stylesheet" type="text/css" href="/css/printStyle.css" media="print" title="Printer-Friendly Style" >
+
+-->
+
+
+<script language="JavaScript">
+
+var printFlag = false;
+
+
+function printThisPage() {
+
+
+	document.getElementById('printFriendly').style.display='none';
+	document.getElementById('printFriendly2').style.display='none';
+	document.getElementById('printFriendly3').style.display='none';
+	//document.getElementById('printFriendly5').style.display='none';
+	//document.getElementById('printFriendly6').style.display='none';
+
+	  var oldlink = document.getElementsByTagName("link").item(0);
+
+      var newlink = document.createElement("link")
+      newlink.setAttribute("rel", "stylesheet");
+      newlink.setAttribute("type", "text/css");
+      newlink.setAttribute("href", "/css/printStyle_js.css");
+      newlink.setAttribute("media", "screen");
+      document.getElementsByTagName("head").item(0).replaceChild(newlink, oldlink);
+
+    window.print();
+
+	opener.printFlag = false;
+
+}
+
+function printerFriendlyView()
+{
+   printFlag = true;
+   var printerFriendlyViewWin = window.open(document.URL, "printerFriendlyViewWin","menubar=1,toolbar=0,scrollbars=1,alwaysRaised=1,width=600,height=600,resizable=1");
+
+}
+
+</script>
+<!--  Addthis - 3rd party bookmarking utility -->
+<script src="/5902/20181004234713js_/https://www.nsf.gov/js/addthis_custom.js" type="text/javascript"></script>
+<script async id="_fed_an_ua_tag" type="text/javascript" src="https://wayback.archive-it.org/5902/20181004234713js_/https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NSF&amp;dclink=true&amp;ver=true&amp;exts=doc,docx,xls,xlsx,xlsm,ppt,pptx,exe,zip,pdf,js,txt,csv,dxf,wmv,jpg,wma,mov,avi,mp3,mp4,csv"></script> 
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//wayback.archive-it.org/5902/20181004234713/https://script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
+
+<div class="outer-wrapper">
+  <div class="inner-wrapper">
+<style type="text/css">
+<!--
+body {
+	margin-left: 30px ;
+	margin-right: 30px ; 
+	 }	 
+-->
+</style>
+
+	<link rel="stylesheet" type="text/css" href="/5902/20181004234713cs_/https://www.nsf.gov/statistics/css/dst.css"/>
+	<link rel="stylesheet" type="text/css" href="/5902/20181004234713cs_/https://www.nsf.gov/statistics/css/print_dst.css" media="print"/>
+
+    <!-- InstanceBeginEditable name="head" --><title>Untitled Document</title><!-- InstanceEndEditable -->
+</head>	
+<body background="/5902/20181004234713im_/https://www.nsf.gov/images/bg.gif">
+<a href="https://wayback.archive-it.org/5902/20181004234713/https://assistive.usablenet.com/tt/referrer"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" alt="text-only page produced automatically by LIFT Text
+Transcoder" width="0" height="0" border="0"/></a> 
+
+<a href="#content"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" alt="Skip all navigation and go to page content" width="1" height="1" border="0"/></a><a href="#directorate"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" alt="Skip top navigation and go to directorate navigation" width="1" height="1" border="0"/></a><a href="#sidenav"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" alt="Skip top navigation and go to page navigation" width="1" height="1" border="0"/></a>
+<a name="top" id="top"></a> 
+
+<table width="749" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff"> 
+<tr> 
+    <td bgcolor="#e6e6e6" colspan="3"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="1" height="3" alt="" border="0"/></td> 
+  </tr>
+  <tr> 
+    <td bgcolor="#e6e6e6" colspan="3"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td> 
+  </tr>
+  <tr> 
+    <td bgcolor="#e6e6e6"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="5" height="1" alt="" border="0"/></td> 
+    <td class="headmark" bgcolor="#e6e6e6">
+    
+	<table border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td bgcolor="#b5b5b5"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td>
+			<td bgcolor="#b5b5b5"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="414" height="1" alt="" border="0"/></td>
+			<td bgcolor="#b5b5b5"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="324" height="1" alt="" border="0"/></td>
+			<td bgcolor="#b5b5b5"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td>
+		</tr>
+		<tr>
+    		<td bgcolor="#b5b5b5"><img style="display:none;" src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td> 
+			<td class="hyperimage"><a href="/5902/20181004234713/https://www.nsf.gov/index.jsp"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/head.gif" alt="National Science Foundation" title="National Science Foundation" width="414" height="80" border="0"/></a></td>
+			<td><a href="/5902/20181004234713/https://www.nsf.gov/statistics/"><img src="/5902/20181004234713im_/https://www.nsf.gov/statistics/graphics/srs_masthead-right.gif" alt="National Center for Science and Engineering Statistics" title="National Center for Science and Engineering Statistics" width="324" height="80" border="0"/></a></td>
+
+    		<td bgcolor="#b5b5b5"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td> 
+		</tr>
+		<tr>
+    		<td bgcolor="#b5b5b5" colspan="4"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td> 
+		</tr>
+	</table>
+    
+	</td> 
+    <td bgcolor="#e6e6e6"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="5" height="1" alt="" border="0"/></td> 
+  </tr> 
+   <tr> 
+    <td bgcolor="#e6e6e6" colspan="3"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="1" height=".2em" alt="" border="0"/></td>
+  </tr> 
+  <tr>  
+    <td bgcolor="#e6e6e6"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="5" height="1" alt="" border="0"/></td>   
+    <td>
+
+   		
+<div id="contentwrapper">
+
+<div id="wrapper2">
+		<!-- Start right column --> 	
+    <div id="wrapper3sidenav">
+    	<strong><a href="start.cfm">Contents</a></strong><br/>
+		<hr size="1"/>
+			
+					<a href="content.cfm?pub_id=3956&amp;id=1">General Notes</a><br/><br/>
+				References<br/><br/>
+				
+					<a href="content.cfm?pub_id=3956&amp;id=3">Data Tables</a><br/><br/>
+				
+					<a href="content.cfm?pub_id=3956&amp;id=4">Appendix A. Technical Notes</a><br/><br/>
+				
+					<a href="content.cfm?pub_id=3956&amp;id=5">Appendix B. Survey Documents</a><br/><br/>
+				
+					<a href="content.cfm?pub_id=3956&amp;id=6">Suggested Citation, Acknowledgments</a><br/><br/>
+				
+
+ 			
+		<br/>
+		<div id="stafflist" class="ftr_greytext">
+			<br/>
+			
+				<a href="https://wayback.archive-it.org/5902/20181004234713/mailto:rwolfe@nsf.gov">
+				Raymond&nbsp;M.&nbsp;Wolfe</a>,
+				<br/> Project Officer
+				<br/>(703) 292-7789
+				<br/>Research and Development Statistics Program<br/>
+			
+				<br/><a href="/5902/20181004234713/https://www.nsf.gov/statistics/">NCSES Home</a>	
+
+		</div>
+
+	</div> <!-- wrapper3sidenav	-->	 		
+	<!-- End right column -->
+
+		
+	<div id="wrapper4main">
+	<!-- Start main content include -->
+		<a name="content" id="content"></a>
+        	<div class="hideFromPrint"><span class="runningheader">Research and Development in Industry:  2006&#8211;07</span><br/></div>
+            <div class="hideFromPrint" style="margin-bottom:-5px;">
+				
+                         <div style="float:right; width:250px; margin-top:.7em;"><div style="float:left; padding-right:4px;"><img src="/5902/20181004234713im_/https://www.nsf.gov/statistics/graphics/icons/old_data.png"/></div><div style="font-weight:bold; padding-top:5px;"><a href="/5902/20181004234713/https://www.nsf.gov/statistics/pubseri.cfm?seri_id=26" title="Newer information is available." alt="Newer information is available.">Newer information is available.</a></div></div><br/>
+                    
+           </div>
+<p>&nbsp;</p>
+			<img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="1" height="10" alt="" border="0"/><br/> 
+			
+			
+	<h1>References</h1>
+
+								
+		<div class="horizontal" width="80%">&nbsp; </div>						
+				
+<div class="references">
+<p><a name="nsb2010" id="nsb2010"></a>National  Science Board (NSB). 2010. <em>Science and  Engineering Indicators 2010</em>. NSB 10-01. Arlington, VA: National Science  Foundation. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/seind10/">http://www.nsf.gov/statistics/seind10/</a>.</p>
+<p><a name="nsf1956" id="nsf1956"></a>National Science  Foundation (NSF). 1956. <em>Science and  Engineering in American Industry: Final Report on a 1953</em><em>-</em><em>54  Survey</em>. NSF 56-16. Washington, DC: U.S. Government  Printing Office.</p>
+<p><a name="nsf1960" id="nsf1960"></a>National Science  Foundation (NSF). 1960. <em>Science and  Engineering in American Industry: 1956</em>. NSF 59-50. Washington, DC: U.S.  Government Printing Office.</p>
+<p><a name="nsf1993" id="nsf1993"></a>National Science Foundation (NSF). 1993. <em>Research and Development in Industry: 1990.</em> NSF 94-304. Arlington, VA. </p>
+<p><a name="nsf1994a" id="nsf1994a"></a>National  Science Foundation (NSF). 1994a. <em>1992  R&amp;D Spending by U.S. Firms Rises, NSF Survey Improved.</em> Data Brief NSF  94-317. Arlington, VA.</p>
+<p><a name="nsf1994b" id="nsf1994b"></a>National Science Foundation (NSF). 1994b. <em>Research and Development in Industry: 1991.</em> Detailed Statistical Tables NSF 94-325. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/s2491/">http://www.nsf.gov/statistics/s2491/</a>. </p>
+<p><a name="nsf1995a" id="nsf1995a"></a>National  Science Foundation (NSF). 1995a. <em>1993  Spending Falls for U.S. Industrial R&amp;D, Nonmanufacturing Share Increases.</em> Data Brief NSF 95-325. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/databrf/db95325.htm">http://www.nsf.gov/statistics/databrf/db95325.htm</a>.</p>
+<p><a name="nsf1995b" id="nsf1995b"></a>National Science Foundation (NSF). 1995b. <em>Research  and Development in Industry: 1992</em>. Detailed Statistical Tables NSF 95-324. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/s2492/">http://www.nsf.gov/statistics/s2492/</a>.</p>
+<p><a name="nsf1996a" id="nsf1996a"></a>National Science Foundation (NSF). 1996a. <em>1994 Company Funding of U.S. Industrial  R&amp;D Rises as Federal Support Continues to Decline.</em> Data Brief NSF  96-310. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/databrf/sdb96310.htm">http://www.nsf.gov/statistics/databrf/sdb96310.htm</a>.</p>
+<p><a name="nsf1996b" id="nsf1996b"></a>National Science  Foundation (NSF). 1996b. <em>National  Patterns of R&amp;D Resources: 1996</em>. Special Report NSF 96-333. Arlington,  VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf96333/">http://www.nsf.gov/statistics/nsf96333/</a>.</p>
+<p><a name="nsf1996c" id="nsf1996c"></a>National Science Foundation (NSF). 1996c. <em>Research and Development in Industry: 1993. </em>Detailed Statistical Tables NSF 96-304. Arlington,  VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf96304/htmpdf.htm">http://www.nsf.gov/statistics/nsf96304/htmpdf.htm</a>.</p>
+<p><a name="nsf1997a" id="nsf1997a"></a>National Science Foundation (NSF). 1997a. <em>1995 U.S. Industrial R&amp;D Rises, NSF  Survey Statistics Expanded to Emphasize Role of Nonmanufacturing Industries.</em> Data Brief NSF 97-332. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/databrf/db97332.htm">http://www.nsf.gov/statistics/databrf/db97332.htm</a>.</p>
+<p><a name="nsf1997b" id="nsf1997b"></a>National Science Foundation (NSF). 1997b. <em>Research and Development in Industry: 1994. </em>Detailed  Statistical Tables NSF 97-331. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf97331/">http://www.nsf.gov/statistics/nsf97331/</a>.</p>
+<p><a name="nsf1998a" id="nsf1998a"></a>National Science Foundation (NSF). 1998a. <em>1996 U.S. Industrial R&amp;D: Firms Continue  to Increase Their Investment.</em> Data Brief NSF 98-317. Arlington, VA. Available  at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/databrf/db00320.htm">http://www.nsf.gov/statistics/databrf/db00320.htm</a>.</p>
+<p><a name="nsf1998b" id="nsf1998b"></a>National Science Foundation (NSF). 1998b. <em>Research and Development in Industry:  1995-96</em>. Detailed Statistical Tables NSF 99-312. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf99312/">http://www.nsf.gov/statistics/nsf99312/</a>. </p>
+<div class="pageBreak"></div>
+<p><a name="nsf1999a" id="nsf1999a"></a>National Science Foundation (NSF). 1999a. <em>1997  U.S. Industrial R&amp;D Performers.</em> Topical Report NSF 99-355.  Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf99355/">http://www.nsf.gov/statistics/nsf99355/</a>.</p>
+<p><a name="nsf1999b" id="nsf1999b"></a>National Science Foundation (NSF). 1999b. <em>Research and Development in Industry: 1997. </em>Detailed  Statistical Tables NSF 99-358. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf99358/">http://www.nsf.gov/statistics/nsf99358/</a>.</p>
+<p><a name="nsf2000a" id="nsf2000a"></a>National Science Foundation (NSF). 2000a. <em>1998  U.S. Industrial R&amp;D Performers Report Increase R&amp;D.</em> Data  Brief NSF 00-320. Arlington, VA. Available  at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/databrf/db00320.htm">http://www.nsf.gov/statistics/databrf/db00320.htm</a>.</p>
+<p><a name="nsf2000b" id="nsf2000b"></a>National Science Foundation (NSF). 2000b. <em>Research and Development in Industry: 1998. </em>Detailed  Statistical Tables NSF 01-305. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf01305/">http://www.nsf.gov/statistics/nsf01305/</a>.</p>
+<p><a name="nsf2001a" id="nsf2001a"></a>National Science Foundation (NSF). 2001a. <em>U.S.  Industrial R&amp;D Performers Report Increased R&amp;D in 1999; New Industry Coding  and Size Classifications for NSF Survey.</em> Data Brief NSF 01-326. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/databrf/nsf01326/db01326.htm">http://www.nsf.gov/statistics/databrf/nsf01326/db01326.htm</a>.</p>
+<p><a name="nsf2001b" id="nsf2001b"></a>National Science Foundation (NSF). 2001b. <em>U.S.  Industrial R&amp;D: NSF Announces New Information Retrieval System and  Historical Database.</em> Data Brief NSF 01-338. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/databrf/nsf01338/db01338.htm">http://www.nsf.gov/statistics/databrf/nsf01338/db01338.htm</a>.</p>
+<p><a name="nsf2002a" id="nsf2002a"></a>National Science Foundation (NSF). 2002a. <em>U.S. Industrial R&amp;D Expenditures and  R&amp;D-to-Sales Ratio Reach Historical Highs in 2000. </em>InfoBrief NSF  03-306. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/infbrief/nsf03306/">http://www.nsf.gov/statistics/infbrief/nsf03306/</a>.</p>
+<p><a name="nsf2002c" id="nsf2002c"></a>National  Science Foundation (NSF). 2002c. <em>Research  and Development in Industry: 1999</em>. Detailed Statistical TablesNSF 02-312. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf02312/">http://www.nsf.gov/statistics/nsf02312/</a>. </p>
+<p><a name="nsf2003a" id="nsf2003a"></a>National Science Foundation (NSF). 2003a. <em>Research and Development in Industry: 2000.</em> Detailed Statistical Tables NSF 03-318. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf03318/">http://www.nsf.gov/statistics/nsf03318/</a>. </p>
+<p><a name="nsf2003b" id="nsf2003b"></a>National  Science Foundation (NSF). 2003b. <em>U.S. Industry Sustains R&amp;D Expenditures Despite Decline in Performers&rsquo; Sales and Employment During 2001.</em> InfoBrief. NSF  04-301.  Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/infbrief/nsf04301/">http://www.nsf.gov/statistics/infbrief/nsf04301/</a>.</p>
+<p><a name="nsf2004" id="nsf2004"></a>National  Science Foundation (NSF). 2004. <em>Largest  Single-Year Decline in U.S. Industrial R&amp;D Expenditures Reported for 2002.</em> InfoBrief NSF 04-320. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/infbrief/nsf04320/">http://www.nsf.gov/statistics/infbrief/nsf04320/</a>.</p>
+<p><a name="nsf2005a" id="nsf2005a"></a>National  Science Foundation (NSF). 2005a. <em>Increase in U.S.  Industrial R&amp;D Expenditures Reported for 2003 Makes Up for Earlier  Decline.</em> InfoBrief NSF 06-305. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/infbrief/nsf06305/">http://www.nsf.gov/statistics/infbrief/nsf06305/</a>. </p>
+<p><a name="nsf2005b" id="nsf2005b"></a>National Science Foundation (NSF). 2005b. <em>Research and Development in Industry: 2001</em>.  Detailed Statistical Tables NSF 05-305. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf05305/">http://www.nsf.gov/statistics/nsf05305/</a>.</p>
+<p><a name="nsf2006a" id="nsf2006a"></a>National Science Foundation (NSF). 2006a. <em>U.S. Industrial  R&amp;D Performers Report Increased Expenditures for 2004. </em>InfoBrief NSF 07-304.  Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/infbrief/nsf07304/">http://www.nsf.gov/statistics/infbrief/nsf07304/</a>.</p>
+<p><a name="nsf2006b" id="nsf2006b"></a>National Science Foundation (NSF).  2006b. <em>National Patterns of R&amp;D  Resources: 2004 Data Update</em>. Detailed Statistical Tables NSF 06-327.  Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf08318/">http://www.nsf.gov/statistics/nsf06327/</a>.</p>
+<p><a name="nsf2006c" id="nsf2006c"></a>National Science Foundation (NSF). 2006c. <em>Research and Development in Industry: 2002</em>.  Detailed Statistical Tables NSF 06-322. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf06322/">http://www.nsf.gov/statistics/nsf06322/</a>.</p>
+<p><a name="nsf2007a" id="nsf2007a"></a>National Science Foundation (NSF). 2007a. <em>Research and Development in Industry: 2003</em>.  Detailed Statistical Tables NSF 07-314. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf07314/">http://www.nsf.gov/statistics/nsf07314/</a>.</p>
+<p><a name="nsf2007b" id="nsf2007b"></a>National Science Foundation (NSF).  2007b. <em>National Patterns of R&amp;D  Resources: 2006 Data Update</em>. Detailed Statistical Tables NSF 07-331.  Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf07331/">http://www.nsf.gov/statistics/nsf07331/</a>.</p>
+<p><a name="nsf2007c" id="nsf2007c"></a>National Science Foundation (NSF). 2007c. <em>Expenditures  for U.S. Industrial R&amp;D Continue to Increase in 2005; R&amp;D Performance  Geographically Concentrated.</em> InfoBrief NSF 07-335.  Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/infbrief/nsf07335/">http://www.nsf.gov/statistics/infbrief/nsf07335/</a>.</p>
+<p><a name="nsf2007d" id="nsf2007d"></a>National Science  Foundation (NSF). 2007d. <em>Revised Industry Classification  Better Reflects Structure of Business R&amp;D in the United States.</em> InfoBrief NSF  07-313. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/infbrief/nsf07313/">http://www.nsf.gov/statistics/infbrief/nsf07313/</a>.</p>
+<p><a name="nsf2008a" id="nsf2008a"></a>National Science Foundation (NSF). 2008a. <em>U.S. Industrial R&amp;D  Expenditures Increase in 2006; Companies&rsquo; Own and Federal Contributions Rise.</em> InfoBrief NSF 08-313.  Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/infbrief/nsf08313/">http://www.nsf.gov/statistics/infbrief/nsf08313/</a>.</p>
+<p><a name="nsf2008b" id="nsf2008b"></a>National Science  Foundation (NSF). 2008b. <em>Federal Research  and Development Funding by Budget Function: Fiscal Years 2007-09</em>. Detailed  Statistical Tables NSF 08-315. Arlington, VA. Available at  <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf08315/">http://www.nsf.gov/statistics/nsf08315/</a>.</p>
+<p><a name="nsf2008c" id="nsf2008c"></a>National Science Foundation (NSF).  2008c. <em>National Patterns of R&amp;D  Resources: 2007 Data Update</em>. Detailed Statistical Tables NSF 08-318. Available  at Arlington, VA. <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf08318/">http://www.nsf.gov/statistics/nsf08318/</a>.</p>
+<p><a name="nsf2009a" id="nsf2009a"></a>National Science  Foundation (NSF). 2009a. <em>Research  and Development in Industry: 2004.</em> Detailed Statistical Tables NSF 09-301.  Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf09301/">http://www.nsf.gov/statistics/nsf09301/</a>.</p>
+<p><a name="nsf2009b" id="nsf2009b"></a>National Science Foundation (NSF). 2009b. <em>U.S. Industrial R&amp;D Expenditures Increase in 2007; Small Companies Performed 19% of Nation's Business R&amp;D</em>. InfoBrief NSF 09&#8211;316. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/infbrief/nsf09316/">http://www.nsf.gov/statistics/infbrief/nsf09316/</a>.</p>
+
+<p><a name="nsf2010" id="nsf2010"></a>National Science Foundation (NSF). 2010.  <em>Research and Development in Industry: 2005</em>. Detailed Statistical Tables NSF 10-319. Arlington, VA. Available at <a href="/5902/20181004234713/https://www.nsf.gov/statistics/nsf10319/">http://www.nsf.gov/statistics/nsf10319/</a>.</p>
+
+<p><a name="census1993" id="census1993"></a>U.S. Bureau of the Census. 1993. <em>Effects of the 1987 SIC Revision on Company Classification in the Survey of Industrial Research and  Development (R&amp;D)</em>. Technical  Memorandum. 6 December.</p>
+<p><a name="census1994a" id="census1994a"></a>U.S. Bureau of the Census. 1994a. <em>Comparison of Company Coding Between 1992 and 1993 for the Survey of  Industrial Research and Development.</em> Technical Memorandum. 3 November.  Washington, DC.</p>
+<p><a name="census1994b" id="census1994b"></a>U.S. Bureau of the Census. 1994b. <em>Documentation of Nonsampling Issues in the Survey of Industrial  Research and Development</em>. RR94/03. Washington, DC.</p>
+<p><a name="census1994c" id="census1994c"></a>U.S. Bureau of the  Census. 1994c. <em>An Evaluation of  Imputation Methods for the Survey of Industrial Research and Development</em>.  ESMD-9404.Washington, DC.</p>
+<p><a name="census1994d" id="census1994d"></a>U.S. Bureau of the Census. 1994d. <em>Evaluation of Total Employment Cut-Offs in the Survey of Industrial  Research and Development.</em> Technical Memorandum. 3 November. Washington, DC.</p>
+<p><a name="census1994e" id="census1994e"></a>U.S. Bureau of the Census. 1994e. <em>Reclassification of Companies in the 1992 Survey of Industrial Research  and Development (R&amp;D) for the Generation of the &ldquo;Analytical&rdquo; Series. </em>Technical  Memorandum. 25 October. Washington, DC. </p>
+<p><a name="census1994f" id="census1994f"></a>U.S. Bureau of the  Census. 1994f<em>. A Study of Processing  Errors in the Survey of Industrial Research and Development</em>. ESMD-9403.  Washington, DC.</p>
+<p><a name="census1994g" id="census1994g"></a>U.S. Bureau of the  Census. 1994g. <em>Wedging Considerations for  the 1992 Research and Development (R&amp;D) Survey</em>. Technical Memorandum. 10  June. Washington, DC.</p>
+<p><a name="census1995" id="census1995"></a>U.S. Bureau of the  Census. 1995. <em>Documentation of the Survey  Design for the Survey of Industrial Research and Development: A Historical  Perspective</em>. Washington, DC.</p>
+</div> 	
+			
+	<!-- End main content include -->
+	<!-- Start previous, top, next -->
+	<div class="hideFromPrint">
+		<table width="100%" cellpadding="1" border="0" id="printFriendly3" class="text">
+			<tr>
+         		<td bgcolor="#ffffff" align="left" width="33%" valign="top">
+					
+							<a href="content.cfm?pub_id=3956&amp;id=1"><img src="/5902/20181004234713im_/https://www.nsf.gov/statistics/graphics/arrow_left2.gif" width="9" height="7" hspace="2" border="0" alt="Previous section." title="Previous section."/></a><a href="content.cfm?pub_id=3956&amp;id=1" class="text">Previous</a>
+							
+				</td>
+        		<td bgcolor="#ffffff" align="center" width="33%" valign="top"><a href="#top"><img src="/5902/20181004234713im_/https://www.nsf.gov/statistics/graphics/arrow_up2.gif" width="7" height="9" hspace="3" border="0" align="bottom" alt="Top of page." title="Top of page."/></a><a href="#top" class="text">Top</a> </td>
+        		<td bgcolor="#ffffff" align="right" width="33%" valign="top">
+					
+						  <a href="content.cfm?pub_id=3956&amp;id=3" class="text">Next</a><a href="content.cfm?pub_id=3956&amp;id=3"><img src="/5902/20181004234713im_/https://www.nsf.gov/statistics/graphics/arrow_right2.gif" width="9" height="7" hspace="2" border="0" alt="Next section." title="Next section."/></a>
+											
+				</td>
+			</tr>
+		</table>	
+	</div>
+	<!-- End previous, top, next -->
+	<div id="wrapper5spacer"></div>   <!-- needed to clear divs -->
+	
+	</div>  <!-- wrapper4main -->
+
+</div>   <!-- /wrapper2 -->
+
+	<!-- Start publication related footer -->
+	<div id="wrapper6">
+		<div id="grayspacer">&nbsp;</div>
+		   <div id="srsfooter">
+	
+			<div class="horizontal"></div>	 
+
+			<div class="ftr_greytext">	
+
+				
+					<strong class="greybold">Research and Development in Industry:  2006&#8211;07</strong> <br/>
+						Detailed Statistical Tables | NSF 11-301  | 
+June 2011                 
+                
+			</div>
+			
+			<div id="wrapper5spacer"></div>   <!-- needed to clear divs -->	
+					
+   			</div>  <!-- /srsfooter -->
+	</div>  <!-- /wrapper6 -->
+	<!-- End publication related footer -->
+</div>  <!-- /contentwrapper -->
+
+
+		
+  
+<div style="background-color:#e6e6e6">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bg_gray">
+			<tr>
+				<td class="ftr_greytext" colspan="4"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" alt="" width="100%" height="6px" border="0"/></td>
+			</tr>
+ 
+</table>
+<div class="footer">
+    <div class="footer-subnav">
+        <ul>
+          <li><a href="https://wayback.archive-it.org/5902/20181004234713/http://www.research.gov/">Research.gov</a></li>
+          <li><a href="https://wayback.archive-it.org/5902/20181004234713/http://www.usa.gov/">USA.gov</a></li>
+          <li><a href="https://wayback.archive-it.org/5902/20181004234713/http://business.usa.gov/">BusinessUSA</a></li>
+          <li><a href="https://wayback.archive-it.org/5902/20181004234713/http://www.nsf.gov/recovery/">Recovery Act</a></li>
+          <li><a href="/5902/20181004234713/https://www.nsf.gov/about/performance/">Budget and Performance</a></li>
+          <li class="last"><a href="/5902/20181004234713/https://www.nsf.gov/publications/pub_summ.jsp?ods_key=afr">Annual Financial Report</a></li>
+        </ul>
+        <ul>
+          <li><a href="/5902/20181004234713/https://www.nsf.gov/policies/">Web Policies and Important Links</a></li>
+          <li><a href="/5902/20181004234713/https://www.nsf.gov/policies/privacy.jsp">Privacy</a></li>
+          <li><a href="/5902/20181004234713/https://www.nsf.gov/policies/foia.jsp">FOIA</a></li>
+          <li><a href="/5902/20181004234713/https://www.nsf.gov/od/odi/nofearact_notice.jsp">NO FEAR Act</a></li>
+          <li><a href="/5902/20181004234713/https://www.nsf.gov/oig/">Inspector General</a></li>
+          <li><a href="/5902/20181004234713/https://www.nsf.gov/statistics/feedback.cfm">Webmaster Contact</a></li>
+          <li class="last"><a href="/5902/20181004234713/https://www.nsf.gov/help/sitemap.jsp">Site Map</a></li>
+        </ul>
+    </div><!--End footer-subnav -->
+    <div class="nsf-logo-bottom">
+      <img src="/5902/20181004234713im_/https://www.nsf.gov/images/nsf_logo_bottom.png" alt="National Science Foundation Logo"/>
+    </div><!--End nsf-logo-bottom -->
+    <div class="footer-address">
+      <span>The National Science Foundation, 4201 Wilson Boulevard, Arlington, Virginia 22230, USA
+  Tel:  (703) 292-5111, FIRS: (800) 877-8339 | TDD: (800) 281-8749</span>
+    </div><!--End footer-address -->
+    <div class="footer-text-only">
+      <ul>
+        <li class="last"><a href="https://wayback.archive-it.org/5902/20181004234713/https://assistive.usablenet.com/tt/referrer">Text Only Version</a></li>
+      </ul>
+    </div>
+    </div><!--End footer -->
+
+    <!-- ========================================================================================= -->
+
+
+<table>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+  if (opener != null)
+  {
+    if (opener.printFlag)
+    {
+      printThisPage();
+    }
+  }
+//-->
+</script>
+<script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/js/AC_OETags.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 8;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Minor version of Flash required
+var requiredRevision = 0;
+
+// Variable to check if the browser is IE
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+
+var detectableWithVB = false;
+var pluginFound = false;
+var flashVersion = 0;
+
+function detectPlugin() {
+
+    // write out the VBScript block for MSIE Windows
+    //if ((navigator.userAgent.indexOf('MSIE') != -1) && (navigator.userAgent.indexOf('Win') != -1)) {
+        document.writeln('<script language="VBscript">');
+        document.writeln('detectableWithVB = False');
+        document.writeln('If ScriptEngineMajorVersion >= 2 then');
+        document.writeln('  detectableWithVB = True');
+        document.writeln('End If');
+        document.writeln('Function detectActiveXControl(activeXControlName)');
+        document.writeln('  on error resume next');
+        document.writeln('  detectActiveXControl = False');
+        document.writeln('  If detectableWithVB Then');
+        document.writeln('     detectActiveXControl = IsObject(CreateObject(activeXControlName))');
+        document.writeln('          For counter = 2 to 20 ');
+        document.writeln('              If Not(IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & counter))) Then ');
+        document.writeln('              Else ');
+        document.writeln('                  flashversion = counter ');
+        document.writeln('              End If ');
+        document.writeln('          Next ');
+        document.writeln('  End If');
+        document.writeln('End Function');
+        document.writeln('</scr' + 'ipt>');
+    //}
+}
+
+function canDetectPlugins() {
+    if( detectableWithVB || (navigator.plugins && navigator.plugins.length > 0) ) {
+        return true;
+    } else {
+        return false;
+    }
+}
+
+// Only perform flash check in IE
+if (isIE)
+{
+    //check if flash exist
+    pluginFound = detectPlugin('Shockwave','Flash');
+    // if not found, try to detect flash with VisualBasic
+    if(!pluginFound && detectableWithVB) {
+        pluginFound = detectActiveXControl('ShockwaveFlash.ShockwaveFlash');
+        //if flash is found, check for version
+        if (pluginFound) {
+            // Version check based upon the values entered above in "Globals"
+            var hasReqestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+
+            var flashVersion = GetSwfVer();
+
+            // If flash version does not meet requirement, forward user to flash message page
+            if (!hasReqestedVersion)
+            {
+                var alternateContent = flashVersion + 'An old version of the Flash plugin was detected. <strong><a href="https://wayback.archive-it.org/5902/20181004234713/http://www.macromedia.com/go/getflash/">Please upgrade your Flash plugin.</a></strong>';
+                document.write(alternateContent);  // insert non-flash content
+                location.href = '/flash_message.jsp';
+            }
+        }
+    }
+
+}
+//-->
+</script>
+<script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/js/jquery.selectbox.js"></script>
+<script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/js/init.js"></script>
+
+<!-- Search Input -->
+<script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/js/modernizr.js"></script>
+<script type="text/javascript" src="/5902/20181004234713js_/https://www.nsf.gov/js/inputpolyfil.js"></script> 
+
+<!-- DigitalGov Search -->
+<script type="text/javascript">
+//<![CDATA[
+      var usasearch_config = { siteHandle:"nsf" };
+
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "https://wayback.archive-it.org/5902/20181004234713/https://search.usa.gov/javascripts/remote.loader.js";
+      document.getElementsByTagName("head")[0].appendChild(script);
+
+//]]>
+</script>
+
+
+
+      	</table>
+</div>
+
+    </td> 
+    <td class="ftr_greytext" bgcolor="#e6e6e6"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="5" height="1" alt="" border="0"/></td> 
+  </tr>  
+  <tr> 
+    <td colspan="3" bgcolor="#e6e6e6"><img src="/5902/20181004234713im_/https://www.nsf.gov/images/x.gif" width="5" height="5" alt="" border="0"/></td> 
+  </tr> 
+</table> 
+
+</body>
+
+<!-- InstanceEnd --></html>
+<!--
+     FILE ARCHIVED ON 23:47:13 Oct 04, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:18:43 Oct 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

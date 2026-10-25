@@ -1,0 +1,1259 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="file:///Z|/Templates/dst-content-template.dwt" codeOutsideHTMLIsLocked="false" -->
+
+ 
+<head><!-- Start Wayback Rewrite JS Include -->
+<script type="text/javascript" src="/static/js/wombat.js?v=uVfyaniA" charset="utf-8"></script>
+<script type="text/javascript">
+if (window._WBWombatInit) {
+  _wb_uc = new URL("https://www.nsf.gov/statistics/nsf13332/content.cfm?pub_id=4160&id=3");
+  wbinfo = {}
+  wbinfo.url = "https://www.nsf.gov/statistics/nsf13332/content.cfm?pub_id=4160&id=3";
+  wbinfo.timestamp = "20181004023433";
+  wbinfo.request_ts = "20181004023433";
+  wbinfo.prefix = "https://wayback.archive-it.org/5902/";
+  wbinfo.mod = "";
+  wbinfo.is_framed = false;
+  wbinfo.is_live = false;
+  wbinfo.coll = "5902";
+  wbinfo.proxy_magic = "";
+  wbinfo.static_prefix = "/static/";
+  wbinfo.enable_auto_fetch = true;
+  wbinfo.auto_fetch_worker_prefix = "https://wayback.archive-it.org/5902/";
+  wbinfo.wombat_ts = "20181004023433";
+  wbinfo.wombat_sec = "1538620473";
+  wbinfo.wombat_scheme = ( _wb_uc.protocol || 'http').replace(/:$/, '');
+  wbinfo.wombat_host = _wb_uc.host;
+  wbinfo.wombat_opts = {
+    no_rewrite_prefixes: [
+                            "https://wayback.archive-it.org/5902/",
+                            "//archive-it.org/",
+                            "https://partner.archive-it.org/",
+                          ]
+  };
+  window._WBWombatInit(wbinfo);
+
+  // variables useful for rulesengine rewrites from old ait-client_rewrite.js
+  WB_RewriteUrl = _wb_wombat.rewrite_url;
+  WB_ExtractOrig = _wb_wombat.extract_orig;
+  WB_wombat_self_location = window.WB_wombat_location
+}
+</script>
+<script type="text/javascript" src="https://partner.archive-it.org/static/AIT_Analytics.js" async="async"></script>
+<!-- End Wayback Rewrite JS Include -->
+
+
+		
+
+<style>
+.errataicon, a.errataicon:link, a.errataicon:visited, a.errataicon:hover, a.errataicon:active {
+	background-position: left top;
+	background-repeat: no-repeat;
+	padding-bottom: 12px;
+	padding-top: 10px;
+}
+
+.errata {
+	background-image:url(/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/errata_icon.gif);
+}
+-->
+</style>
+
+
+    <script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/statistics/js/highslide-full.js"></script>
+    <script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/statistics/js/lightboxconfig.js"></script>
+    <link rel="stylesheet" type="text/css" href="/5902/20181004023433cs_/https://www.nsf.gov/statistics/css/highslide.css"/>
+    <script language="javascript"> 
+    function toggle(rowNum) {
+        var ele = document.getElementById("toggleText" + rowNum);
+        var text = document.getElementById("displayText" + rowNum);
+        if(ele.style.display == "none") {
+                ele.style.display = "block";
+                text.innerHTML = "close -";
+        }
+        else {
+            ele.style.display = "none";
+            text.innerHTML = "expand +";
+        }
+    } 
+    </script>
+
+    
+		
+	
+                 
+<!--
+     FILE ARCHIVED ON 02:34:33 Oct 04, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:13:16 Oct 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+	urlKey(b'gov,nsf)/statistics/nsf13332/content.cfm?id=3&pub_id=4160')
+-->
+<div class="hideFromPrint">
+ 		    
+    </div>    
+
+<title>nsf.gov - NCSES Business Research and Development and Innovation: 2008&#8211;10 - US National Science Foundation (NSF)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta name="creator" content="NSF-NCSES"/>
+<meta name="language" content="English"/>
+<meta name="created" content="Sep 18, 2013"/>
+<meta name="subject" content="Business Research and Development and Innovation: 2008?10"/>
+<meta name="publication-date" content="2013-09-18"/>
+<meta name="author" content="National Science Foundation"/>
+<meta name="keywords" content=""/>
+<meta name="pubtype" content="DST"/>
+<meta name="pubyear" content="2013"/>
+<meta name="Description" content="[NSF 13-332] This report presents detailed tabular statistics from the 2008?10 cycles of the Business R&amp;D and Innovation Survey. Tables detail findings by size of company, sources of R&amp;D funds, character of R&amp;D, and industry using the North American Industrial Classification System (NAICS) codes.  Also included are tables covering R&amp;D by business activity and state, performed outside the United States, and paid for by foreign sources; intellectual property including patenting; innovation activity; and R&amp;D capital expenditures."/>
+
+<meta name="MainTopic" content="Business and Industry"/>
+<meta name="SubTopic" content="Funding"/>
+<meta name="SubTopic" content="Geographic"/>
+<meta name="SubTopic" content="Innovation"/>
+<meta name="SubTopic" content="Research and Development"/>
+<meta name="SubTopic" content="Trends"/>
+<meta name="SubTopic" content="Workforce"/>
+<meta name="MainTopic" content="Federal Government"/>
+<meta name="SubTopic" content="Funding"/>
+<meta name="MainTopic" content="Research and Development"/>
+<meta name="SubTopic" content="Business and Industry"/>
+<meta name="SubTopic" content="Expenditures"/>
+<meta name="MainTopic" content="Workforce"/>
+<meta name="SubTopic" content="Business and Industry"/> <link rel="shortcut icon" href="/5902/20181004023433im_/https://www.nsf.gov/images/favicon.ico" type="image/x-icon"/>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]>  <html class="no-js" lang="en"> <![endif]-->
+<!--[if ! lte IE 6]><!-->
+  <link rel="stylesheet" type="text/css" media="screen" href="/5902/20181004023433cs_/https://www.nsf.gov/css/style1.css"/>
+  <link rel="stylesheet" type="text/css" href="/5902/20181004023433cs_/https://www.nsf.gov/css/main-slides.css" media="screen, projection"/>
+  <link rel="stylesheet" type="text/css" media="screen" href="/5902/20181004023433cs_/https://www.nsf.gov/css/tooltips.css"/>
+  <link rel="stylesheet" type="text/css" href="/5902/20181004023433cs_/https://www.nsf.gov/css/printStyle.css" media="print" title="Printer-Friendly Style">
+
+	
+		<link rel="STYLESHEET" type="text/css" href="/5902/20181004023433cs_/https://www.nsf.gov/statistics/css/srsglobal.css"/>
+	
+<!--<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="https://universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection">
+<![endif]-->
+
+<!--  <link rel="alternate stylesheet" type="text/css" href="/css/printStyle.css" media="print" title="Printer-Friendly Style" >
+
+-->
+
+
+<script language="JavaScript">
+
+var printFlag = false;
+
+
+function printThisPage() {
+
+
+	document.getElementById('printFriendly').style.display='none';
+	document.getElementById('printFriendly2').style.display='none';
+	document.getElementById('printFriendly3').style.display='none';
+	//document.getElementById('printFriendly5').style.display='none';
+	//document.getElementById('printFriendly6').style.display='none';
+
+	  var oldlink = document.getElementsByTagName("link").item(0);
+
+      var newlink = document.createElement("link")
+      newlink.setAttribute("rel", "stylesheet");
+      newlink.setAttribute("type", "text/css");
+      newlink.setAttribute("href", "/css/printStyle_js.css");
+      newlink.setAttribute("media", "screen");
+      document.getElementsByTagName("head").item(0).replaceChild(newlink, oldlink);
+
+    window.print();
+
+	opener.printFlag = false;
+
+}
+
+function printerFriendlyView()
+{
+   printFlag = true;
+   var printerFriendlyViewWin = window.open(document.URL, "printerFriendlyViewWin","menubar=1,toolbar=0,scrollbars=1,alwaysRaised=1,width=600,height=600,resizable=1");
+
+}
+
+</script>
+<!--  Addthis - 3rd party bookmarking utility -->
+<script src="/5902/20181004023433js_/https://www.nsf.gov/js/addthis_custom.js" type="text/javascript"></script>
+<script async id="_fed_an_ua_tag" type="text/javascript" src="https://wayback.archive-it.org/5902/20181004023433js_/https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NSF&amp;dclink=true&amp;ver=true&amp;exts=doc,docx,xls,xlsx,xlsm,ppt,pptx,exe,zip,pdf,js,txt,csv,dxf,wmv,jpg,wma,mov,avi,mp3,mp4,csv"></script> 
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//wayback.archive-it.org/5902/20181004023433/https://script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
+
+<div class="outer-wrapper">
+  <div class="inner-wrapper">
+<style type="text/css">
+<!--
+body {
+	margin-left: 30px ;
+	margin-right: 30px ; 
+	 }
+	 
+-->
+</style>
+
+	<link rel="stylesheet" type="text/css" href="/5902/20181004023433cs_/https://www.nsf.gov/statistics/css/dst.css"/>
+	<link rel="stylesheet" type="text/css" href="/5902/20181004023433cs_/https://www.nsf.gov/statistics/css/print_dst.css" media="print"/>
+
+    <!-- InstanceBeginEditable name="head" --> <!-- InstanceEndEditable -->
+</head>	
+<body background="/5902/20181004023433im_/https://www.nsf.gov/images/bg.gif">
+<a href="https://wayback.archive-it.org/5902/20181004023433/https://assistive.usablenet.com/tt/referrer"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" alt="text-only page produced automatically by LIFT Text
+Transcoder" width="0" height="0" border="0"/></a> 
+
+<a href="#content"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" alt="Skip all navigation and go to page content" width="1" height="1" border="0"/></a><a href="#directorate"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" alt="Skip top navigation and go to directorate navigation" width="1" height="1" border="0"/></a><a href="#sidenav"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" alt="Skip top navigation and go to page navigation" width="1" height="1" border="0"/></a>
+<a name="top" id="top"></a> 
+
+<table width="749" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff"> 
+<tr> 
+    <td bgcolor="#e6e6e6" colspan="3"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="1" height="3" alt="" border="0"/></td> 
+  </tr>
+  <tr> 
+    <td bgcolor="#e6e6e6" colspan="3"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td> 
+  </tr>
+  <tr> 
+    <td bgcolor="#e6e6e6"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="5" height="1" alt="" border="0"/></td> 
+    <td class="headmark" bgcolor="#e6e6e6">
+	<table border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tr>
+
+			<td bgcolor="#b5b5b5"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td>
+			<td bgcolor="#b5b5b5"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="414" height="1" alt="" border="0"/></td>
+			<td bgcolor="#b5b5b5"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="324" height="1" alt="" border="0"/></td>
+			<td bgcolor="#b5b5b5"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td>
+		</tr>
+	
+		<tr>
+    		<td bgcolor="#b5b5b5"><img style="display:none;" src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td> 
+			<td class="hyperimage"><a href="/5902/20181004023433/https://www.nsf.gov/index.jsp"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/head.gif" alt="National Science Foundation" title="National Science Foundation" width="414" height="80" border="0"/></a></td>
+			<td><a href="/5902/20181004023433/https://www.nsf.gov/statistics/"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/srs_masthead-right.gif" alt="National Center for Science and Engineering Statistics" title="National Center for Science and Engineering Statistics" width="324" height="80" border="0"/></a></td>
+
+    		<td bgcolor="#b5b5b5"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td> 
+		</tr>
+		<tr>
+    		<td bgcolor="#b5b5b5" colspan="4"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="1" height="1" alt="" border="0"/></td> 
+		</tr>
+	</table>
+	</td> 
+    <td bgcolor="#e6e6e6"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="5" height="1" alt="" border="0"/></td> 
+  </tr> 
+   <tr> 
+    <td bgcolor="#e6e6e6" colspan="3"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="1" height=".2em" alt="" border="0"/></td>
+  </tr> 
+  <tr>  
+    <td bgcolor="#e6e6e6"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="5" height="1" alt="" border="0"/></td>   
+    <td>
+
+   		
+<div id="contentwrapper">
+
+<div id="wrapper2">
+		<!-- Start right column --> 	
+    <div id="wrapper3sidenav">
+    	<strong><a href="start.cfm">Contents</a></strong><br/>
+		<hr size="1"/>
+			
+					<a href="content.cfm?pub_id=4160&amp;id=1">General Notes</a><br/><br/>
+				
+					<a href="content.cfm?pub_id=4160&amp;id=2">Data Tables</a><br/><br/>
+				Appendix A. Technical Notes<br/><br/>
+				
+					<a href="content.cfm?pub_id=4160&amp;id=4">Appendix B. Survey Instruments</a><br/><br/>
+				
+					<a href="content.cfm?pub_id=4160&amp;id=5">Suggested Citation, Acknowledgments</a><br/><br/>
+				
+	<div style="background-color:#D9D9D9; padding:3px;">
+           Errata	
+               <ul style="margin-top: 2px;">
+               
+                	<li><a href="#43" class="ch8note" rel="highslide-ajax">Nov 08, 2013</a></li>
+               
+                	<li><a href="#47" class="ch8note" rel="highslide-ajax">Sep 25, 2014</a></li>
+                    
+               </ul> 
+	</div>
+
+
+ 			
+		<br/>
+		<div id="stafflist" class="ftr_greytext">
+			<br/>
+			
+				<a href="https://wayback.archive-it.org/5902/20181004023433/mailto:rwolfe@nsf.gov">
+				Raymond&nbsp;M.&nbsp;Wolfe</a>,
+				<br/> Project Officer
+				<br/>(703) 292-7789
+				<br/>Research and Development Statistics Program<br/>
+			
+				<br/><a href="/5902/20181004023433/https://www.nsf.gov/statistics/">NCSES Home</a>	
+
+		</div>
+
+	</div> <!-- wrapper3sidenav	-->	 		
+	<!-- End right column -->
+
+		
+	<div id="wrapper4main">
+	<!-- Start main content include -->
+		<a name="content" id="content"></a>
+        	<div class="hideFromPrint"><span class="runningheader">Business Research and Development and Innovation: 2008&#8211;10</span><br/></div>
+            <div class="hideFromPrint" style="margin-bottom:-5px;">
+				
+           </div>
+<p>&nbsp;</p>
+			<img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="1" height="10" alt="" border="0"/><br/> 
+			
+			
+  <h1>Appendix A. Technical Notes</h1>
+
+<div class="hideFromPrint"> <br/>
+  <div id="innerwrapper">
+    <ul class="ligroupnav">
+      <li><a href="#description">Survey Description</a></li>
+      <li><a href="#coverage">Coverage</a></li>
+      <li><a href="#methodology">Methodology</a></li>
+      <li><a href="#definitions">Survey Definitions</a></li>
+      <li><a href="#comparability">Comparability</a></li>
+      <li><a href="#data">Data Availability</a></li>
+      <li><a href="#technical">Technical tables</a></li>
+    </ul>
+  </div>
+  <!-- /innerwrapper --> 
+  <br/>
+</div>
+<!-- /hideFromPrint -->
+
+<div class="horizontal" width="80%">&nbsp; </div>
+<a name="description" id="description"></a>
+<h2>Survey Description</h2>
+<p> The Business Research and Development and Innovation Survey (BRDIS) is an annual company-based sample survey that attempts to represent all for-profit companies that have five or more employees, that are either publicly or privately held, and that have operations in the United States. It is the primary federal source of information on research and development performed or funded by businesses with locations in the United States. It is conducted by the Census Bureau on behalf of the National Science Foundation&apos;s National Center for Science and Engineering Statistics. </p>
+<p>The survey includes with certainty some companies known to have performed R&amp;D, as well as samples from companies for which there is no clear indication of R&amp;D activity. BRDIS has been designed to provide detailed statistics on global and domestic R&amp;D expenses of companies located in the United States, as well as statistics on their R&amp;D workforce, intellectual property, technology transfer, and innovation activities. BRDIS replaces the Survey of Industrial Research and Development (SIRD), which focused more narrowly on domestic R&amp;D performance.</p>
+<p>Data collected are for R&amp;D-related activities during the calendar year and for innovation activities during the past 3 calendar years. Thus, for example, the 2008 BRDIS references R&amp;D activities for 2008 and innovation activities for January 2006 through December 2008. Data collection begins within the first 3 months after the end of the reference year and continues for approximately 9 months. </p>
+<p>Companies in the BRDIS sample are mailed a paper questionnaire with instructions for electronic reporting, and they can select how they choose to respond. The BRDIS instrument is structured into different sections to encourage different experts within a single business to provide responses in their areas of expertise. Response to this annual survey is mandatory and confidential under Title 13 of the United States Code. </p>
+<p class="hideFromPrint"><a href="#top"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_up2.gif" width="7" height="9" hspace="3" border="0" align="bottom" alt="Top of page." title="Top of page."/></a>&nbsp;<a href="#top">Back to Top</a></p>
+<br/>
+<a name="coverage" id="coverage"></a>
+<h2>Coverage</h2>
+<em><strong>Target Population</strong></em>
+<p>The target population for BRDIS consists of all for-profit companies in the United States in business at the end of the reference year that employ five or more persons. The sampling methodology is designed to provide an accurate measure of domestic R&amp;D performance and thus focuses on companies that perform R&amp;D in the United States. Farms are excluded from the target population. A company is comprised of all the establishments that operate under the ownership or control of a single organization. </p>
+<em><strong>Survey Frame Design</strong></em>
+<p>For each survey year, the Census Bureau&apos;s Business Register (BR) was used to help create the frame from which the sample was selected. For companies with more than one establishment, data for establishments located in the 50 United States and the District of Columbia were summed to the company level. The resulting company records were included in the sampling frame and used to process and tabulate the survey data. Note that although BRDIS collects information on U.S.-located companies&apos; worldwide activities, no information about foreign establishments is available on the BR to aid in sampling or estimation activities.</p>
+<em><strong>Sample Design</strong></em>
+<p>The frame was partitioned into three groups: (1) companies known to conduct R&amp;D in any of the previous 5 survey years or in the most recent Company Organization Survey (conducted by the Census Bureau), (2) companies that reported zero R&amp;D in all of the previous 5 survey years, and (3) companies for which information about the extent of R&amp;D activity is uncertain. When the 5-year retrospective period was prior to 2008, information from BRDIS&apos; predecessor, SIRD, was used. Thus, the 2008 BRDIS frame partitioning was based on 2003&#8211;07 SIRD information, and the 2010 BRDIS frame partitioning was based on the 2005&#8211;07 SIRD information and the 2008&#8211;09 BRDIS information. Counts of companies in these partitions are listed below in <a href="#tab1">table 1</a>.</p>
+<div align="left"> <a name="tab1"></a>
+ 
+<table cellspacing="0">
+  <tbody>
+    <tr>
+    <td colspan="7" style="border-bottom:1px solid #BEBEBE;">Table 1.Target population counts by frame partition: 2008&#8211;10 <br/>(Number of companies)</td>
+    </tr>
+    
+    <tr>
+      <td width="120" style="border-bottom:1px solid #BEBEBE; text-align:left">Year</td>
+      <td width="80" style="border-bottom:1px solid #BEBEBE; text-align:right">Total<sup>a</sup></td>
+      <td width="135" style="border-bottom:1px solid #BEBEBE; text-align:right">Known positive R&amp;D</td>
+      <td width="90" style="border-bottom:1px solid #BEBEBE; text-align:right">Zero R&amp;D</td>
+      <td width="120" style="border-bottom:1px solid #BEBEBE; text-align:right">Unknown R&amp;D</td>
+     
+    </tr>
+    <tr>
+      <td style="text-align:left;">2008</td>
+      <td style="text-align:right;">1,926,012
+</td>
+      <td style="text-align:right;">16,059
+</td>
+      <td style="text-align:right;">75,923</td>
+      <td style="text-align:right;">1,834,030
+</td>
+      
+    </tr>
+    <tr>
+      <td style="text-align:left;">2009</td>
+      <td style="text-align:right;">2,090,181
+</td>
+      <td style="text-align:right;">22,181
+</td>
+      <td style="text-align:right;">79,031
+</td>
+      <td style="text-align:right;">1,988,969
+</td>
+      
+    </tr>
+    <tr>
+      <td style="text-align:left;border-bottom:1px solid #BEBEBE;">2010</td>
+      <td style="text-align:right;border-bottom:1px solid #BEBEBE;">2,013,399
+</td>
+      <td style="text-align:right;border-bottom:1px solid #BEBEBE;">24,723
+</td>
+      <td style="text-align:right; border-bottom:1px solid #BEBEBE;">67,281
+</td>
+      <td style="text-align:right; border-bottom:1px solid #BEBEBE;">1,921,395
+</td>
+    
+    </tr>
+    
+   
+  </tbody>
+</table>
+
+  
+</div>
+
+   <div><p><sup>a</sup> For each year, the estimate of the number of companies in the total target population is based on the original sampling frame that was created to select the sample. The target population estimates in this table do not include R&amp;D performers from the previous year&apos;s sample, which were not on the original sampling frame, but were found during the survey&apos;s annual contact update procedures. See appendix table 3 for the counts of companies that were added to each year&apos;s sample.</p>
+ 
+  <p>NOTES: Companies were said to be known to conduct R&amp;D (Known positive R&amp;D) if they reported R&amp;D in any of the previous 5 survey years. Companies were said to have zero R&amp;D if they reported no R&amp;D in all of the previous 5 survey years.</p>
+  
+  <p>SOURCE: National Science Foundation/National Center for Science and Engineering Statistics and U.S. Census Bureau, Business R&amp;D and Innovation Survey.</p>
+ 
+</div>
+
+
+<p>The above partitions are further stratified by groups of North American Industrial Classification System (NAICS) industries. Each company in the frame is assigned a single NAICS code which is used to assign companies to the industry-based strata. The method changed slightly between the 2008 and 2009 survey cycles. </p>
+<p>For the 2008 cycle of BRDIS, each company was assigned to a single 2002 NAICS code based on its total payroll aggregated across all associated establishments located in the United States. The method used followed the hierarchical structure of the NAICS in that the company was first assigned to the economic sector, defined by a 2-digit NAICS code that accounted for the highest percentage of its aggregated payroll. Then the company was assigned to a subsector, defined by a 3-digit NAICS code that accounted for the highest percentage of its payroll within the economic sector. Then the company was assigned a 4-digit NAICS code within the subsector, again based on the highest percentage of its aggregated payroll within the subsector. Finally, the company was assigned a 6-digit NAICS code within the 4-digit NAICS, based on the highest percentage of its aggregated payroll within the 4-digit NAICS. The industry used for sampling purposes was not necessarily the same code used for publication; see the section below titled &quot;Post Sampling Industry Classification.&quot;</p>
+<p>For the 2009 and 2010 BRDIS surveys, assignment of companies to NAICS strata was aided by the business code data reported by the company in the prior cycle of the survey. The method described above for the 2008 BRDIS was used to assign an initial NAICS code for each company in the frame. Then, if the company reported BRDIS business segment data on domestic R&amp;D performance, the dominant line of business was used to assign the sampling recode. Note that for the 2009 and 2010 BRDIS, the 2007 NAICS replaced the 2002 NAICS. </p>
+<p>Once a NAICS code was assigned to each company, the three partitions that were defined in the frame design were further divided into companies that are sure to be selected due to their important or unique contribution to R&amp;D (certainty companies) and into companies that will be subject to sampling (noncertainty companies). Generally, the certainty companies perform the greatest amounts of R&amp;D, but different criteria defined these certainty companies, depending on the partitioned group the company was in. <a href="#tab2">Table 2</a> below describes the sample design critera for selecting certainty and noncertainty companies. </p>
+
+
+<div align="left"> <a name="tab2"></a>
+ 
+<table cellspacing="0" cellpadding="5">
+  <tbody>
+    <tr>
+ <td colspan="4" style="border-bottom:1px solid #BEBEBE;">Table 2. Sample design criteria for selecting certainty and noncertainty companies</td>
+    </tr>
+    
+ <tr>
+ <td valign="top" width="100" style="border-bottom:1px solid #BEBEBE; text-align:left;">Frame partition
+</td>
+ <td valign="top" width="140" style="border-bottom:1px solid #BEBEBE; text-align:right;">Certainty criteria
+</td>
+<td valign="top" width="80" style="border-bottom:1px solid #BEBEBE; text-align:right;">Measure of size<sup>a</sup>
+</td>
+<td valign="top" width="227" style="border-bottom:1px solid #BEBEBE; text-align:right;">Selection mechanism</td>
+ </tr>
+ 
+ 
+    <tr>
+      <td valign="top" style="text-align:left;">Known-positive R&amp;D
+</td>
+      <td valign="top" style="text-align:right;">Previously reported or imputed R&amp;D performance of $3 million or more 
+
+</td>
+      <td valign="top" style="text-align:right;">Positive domestic R&amp;D expenditures
+
+</td>
+      <td valign="top" style="text-align:right;">Probability-proportionate-to-size with minimum probability of selection
+</td>
+     
+ 
+      
+    </tr>
+    <tr>
+      <td valign="top" style="text-align:left;">Zero R&amp;D
+</td>
+      <td valign="top" style="text-align:right;">Any establishments in NAICS 5417 
+(scientific R&amp;D services)
+
+</td>
+<td valign="top" style="text-align:right;">None</td>
+<td valign="top" style="text-align:right;">Simple random sample without replacement; probability of selection 0.01 for manufacturing companies and 0.004 for other companies
+
+</td>
+     
+      
+    </tr>
+    <tr>
+      <td valign="top" style="text-align:left; border-bottom:1px solid #BEBEBE;">Unknown R&amp;D
+</td>
+      <td valign="top" style="text-align:right; border-bottom:1px solid #BEBEBE;">In top 50 of stratum by payroll or top 50 of their state by payroll
+
+</td>
+      <td valign="top" style="text-align:right; border-bottom:1px solid #BEBEBE;">Total domestic payroll
+
+</td>
+      <td valign="top" style="text-align:right; border-bottom:1px solid #BEBEBE;">Probability-proportionate-to-size with minimum probability of selection
+
+</td>
+     
+     
+    </tr>
+    
+    
+  </tbody>
+</table>
+  
+</div>
+<div>
+ 
+  <p>NAICS = North American Industry Classification System.</p>
+ 
+ <p><sup>a</sup> Value used to calculate companies&apos; likelihood of being selected.</p>
+  <p>SOURCE: National Science Foundation/National Center for Science and Engineering Statistics and U.S. Census Bureau, Business R&amp;D and Innovation Survey.</p>
+
+ 
+</div>
+ 
+
+<p>A minimum probability of selection rule was imposed for both the first and third partitions. As noted earlier, probabilities of selection proportionate to size were assigned to each company. Selected companies received a sample weight equal to the reciprocal of their selection probability. Companies not selected with certainty that ultimately report R&amp;D expenditures vastly larger than their sampling measure of size can cause large perturbations in the weighted totals. In order to minimize these effects, a minimum probability rule was imposed to control the maximum sampling weight of any company. If a company&apos;s probability of selection based on its measure of size was less than the minimum probability, the selection probability was reset to this minimum value. Using a minimum probability rule increases overall sample sizes in order to minimize the effects of weighted outliers in tabulations.</p>
+<p>The parameters set to control sampling error resulted in the sample sizes displayed below in <a href="#tab3">tables 3</a> and <a href="#tab4">4</a>. More detailed information on sample sizes can be found in technical tables <a href="content.cfm?pub_id=4160&amp;id=3#technical">A-1</a> through <a href="content.cfm?pub_id=4160&amp;id=3#technical">A-3</a>, which show companies in the sample frame and the selected certainty and noncertainty sample sizes by industry and company size. </p>
+
+
+<div align="left"> <a name="tab3"></a>
+ 
+<table cellspacing="0">
+  <tbody>
+    <tr>
+    <td colspan="7" style="border-bottom:1px solid #BEBEBE;">Table 3. Sample size by frame partition: 2008&#8211;10 <br/>
+      (Number of companies)</td>
+    </tr>
+    
+    <tr>
+      <td width="150" style="border-bottom:1px solid #BEBEBE; text-align:left">Year</td>
+      <td width="70" style="border-bottom:1px solid #BEBEBE; text-align:right">Total</td>
+      <td width="135" style="border-bottom:1px solid #BEBEBE; text-align:right">Known positive R&amp;D</td>
+      <td width="70" style="border-bottom:1px solid #BEBEBE; text-align:right">Zero R&amp;D</td>
+      <td width="100" style="border-bottom:1px solid #BEBEBE; text-align:right">Unknown R&amp;D</td>
+     
+    </tr>
+    <tr>
+      <td style="text-align:left;">2008</td>
+      <td style="text-align:right;">39,553
+</td>
+      <td style="text-align:right;">11,103
+
+</td>
+      <td style="text-align:right;">3,156
+</td>
+      <td style="text-align:right;">25,294
+
+</td>
+      
+    </tr>
+    <tr>
+      <td style="text-align:left;">2009</td>
+      <td style="text-align:right;">43,002
+
+</td>
+      <td style="text-align:right;">14,343
+
+</td>
+      <td style="text-align:right;">3,443
+
+</td>
+      <td style="text-align:right;">25,216
+
+</td>
+      
+    </tr>
+    <tr>
+      <td style="text-align:left; border-bottom:1px solid #BEBEBE;">2010</td>
+      <td style="text-align:right;border-bottom:1px solid #BEBEBE;">42,965
+
+</td>
+      <td style="text-align:right;border-bottom:1px solid #BEBEBE;">14,399
+
+</td>
+      <td style="text-align:right;border-bottom:1px solid #BEBEBE;">3,150
+
+</td>
+      <td style="text-align:right;border-bottom:1px solid #BEBEBE;">25,416
+
+</td>
+     
+    </tr>
+    
+    
+  </tbody>
+</table>
+
+  
+</div>
+<div class="t_notes">
+ 
+  
+  <p>NOTES: Companies were said to be known to conduct R&amp;D (Known positive R&amp;D) if they reported R&amp;D in any of the previous 5 survey years. Companies were said to have zero R&amp;D if they reported no R&amp;D in all of the previous 5 survey years.
+
+</p>
+  <p>SOURCE:  National Science Foundation/National Center for Science and Engineering Statistics and U.S. Census Bureau, Business R&amp;D and Innovation Survey.
+</p>
+ 
+</div>
+
+
+<br/>
+
+
+<div align="left"> <a name="tab4"></a>
+ 
+<table width="497" cellspacing="0">
+  <tbody>
+    <tr>
+    <td colspan="7" style="border-bottom:1px solid #BEBEBE;">Table 4.  Companies included in sample that were not in the original sampling frame: 2008&#8211;10	
+ <br/>(Number of companies)</td>
+    </tr>
+    
+    <tr>
+      <td width="99" style="border-bottom:1px solid #BEBEBE; text-align:left">Year</td>
+      <td width="392" style="border-bottom:1px solid #BEBEBE; text-align:right">Known positive R&amp;D</td>
+      </tr>
+      
+    <tr>
+      <td style="text-align:left;">2008</td>
+      <td style="text-align:right;">336</td>
+     
+      
+    </tr>
+    <tr>
+      <td style="text-align:left;">2009</td>
+      <td style="text-align:right;">18</td>
+      
+    </tr>
+    
+    <tr>
+      <td style="text-align:left;border-bottom:1px solid #BEBEBE" ">2010</td>
+      <td style="text-align:right;border-bottom:1px solid #BEBEBE;">49</td>
+    </tr>
+    
+    
+  </tbody>
+</table> 
+
+  
+</div>
+<div>
+  
+  <p>NOTES: For each year, the estimate of the number of companies in the total target population in appendix table 1 is based on the original sampling frame that was created to select the sample. The estimates in appendix table 1 do not include R&amp;D performers from the previous year&apos;s sample, which were not on the original sampling frame but were found during the survey&apos;s annual contact update procedures. This table shows the counts of companies that were found during the update procedures and were added to each year&apos;s sample.
+
+
+</p>
+  <p>SOURCE:  National Science Foundation/National Center for Science and Engineering Statistics and U.S. Census Bureau, Business R&amp;D and Innovation Survey.
+</p>
+ 
+</div>
+
+
+
+<em><strong>Sampling and Nonsampling Error</strong></em>
+<p>The particular sample selected was one of a large number of samples of the same type and size that might have been selected by chance. Statistics resulting from the different samples would differ somewhat from each other. The estimated average values of these differences are represented by estimates of sampling error. Statistical estimates with lesser sampling errors are less variable than those with greater sampling errors. The accuracy of the estimate&#8212;that is, how close it is to the true value of the population quantity it is estimating&#8212;is also related to nonsampling error.</p>
+<p>Because relatively few companies perform R&amp;D and because the amount of R&amp;D they perform is quite variable, it is difficult to achieve control over the sampling error of survey estimates. Efforts were limited to controlling the amount of error due to sample size variation, but this is only one component of the overall sampling error. The other component depends on the correlation between the data from the sampling frame used to assign probabilities (namely R&amp;D values either imputed or reported in the previous survey) and the actual current year reported data, which cannot be predicted with any reliability. </p>
+<p>The constraints used to determine the sample size for each stratum were based on data that was estimated&#8212;namely, a prior-year R&amp;D value for the first partitioned group and payroll for the third partitioned group. Assignment of a company&apos;s probability of being selected in the sample was based on this data. The assumption made was that actual variation in the population would be less than that estimated for the sample design because many of the sampled companies in the third partitioned group have true R&amp;D values of zero, not the widely varying values that were imputed using total payroll as a predictor of R&amp;D. Previous sample selections from SIRD indicated that in general this assumption held, but exceptions have occurred when companies with large sampling weights have reported large amounts of R&amp;D spending.</p>
+<p>In addition to sampling error, estimates are subject to nonsampling error. Nonsampling errors are grouped into five categories: specification, coverage, response, nonresponse, and processing. Efforts are made to minimize the effects of these errors.</p>
+<p class="hideFromPrint"><a href="#top"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_up2.gif" width="7" height="9" hspace="3" border="0" align="bottom" alt="Top of page." title="Top of page."/></a>&nbsp;<a href="#top">Back to Top</a></p>
+<br/>
+<a name="methodology" id="methodology"></a>
+<h2>Methodology</h2>
+<h3 class="dst_h3">Questionnaires</h3>
+<p>For the 2008 and 2009 cycles of BRDIS, two questionnaires were used to collect data for the survey. Companies with R&amp;D greater than or equal to a threshold value were sent the detailed survey form, <a href="content.cfm?pub_id=4160&amp;id=4">BRDI-1</a>. All other companies were sent an abbreviated form, <a href="content.cfm?pub_id=4160&amp;id=4">BRDI-1A</a>. For the 2010 BRDIS, an additional form, <a href="content.cfm?pub_id=4160&amp;id=4">BRDI-1B </a>, was used as part of a designed experiment to test the effects of the questionnaire on responses to the questions on innovation. Except for the innovation section, the <a href="content.cfm?pub_id=4160&amp;id=4">2010 BRDI-1A</a> and <a href="content.cfm?pub_id=4160&amp;id=4">BRDI-1B </a>were identical. <a href="#tab5">Table 5</a> below summarizes the thresholds and forms sent by year.</p>
+
+<br/>
+<div align="left"> <a name="tab5"></a>
+ 
+<table cellspacing="0">
+  <tbody>
+    <tr>
+    <td colspan="7" style="border-bottom:1px solid #BEBEBE;">Table 5. Number and type of survey forms mailed: 2008&#8211;10 <br/>
+      (Number of forms)</td>
+    </tr>
+    
+    <tr>
+      <td width="150" style="border-bottom:1px solid #BEBEBE; text-align:left">Year</td>
+      <td style="border-bottom:1px solid #BEBEBE; text-align:right">Total forms<sup>a</sup>
+</td>
+      <td width="100" style="border-bottom:1px solid #BEBEBE; text-align:right">BRDI-1
+</td>
+      <td width="150" style="border-bottom:1px solid #BEBEBE; text-align:right">BRDI-1A or BRDI-1B
+</td>
+       
+     
+    </tr>
+    <tr>
+      <td style="text-align:left;">2008</td>
+      <td style="text-align:right;">39,593
+
+</td>
+      <td style="text-align:right;">4,875
+
+
+</td>
+      <td style="text-align:right;">34,718
+
+</td>
+  
+      
+    </tr>
+    <tr>
+      <td style="text-align:left;">2009</td>
+      <td style="text-align:right;">42,826</td>
+      <td style="text-align:right;">2,501</td>
+      <td style="text-align:right;">40,325</td>
+ 
+      
+    </tr>
+    <tr>
+      <td style="text-align:left; border-bottom:1px solid #BEBEBE;">2010</td>
+      <td style="text-align:right; border-bottom:1px solid #BEBEBE;">42,314</td>
+      <td style="text-align:right; border-bottom:1px solid #BEBEBE;">2,572
+</td>
+      <td style="text-align:right;border-bottom:1px solid #BEBEBE;">39,742
+</td>
+ 
+     
+    </tr>
+    
+    
+  </tbody>
+</table> 
+
+  
+</div>
+<div class="t_notes">
+ 
+  
+  <p><sup>a</sup> For each year, the "Total forms mailed" is smaller than the sum of the &quot;Total&quot; sample size in appendix table 2 plus the number of &quot;Known positive R&amp;D&quot; companies added to the sample in appendix table 3 because some companies selected for the sample went out of business or were merged with other companies between sample selection and survey mailout&#8212;that is, the sample was updated before actual mailout of the survey questionnaires.
+  
+  <p>NOTES: Companies were sent the detailed survey form (BRDI-1) if their R&amp;D spending was at least $1.8 million in 2008 or at least $7.0 million in 2009 or 2010. All other companies received an abbreviated form (BRDI-1A). For 2010, some companies received BRDI-1B, an abbreviated form that tested questions on innovation.
+
+
+</p>
+  <p>SOURCE:  National Science Foundation/National Center for Science and Engineering Statistics and U.S. Census Bureau, Business R&amp;D and Innovation Survey.
+</p>
+ 
+</div>
+
+
+
+
+
+
+
+
+
+<p>Because of the potential compartmentalization of organizational knowledge within companies (particularly in larger companies), the BRDIS questionnaire was generally organized into sections based on the subject matter of the questions, allowing different experts within a single business to provide responses in their corresponding subject areas of expertise. These sections included the following:</p>
+<p><em>Company Information</em>. Includes basic questions about company ownership, lines of business, sales data, and measures of innovation.</p>
+<p><em>Financial Schedule A.</em> Includes accounting questions about the company's R&amp;D expenses and capital expenditures for R&amp;D. </p>
+<p><em>Financial Schedule B.</em> Includes accounting questions about R&amp;D paid for by others, such as the company's customers or grant-giving organizations.</p>
+<p><em>Management and Strategy of R&amp;D.</em> Includes questions related to the nature of the company's R&amp;D and how the R&amp;D is being performed. This section was targeted toward company employees responsible for managing R&amp;D departments or programs.</em>
+<p><em>Human Resources.</em> Includes questions related to the human resources involved in the company's R&amp;D activities.</p>
+<p><em>Intellectual Property and Technology Transfer</em>. Includes questions on the company's production, use, acquisition, and disposition of intellectual property related to science and technology, with a focus on patents.</p>
+<p>For specific differences among the 2008, 2009, and 2010 questionnaires, see &quot;Comparability.&quot;</p>
+<h3 class="dst_h3"> Response Rates</h3>
+
+<h4 class="dst_h4">Unit Response Rates </h4>
+<p>Three metrics used by NSF and the Census Bureau to measure unit response to BRDIS were check-in rates, response rates, and coverage rates.</p>
+<p>The check-in rate is defined as the number of surveys either mailed in or submitted online by in-scope companies divided by the total number of all in-scope companies in the sample. Response to individual questions did not factor into this metric.</p>
+<p>The response rate is the number of responding companies with worldwide R&amp;D expenses or costs funded by others or number of responding companies with worldwide or domestic sales or worldwide or domestic employees (if R&amp;D was nonzero) divided by total number of in-scope companies in the sample. </p>
+<p>The coverage rate is based on the same number of companies used in the numerator and denominator in the response rate. However, the coverage rate bases its numerator and denominator on each company's measure of size at the time of sample selection. The contribution of each company in the coverage rate calculation is its measure of size. Thus, the coverage rate roughly reflects how much of the population's estimated R&amp;D is accounted for by response cases.</p>
+<p>Using the metrics described above, the overall rates for BRDIS can be found below in <a href="#tab6">table 6 </a>.</p>
+
+
+<div align="left"> <a name="tab6"></a>
+ 
+<table cellspacing="0">
+  <tbody>
+    <tr>
+    <td colspan="7" style="border-bottom:1px solid #BEBEBE;">Table 6. Response measures: 2008&#8211;10 <br/>
+      (Percent of companies)</td>
+    </tr>
+    
+    <tr>
+      <td width="500" style="border-bottom:1px solid #BEBEBE; text-align:left">Measure
+</td>
+      <td width="60" style="border-bottom:1px solid #BEBEBE; text-align:right">2008
+</td>
+      <td width="60" style="border-bottom:1px solid #BEBEBE; text-align:right">2009
+</td>
+      <td width="60" style="border-bottom:1px solid #BEBEBE; text-align:right">2010
+</td>
+       
+     
+    </tr>
+    <tr>
+      <td style="text-align:left;">Check-in rate<sup>a</sup></td>
+      <td style="text-align:right;">79.5</td>
+      <td style="text-align:right;">74.9</td>
+      <td style="text-align:right;">75.1</td>
+      </tr>
+      
+    <tr>
+      <td style="text-align:left;">Response rate (unweighted)<sup>b</sup>
+</td>
+      <td style="text-align:right;">74.2</td>
+      <td style="text-align:right;">73.1</td>
+      <td style="text-align:right;">71.4</td>
+     </tr>
+     
+    <tr>
+<td style="text-align:left;">Coverage rate for known positive sampling strata (using weighted R&amp;D)<sup>c</sup></td>
+      <td style="text-align:right;">91.4</td>
+      <td style="text-align:right;">91.5</td>
+      <td style="text-align:right;">87.7</td>
+     </tr>
+     
+     <tr>
+<td style="text-align:left;">Coverage rate for unknown sampling strata (using weighted payroll)<sup>c</sup></td>
+      <td style="text-align:right;">79.9</td>
+      <td style="text-align:right;">75.0</td>
+      <td style="text-align:right;">76.2</td>
+     </tr>
+    
+    <tr>
+<td style="text-align:left; border-bottom:1px solid #BEBEBE;">Coverage rate for known zero sampling strata (using unweighted counts)<sup>c</sup></td>
+      <td style="text-align:right; border-bottom:1px solid #BEBEBE;">77.2</td>
+      <td style="text-align:right; border-bottom:1px solid #BEBEBE;">78.7</td>
+      <td style="text-align:right; border-bottom:1px solid #BEBEBE;">74.5</td>
+     </tr>
+    
+  </tbody>
+</table> 
+
+  
+</div>
+<div class="t_notes">
+ 
+  
+  <p><sup>a</sup> Number of survey responses from in-scope companies divided by total number of in-scope companies in sample. <br/>
+  
+   <sup>b</sup> Number of responding companies with worldwide R&amp;D expenses or costs funded by others or number of responding companies with worldwide or domestic sales or worldwide or domestic employees (if R&amp;D was nonzero) divided by total number of in-scope companies in sample. <br/>
+
+ <sup>c</sup> Based on the same numerator and denominator as the response rate, but each company's measure of size at the time of sample selection is taken into account.</p>
+  
+  <p>SOURCE:  National Science Foundation/National Center for Science and Engineering Statistics and U.S. Census Bureau, Business R&amp;D and Innovation Survey.
+</p>
+ 
+</div>
+
+
+
+<p>More detailed information can be found in technical tables <a href="content.cfm?pub_id=4160&amp;id=3#technical">A-4</a> through <a href="content.cfm?pub_id=4160&amp;id=3#technical">A-6</a>, which give unit response rates by industry and type of survey form.</p>
+<h4 class="dst_h4">Item Response Rates</h4>
+<p>BRDIS collects data for over 500 variables, and the distribution of values reported by sample companies is highly skewed. Thus, rather than report item response rates, total quantity response rates (TQRR) are calculated. A TQRR is the proportion of the estimated weighted total of data reported by in-scope units in the sample or from sources determined to be equivalent-quality-to-reported data (expressed as a percentage). The total quantity nonresponse rate (TQNR) is calculated as 1 minus TQRR. (See &quot;Imputation Techniques&quot; for more information.)</p>
+<h3 class="dst_h3">Editing</h3>
+<p>Given the size and complexity of BRDIS, a large number of survey responses included errors that required correction or unusual patterns that required validation. Several hundred automated edit checks were programmed to improve the efficiency of analyst data review and correction. Approximately two-thirds of these edit checks were designed to catch arithmetic errors and logically inconsistent responses (balance edits). The remaining edit checks were designed to flag outliers for further analyst review (analytical edits). Descriptions of the data edits and edit failure rates are in annual methodology reports available from the BRDIS project officer upon request.</p>
+<p>During the editing and review process several cases were identified where companies reported zero R&amp;D or a relatively small amount of R&amp;D, even though subject matter experts expected large amounts of R&amp;D to be reported. Some of these companies were contract research organizations or federal contractors that did not account for the costs they incurred conducting customer-sponsored research as R&amp;D, but rather they accounted for these as cost of sales. The largest of these companies were contacted by analysts and asked to resubmit their surveys. In rare cases, if no response could be elicited and public information was available related to costs for customer-sponsored R&amp;D, those data were used to impute an R&amp;D estimate. </p>
+<h3 class="dst_h3">Imputation Techniques</h3>
+<p>For various reasons, many firms chose to return the survey questionnaire with one or more blank items. For some firms, internal accounting systems and procedures may not have allowed quantification of specific expenditures. Others may have refused to answer any questions as a matter of company policy. When respondents did not provide the requested information, estimates for the missing data were made using imputation algorithms. In general, the imputation algorithms computed values for missing items by applying the average percentage change for the target item in the nonresponding firm's industry to the item's prior-year value for that firm, reported or imputed. This approach, with minor variation, was used for most items.</p>
+<p>For each published estimate, a corresponding TQNR was calculated to indicate the percentage of the estimate derived from imputed data. TQNR tables corresponding to each data table are available from the BRDIS project officer upon request.</p>
+<h3 class="dst_h3">Estimation</h3>
+<p>The general methodology used to produce estimates from BRDIS involves sums of weighted data (reported or imputed), in which the weights are the product of the sample weight and the unit nonresponse adjustment factor. However, there are some exceptions, which are described below.</p>
+<h4 class="dst_h4">Weighting</h4>
+Estimates published for BRDIS are computed as sums of weighted data for sample companies that reported to the survey or sample companies for whom data could be reliably imputed based on prior reports or other information. Two types of weights are used for estimates of R&amp;D: sampling weights and nonresponse adjustment weights. For any given item, the value is multiplied by both the sampling weight and the nonresponse adjustment weight, and the result is summed to create BRDIS estimates.
+</p>
+<p>The sampling weight for a given company is calculated as the reciprocal of the company's probability of inclusion in the sample. Nonresponse adjustment weights are used to represent companies in the sample that did not provide sufficient response data to be directly tabulated. The nonresponse weight for a given company is calculated as the sum of the sampling weight&#8212;weighted measure of domestic size for all companies in the sample&#8212;divided by the sampling weighted measure of domestic size for companies with reported or imputed data.</p>
+<h4 class="dst_h4">Post Sampling Industry Classification</h4>
+As noted earlier, the industry classification assigned to some companies for sampling was based on establishment payroll and had certain limitations. For the purpose of generating survey estimates, the business code data (if available) for each company was used to assign an industry code in lieu of the sampling industry code. The company&apos;s response to the domestic R&amp;D performance questions from the current year&apos;s survey was used to classify each company into the business code that accounted for the largest amount of total domestic R&amp;D performance. If no business code data was available for a company's domestic R&amp;D performance, the industry code used for sampling was used.
+</p>
+<h4 class="dst_h4">R&amp;D by State</h4>
+The estimation methodology for state estimates takes the form of a hybrid estimator, combining the unweighted reported amount by state with a weighted amount apportioned (or raked) across states with relevant industrial activity. The hybrid estimator smoothes the estimate over states with R&amp;D activity by industry and accounts for real observed change within a state. However, the weighted estimator described above is not used to estimate the number of R&amp;D performers by state.
+</p>
+<h4 class="dst_h4">Biotechnology R&amp;D Paid for by Others</h4>
+For the 2008 and 2009 cycles of BRDIS, companies were not asked to report the percentage of R&amp;D related to biotechnology they performed that was paid for by others. However, it was necessary to estimate these percentages in order to produce estimates of total U.S. biotechnology R&amp;D. To produce these estimates, the biotechnology R&amp;D percentage the company reported was applied to the total amount they reported for domestic R&amp;D performance paid for by others (if any). For example, if a company reported spending 100% of R&amp;D funds on biotechnology R&amp;D and reported domestic R&amp;D performance paid for by others, it was estimated that 100% of the domestic R&amp;D performance that was paid for by others was also for biotechnology. No amount of biotechnology R&amp;D paid for by others was estimated for companies that did not respond to the survey's biotechnology R&amp;D question.
+</p>
+<p>For the 2010 cycle of BRDIS, companies were asked to report the percentage of R&amp;D related to biotechnology they performed that was paid for by others.</p>
+<h4 class="dst_h4">Innovation</h4>
+Estimates of innovation activity are sums of weighted data (reported or imputed). For these estimates, only the sampling weight was used. There was no weighting for nonresponse.
+</p>
+<h4 class="dst_h4">R&amp;D by Business Segment Code</h4>
+To provide increased granularity on R&amp;D activities, BRDIS includes questions asking companies to report data for business units below the company level. To support subcompany reporting, BRDIS provided a list of business codes based on NAICS for companies to use to categorize their business operations. The list of business codes for the 2008 cycle of BRDIS was based on the 2002 NAICS, and the list for the 2009 and 2010 cycles of BRDIS was based on the 2007 NAICS. The transition from the 2002 to the 2007 NAICS resulted in few changes to R&amp;D-intensive industries except for the inclusion of a code in the 2007 NAICS for R&amp;D services in biotechnology. To assist companies in selecting appropriate business codes, likely business codes based on BR payroll information were preprinted on the forms mailed to some companies.
+</p>
+<h3 class="dst_h3"> Sampling Variability</h3>
+Estimates of sampling variability were calculated for all published estimates. For estimates of level, the relative standard error (RSE) is given. For percentage estimates, the standard error is presented. Tables of RSEs corresponding to each data table are available from the BRDIS project officer upon request.
+</p>
+<h3 class="dst_h3">Measurement Error</h3>
+Variations in respondent interpretations of the definitions of R&amp;D activities and variations in accounting procedures are of particular concern. Specifically, some companies have difficulty separating basic research from applied research or locating geographically where R&amp;D is performed. The sophistication and comprehensiveness of a company's accounting system often depends on its size and activities and its willingness to accommodate government-sponsored surveys. Ongoing efforts to minimize measurement error include questionnaire pretesting, improvement of questionnaire wording and format, inclusion of more cues and examples in the questionnaire instructions, consultations with respondents, post-survey evaluations, record check studies, and computer editing.
+</p>
+<p class="hideFromPrint"><a href="#top"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_up2.gif" width="7" height="9" hspace="3" border="0" align="bottom" alt="Top of page." title="Top of page."/></a>&nbsp;<a href="#top">Back to Top</a></p>
+<a name="definitions" id="definitions"></a>
+<h2>Survey Definitions</h2>
+<p><em>R&amp;D and business R&amp;D.</em> R&amp;D is planned, creative work aimed at discovering new knowledge or developing new or significantly improved goods and services. This includes (1) activities aimed at acquiring new knowledge or understanding without specific immediate commercial applications or uses (basic research), (2) activities aimed at solving a specific problem or meeting a specific commercial objective (applied research), and (3) systematic use of research and practical experience to produce new or significantly improved goods, services, or processes (development). R&amp;D does not include expenditures for routine product testing, quality control, and technical services unless they are an integral part of an R&amp;D project. R&amp;D also does not include market research; efficiency surveys or management studies; literary, artistic, or historical projects, such as films, music, or books and other publications; and prospecting or exploration for natural resources.</p>
+<p><em>Expense and R&amp;D expense</em>. Involves money spent or cost incurred in an organization's efforts to generate revenue, representing the cost of doing business. Expenses may be in the form of actual cash payments (such as wages and salaries), a computed expired portion (depreciation) of an asset, or an amount taken out of earnings (such as bad debts). Expenses are summarized and charged in the income statement as deductions from the income before assessing income tax. Whereas all expenses are costs, not all costs are expenses (for example, costs incurred in acquisition of income generating assets&#8212;see capital expense below). R&amp;D expense is the cost of R&amp;D funded by the company itself and performed within the respondent company&apos;s facilities, both foreign and domestic, or performed by others outside of the company under contract, subcontract, grant, or other funding arrangement.</p>
+<p><em>Expense, capital</em>. Capital expenses or expenditures are payments by a business for fixed assets that usually have a useful life of more than 1 year, like buildings and equipment. Capital expenses are not used for ordinary day-to-day operating expenses of a business, like rent, utilities, and insurance. BRDIS collects data for capital expenses for R&amp;D operations for structures, equipment, capitalized software, and other items.</p>
+<p><em>Sales, worldwide and domestic</em>. Dollar values for goods sold or services rendered by R&amp;D-performing or R&amp;D-funding companies to customers outside the company, including the U.S. federal government, less such items as returns, allowances, freight, charges, and excise taxes. Included are worldwide sales by a company&apos;s foreign operations and subsidiaries, as well as revenues from domestic operations located in the 50 United States and the District of Columbia; intracompany transfers are excluded. If a respondent company is owned by a foreign parent company, sales to the parent company and affiliates not owned by the respondent companies are included.</p>
+<p><em>Employment, total and R&amp;D.</em> Involves the number of people employed by R&amp;D-performing or R&amp;D-funding companies in all locations, both foreign and domestic, during the pay period that included March 12 of the survey year. (March 12 is the date most employers use when paying first quarter employment taxes to the Internal Revenue Service.) R&amp;D employees are those who provide direct support to R&amp;D, such as researchers, R&amp;D managers, technicians, clerical staff, and others assigned to R&amp;D groups. Those not included are employees who provide indirect support to R&amp;D, such as corporate personnel, security guards, and cafeteria workers. In addition to headcounts of total and R&amp;D employees, BRDIS also offers estimates of full-time-equivalent domestic R&amp;D employment. This is the number of persons employed who were assigned full time to R&amp;D, plus a prorated number of employees who worked on R&amp;D only part of the time.</p>
+<p><em>Innovation.</em> BRDIS questions on innovation activities refer only to product and process innovation. A product innovation is the market introduction of a new or significantly improved good or service with respect to its capabilities, user friendliness, components, or subsystems. A process innovation is the implementation of a new or significantly improved production process, distribution method, or support activity for the company&apos;s goods or services. Product and process innovations (new or improved) must be new to the respondent company, but they do not need to be new to the company&apos;s market, and the innovations could have been originally developed by the respondent company or by other companies. Purely organizational innovations (i.e., those of benefit only to the company) are excluded.</p>
+<p><em>R&amp;D paid for by the company and others, worldwide and domestic.</em> Involves the cost of R&amp;D funded by the company itself or by others outside of the company and performed within the respondent company&apos;s facilities, both foreign and domestic, or performed by others outside of the company under contract, subcontract, grant, or other funding arrangement.</p>
+<p><em>R&amp;D paid for by others, worldwide and domestic.</em> The cost of R&amp;D funded by others outside of the company, including the U.S. federal government, and performed within the respondent company&apos;s facilities, both foreign and domestic.</p>
+<p><em>R&amp;D performed by the company, worldwide and domestic.</em> The cost of R&amp;D performed within the respondent company&apos;s facilities, both foreign and domestic, funded by the company itself or by others outside of the company.</p>
+<p><em>R&amp;D performed by the company and others, worldwide and domestic.</em> The cost of R&amp;D performed within the respondent company&apos;s facilities, both foreign and domestic, or performed by others outside of the company under contract, subcontract, grant, or other funding arrangement.</p>
+<p><em>R&amp;D performed by others, worldwide and domestic.</em> Involves the cost of R&amp;D funded by the company itself or by others outside of the company and performed by others outside of the company under contract, subcontract, grant, or other funding arrangement. </p>
+<em>R&amp;D, biotechnology.</em> R&amp;D activity in biotechnology refers to activities involving the use of cellular and biomolecular processes to solve problems or make useful products. The following list provides examples of areas of biotechnology in which R&amp;D may be performed.
+<ul>
+  <li>DNA or RNA: Genomics; pharmacogenomics; gene probes; genetic engineering; DNA or RNA sequencing, synthesis, or amplification; gene expression profiling; and use of antisense technology.</li>
+  <li>Proteins and other molecules: Sequencing, synthesis, or engineering of proteins and peptides (including large molecule hormones); improved delivery methods for large molecule drugs; proteomics, protein isolation and purification; signaling; and identification of cell receptors.</li>
+  <li>Cell and tissue culture and engineering: Cell or tissue culture, tissue engineering (including tissue scaffolds and biomedical engineering), cellular fusion, vaccine or immune stimulants, and embryo manipulation.</li>
+  <li>Process biotechnology techniques: Fermentation using bioreactors, bioprocessing, bioleaching, biopulping, biobleaching, biodesulphurisation, bioremediation, biofiltration and phytoremediation.</li>
+  <li>Gene and RNA vectors: Gene therapy and viral vectors. </li>
+  <li>Bioinformatics: Construction of databases on genomes, protein sequences, and modeling complex biological processes, including systems biology.</li>
+  <li>Nanobiotechnology: Applies the tools and processes of nano- or microfabrication to build devices for studying biosystems and applications in, for example, drug delivery or diagnostics.</li>
+</ul>
+<br/>
+<p><em>R&amp;D, nanotechnology.</em> R&amp;D activity in nanotechnology refers to activities involving science and technology involved in the study, creation, or use of objects at the nanoscale, which is generally considered to be 100 nanometers or smaller. Many technologies related to conventional solid-state semiconductor manufacturing are capable of creating features smaller than 100 nanometers, and R&amp;D involving these technologies is included in the BRDIS data collection.</p>
+<p><em>R&amp;D, software and Internet.</em> R&amp;D activity in software and Internet applications refers only to activities with an element of uncertainty and that are intended to close knowledge gaps and meet scientific and technological needs. This item is reported in this survey regardless of the eventual user (internal or external). R&amp;D activity in software includes software development or improvement activities that expand scientific or technological knowledge and construction of new theories and algorithms in the field of computer science. R&amp;D activity in software excludes software development that does not depend on a scientific or technological advance, such as supporting or adapting existing systems, adding functionality to existing application programs, routine debugging of existing systems and software, creating new software based on known methods and applications, converting or translating existing software and software languages, and adapting a product to a specific client, unless knowledge that significantly improved the base program was added in that process.</p>
+<p class="hideFromPrint"><a href="#top"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_up2.gif" width="7" height="9" hspace="3" border="0" align="bottom" alt="Top of page." title="Top of page."/></a>&nbsp;<a href="#top">Back to Top</a></p>
+<a name="comparability" id="comparability"></a>
+<h2>Comparability</h2>
+<h3 class="dst_h3">Differences between the 2009 and 2010 BRDIS Questionnaires</h3>
+<p>An additional section entitled &quot;R&amp;D Time Frame and R&amp;D Product Life&quot; was added to the questionnaire for the 2010 cycle to aid in estimating the depreciation of R&amp;D when it is treated as an investment in the U.S. System of National Accounts.
+</p>
+<p> Additionally, two different sets of questions measuring innovation were used to explore the effect of different questions and embedded instructions on measured innovation rates. Although the innovation questions on the 2010 Form BRDI-1A were identical to questions used on the 2009 Form BRDI-1A, the 2010 Form BRDI-1B altered the questions and instructions to replicate innovation questions on the European Union&apos;s Community Innovation Survey. The experiment did not produce statistically significant differences in measured rates of innovation. </p>
+<h3 class="dst_h3">Differences between the 2008 and 2009 BRDIS Questionnaires</h3>
+<p>Several changes were made to the 2009 BRDIS questionnaire, in part to address reporting errors observed during the 2008 survey cycle. Briefly, these changes included the following:</p>
+
+<ol style="padding-bottom:0">
+  <li>Removing a screening question at the beginning of the form asking companies whether they had R&amp;D activity during the reporting period. <br/><br/></li>
+  <li> Replacing exclude instructions in the main R&amp;D expense question with a series of targeted questions. This approach was based on the premise that the economic concepts requested by BRDIS do not always conform to the R&amp;D measures tracked by companies. Rather than directly ask for concepts that may diverge from respondent preconceptions about R&amp;D, the approach in 2009 guided respondents to derive amounts that conformed to the BRDIS definition of R&amp;D. <br/><br/></li>
+  <li>Replacing include instructions in the main R&amp;D paid for by others question with a series of targeted questions. <br/><br/></li>
+  <li>Deriving "R&amp;D performed by others," rather than asking for the concept directly. For the 2009 cycle of BRDIS the concept of "R&amp;D performed by others" was derived from the sum of two R&amp;D costs known to be tracked by companies: payments to business partners for collaborative R&amp;D and purchased R&amp;D services.<br/><br/></li>
+  <li>Switching the order of the Management and Strategy of R&amp;D and Financial Schedule B (R&amp;D paid for by others) sections. <br/><br/></li>
+</ol>
+<p class="hideFromPrint"><a href="#top"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_up2.gif" width="7" height="9" hspace="3" border="0" align="bottom" alt="Top of page." title="Top of page."/></a>&nbsp;<a href="#top">Back to Top</a></p>
+<a name="data" id="data"></a>
+<h2>Data Availability</h2>
+<h3 class="dst_h3">Publications</h3>
+<p>The data from BRDIS can be found online at <a href="/5902/20181004023433/https://www.nsf.gov/statistics/industry/">http://www.nsf.gov/statistics/industry/</a>. Detailed historical statistics from the predecessor survey, SIRD, can be obtained from NSF's Industrial Research and Development Information System (IRIS) at <a href="/5902/20181004023433/https://www.nsf.gov/statistics/iris/">http://www.nsf.gov/statistics/iris/</a>. Information from BRDIS is also included in <em>Science and Engineering Indicators and in National Patterns of R&amp;D Resources</em>.</p>
+<h3 class="dst_h3">Electronic Access</h3>
+BRDIS contains confidential data that are protected under Title 13 and Title 26. Two types of data are currently available: public-use tabular statistics and restricted microdata.
+</p>
+<p>Microdata for SIRD and BRDIS can only be accessed at Census&apos; 15 secure Research Data Centers. To learn more about the Research Data Centers and how to apply for data use, please visit the Center for Economic Studies&apos; page on research opportunities (<a href="https://wayback.archive-it.org/5902/20181004023433/http://www.census.gov/ces/rdcresearch/index.html">http://www.census.gov/ces/rdcresearch/index.html</a>). </p>
+<br/>
+<p class="hideFromPrint"><a href="#top"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_up2.gif" width="7" height="9" hspace="3" border="0" align="bottom" alt="Top of page." title="Top of page."/></a>&nbsp;<a href="#top">Back to Top</a></p>
+<br/>
+
+<h2 id="technical">Technical Tables</h2>
+<br/>
+<div class="tablewrapper">
+  <table width="100%" border="0" cellspacing="1" cellpadding="2">
+    <tr class="row">
+      <th class="tab_number">&nbsp;</th>
+      <th>Table Title</th>
+      <th class="highlight">Excel</th>
+      <th class="highlight">PDF</th>
+    </tr>
+    <tr class="row">
+      <th width="34" class="tab_header">&nbsp;</th>
+      <th colspan="3" class="pale">by industry and company size: 2008</th>
+    </tr>
+    <tr class="row">
+      <td class="tab_number" align="center"><a name="taba1" id="taba1"></a>A-1</td>
+      <td class="indent_1">companies in the target population and selected for the sample </td>
+      <td class="highlight" align="center"><a href="tables/taba1.xls"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/excel.gif" alt="view Excel." title="view Excel." width="15" height="15" border="0"/></a></td>
+      <td class="highlight" align="center"><a href="pdf/taba1.pdf"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/pdf.gif" alt="view PDF." title="view PDF." width="16" height="14" border="0"/></a></td>
+    </tr>
+    <tr class="row">
+      <td class="tab_number" align="center"><a name="taba2" id="taba2"></a>A-2</td>
+      <td class="indent_1">unit response rates</td>
+      <td class="highlight" align="center"><a href="tables/taba2.xls"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/excel.gif" alt="view Excel." title="view Excel." width="15" height="15" border="0"/></a></td>
+      <td class="highlight" align="center"><a href="pdf/taba2.pdf"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/pdf.gif" alt="view PDF." title="view PDF." width="16" height="14" border="0"/></a></td>
+    </tr>
+    <tr class="row">
+      <th width="34" class="tab_header">&nbsp;</th>
+      <th colspan="3" class="pale">by industry and company size: 2009</th>
+    </tr>
+    <tr class="row">
+      <td class="tab_number" align="center"><a name="taba3" id="taba3"></a>A-3</td>
+      <td class="indent_1">companies in the target population and selected for the sample </td>
+      <td class="highlight" align="center"><a href="tables/taba3.xls"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/excel.gif" alt="view Excel." title="view Excel." width="15" height="15" border="0"/></a></td>
+      <td class="highlight" align="center"><a href="pdf/taba3.pdf"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/pdf.gif" alt="view PDF." title="view PDF." width="16" height="14" border="0"/></a></td>
+    </tr>
+    <tr class="row">
+      <td class="tab_number" align="center"><a name="taba4" id="taba4"></a>A-4</td>
+      <td class="indent_1">unit response rates </td>
+      <td class="highlight" align="center"><a href="tables/taba4.xls"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/excel.gif" alt="view Excel." title="view Excel." width="15" height="15" border="0"/></a></td>
+      <td class="highlight" align="center"><a href="pdf/taba4.pdf"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/pdf.gif" alt="view PDF." title="view PDF." width="16" height="14" border="0"/></a></td>
+    </tr>
+    <tr class="row">
+      <th width="34" class="tab_header">&nbsp;</th>
+      <th colspan="3" class="pale">by industry and company size: 2010 </th>
+    </tr>
+    <tr class="row">
+      <td class="tab_number" align="center"><a name="taba5" id="taba5"></a>A-5</td>
+      <td class="indent_1">companies in the target population and selected for the sample </td>
+      <td class="highlight" align="center"><a href="tables/taba5.xls"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/excel.gif" alt="view Excel." title="view Excel." width="15" height="15" border="0"/></a></td>
+      <td class="highlight" align="center"><a href="pdf/taba5.pdf"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/pdf.gif" alt="view PDF." title="view PDF." width="16" height="14" border="0"/></a></td>
+    </tr>
+    <tr class="row">
+      <td class="tab_number" align="center"><a name="taba6" id="taba6"></a>A-6</td>
+      <td class="indent_1">unit response rates</td>
+      <td class="highlight" align="center"><a href="tables/taba6.xls"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/excel.gif" alt="view Excel." title="view Excel." width="15" height="15" border="0"/></a></td>
+      <td class="highlight" align="center"><a href="pdf/taba6.pdf"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/pdf.gif" alt="view PDF." title="view PDF." width="16" height="14" border="0"/></a></td>
+    </tr>
+  </table>
+</div>
+<br/>
+<p class="hideFromPrint"><a href="#top"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_up2.gif" width="7" height="9" hspace="3" border="0" align="bottom" alt="Top of page." title="Top of page."/></a>&nbsp;<a href="#top">Back to Top</a></p>
+<br/>
+	
+			
+	<!-- End main content include -->
+	<!-- Start previous, top, next -->
+	<div class="hideFromPrint">
+		<table width="100%" cellpadding="1" border="0" id="printFriendly3" class="text">
+			<tr>
+         		<td bgcolor="#ffffff" align="left" width="33%" valign="top">
+					
+							<a href="content.cfm?pub_id=4160&amp;id=2"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_left2.gif" width="9" height="7" hspace="2" border="0" alt="Previous section." title="Previous section."/></a><a href="content.cfm?pub_id=4160&amp;id=2" class="text">Previous</a>
+							
+				</td>
+        		<td bgcolor="#ffffff" align="center" width="33%" valign="top"><a href="#top"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_up2.gif" width="7" height="9" hspace="3" border="0" align="bottom" alt="Top of page." title="Top of page."/></a><a href="#top" class="text">Top</a> </td>
+        		<td bgcolor="#ffffff" align="right" width="33%" valign="top">
+					
+						  <a href="content.cfm?pub_id=4160&amp;id=4" class="text">Next</a><a href="content.cfm?pub_id=4160&amp;id=4"><img src="/5902/20181004023433im_/https://www.nsf.gov/statistics/graphics/arrow_right2.gif" width="9" height="7" hspace="2" border="0" alt="Next section." title="Next section."/></a>
+											
+				</td>
+			</tr>
+		</table>	
+	</div>
+	<!-- End previous, top, next -->
+	<div id="wrapper5spacer"></div>   <!-- needed to clear divs -->
+	
+	</div>  <!-- wrapper4main -->
+
+</div>   <!-- /wrapper2 -->
+
+	<!-- Start publication related footer -->
+	<div id="wrapper6">
+		<div id="grayspacer">&nbsp;</div>
+		   <div id="srsfooter">
+	
+			<div class="horizontal"></div>	 
+
+			<div class="ftr_greytext">	
+
+				
+					<strong class="greybold">Business Research and Development and Innovation: 2008&#8211;10</strong> <br/>
+						Detailed Statistical Tables | NSF 13-332  | 
+September 2013 
+<div id="footnotes">
+    <p style="font-weight:bold; padding-top:10px;">Notes:</p>
+        
+        <div id="43"><a name="43"></a>
+          Tables 124, 139, and 141 contained errors in data reported and have been replaced with corrected versions. Specific corrections are as follows. Table 124:&nbsp; total number of full-time equivalent scientists and engineers column for several industries. Table 139: number of companies reporting R&amp;D in the energy application area for mining, extraction, and support activities and other nonmanufacturing industries and in the environmental protection area for agricultural implement and other machinery manufacturing industries. Table 141: number of companies reporting R&amp;D in medical clinical trials for other chemicals and other manufacturing industries, number of companies reporting R&amp;D in nanotechnology for semiconductor machinery and other machinery manufacturing industries, and the amount of domestic R&amp;D paid for in medical clinical trials for other chemicals.<br/>
+
+          <div align="right" style="padding-right:5px;"><a href="/5902/20181004023433/https://www.nsf.gov/statistics/errata.cfm">NCSES Errata</a></div>
+        </div>
+        
+        <div id="47"><a name="47"></a>
+          The title of table 106 has been corrected from &ldquo;paid for by others&rdquo; to &ldquo;paid for and performed by the company.&rdquo;
+          <div align="right" style="padding-right:5px;"><a href="/5902/20181004023433/https://www.nsf.gov/statistics/errata.cfm">NCSES Errata</a></div>
+        </div>
+        
+    </div>
+    <div class="highslide-header" id="close-heading"> <a href="#" onclick="hs.close(this); return false;">Close</a> </div>
+    <!-- Hide footnotes with javaScript. If javaScript is off then footnotes will be displayed at bottom of the page, i.e. not in the lightbox -->
+    <script type="text/javascript">document.getElementById('footnotes').style.display = "none";</script>
+                
+                
+			</div>
+			
+			<div id="wrapper5spacer"></div>   <!-- needed to clear divs -->	
+					
+   			</div>  <!-- /srsfooter -->
+	</div>  <!-- /wrapper6 -->
+	<!-- End publication related footer -->
+</div>  <!-- /contentwrapper -->
+
+
+		
+  
+<div style="background-color:#e6e6e6">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bg_gray">
+			<tr>
+				<td class="ftr_greytext" colspan="4"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" alt="" width="100%" height="6px" border="0"/></td>
+			</tr>
+ 
+</table>
+<div class="footer">
+    <div class="footer-subnav">
+        <ul>
+          <li><a href="https://wayback.archive-it.org/5902/20181004023433/http://www.research.gov/">Research.gov</a></li>
+          <li><a href="https://wayback.archive-it.org/5902/20181004023433/http://www.usa.gov/">USA.gov</a></li>
+          <li><a href="https://wayback.archive-it.org/5902/20181004023433/http://business.usa.gov/">BusinessUSA</a></li>
+          <li><a href="https://wayback.archive-it.org/5902/20181004023433/http://www.nsf.gov/recovery/">Recovery Act</a></li>
+          <li><a href="/5902/20181004023433/https://www.nsf.gov/about/performance/">Budget and Performance</a></li>
+          <li class="last"><a href="/5902/20181004023433/https://www.nsf.gov/publications/pub_summ.jsp?ods_key=afr">Annual Financial Report</a></li>
+        </ul>
+        <ul>
+          <li><a href="/5902/20181004023433/https://www.nsf.gov/policies/">Web Policies and Important Links</a></li>
+          <li><a href="/5902/20181004023433/https://www.nsf.gov/policies/privacy.jsp">Privacy</a></li>
+          <li><a href="/5902/20181004023433/https://www.nsf.gov/policies/foia.jsp">FOIA</a></li>
+          <li><a href="/5902/20181004023433/https://www.nsf.gov/od/odi/nofearact_notice.jsp">NO FEAR Act</a></li>
+          <li><a href="/5902/20181004023433/https://www.nsf.gov/oig/">Inspector General</a></li>
+          <li><a href="/5902/20181004023433/https://www.nsf.gov/statistics/feedback.cfm">Webmaster Contact</a></li>
+          <li class="last"><a href="/5902/20181004023433/https://www.nsf.gov/help/sitemap.jsp">Site Map</a></li>
+        </ul>
+    </div><!--End footer-subnav -->
+    <div class="nsf-logo-bottom">
+      <img src="/5902/20181004023433im_/https://www.nsf.gov/images/nsf_logo_bottom.png" alt="National Science Foundation Logo"/>
+    </div><!--End nsf-logo-bottom -->
+    <div class="footer-address">
+      <span>The National Science Foundation, 4201 Wilson Boulevard, Arlington, Virginia 22230, USA
+  Tel:  (703) 292-5111, FIRS: (800) 877-8339 | TDD: (800) 281-8749</span>
+    </div><!--End footer-address -->
+    <div class="footer-text-only">
+      <ul>
+        <li class="last"><a href="https://wayback.archive-it.org/5902/20181004023433/https://assistive.usablenet.com/tt/referrer">Text Only Version</a></li>
+      </ul>
+    </div>
+    </div><!--End footer -->
+
+    <!-- ========================================================================================= -->
+
+
+<table>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+  if (opener != null)
+  {
+    if (opener.printFlag)
+    {
+      printThisPage();
+    }
+  }
+//-->
+</script>
+<script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/js/AC_OETags.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 8;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Minor version of Flash required
+var requiredRevision = 0;
+
+// Variable to check if the browser is IE
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+
+var detectableWithVB = false;
+var pluginFound = false;
+var flashVersion = 0;
+
+function detectPlugin() {
+
+    // write out the VBScript block for MSIE Windows
+    //if ((navigator.userAgent.indexOf('MSIE') != -1) && (navigator.userAgent.indexOf('Win') != -1)) {
+        document.writeln('<script language="VBscript">');
+        document.writeln('detectableWithVB = False');
+        document.writeln('If ScriptEngineMajorVersion >= 2 then');
+        document.writeln('  detectableWithVB = True');
+        document.writeln('End If');
+        document.writeln('Function detectActiveXControl(activeXControlName)');
+        document.writeln('  on error resume next');
+        document.writeln('  detectActiveXControl = False');
+        document.writeln('  If detectableWithVB Then');
+        document.writeln('     detectActiveXControl = IsObject(CreateObject(activeXControlName))');
+        document.writeln('          For counter = 2 to 20 ');
+        document.writeln('              If Not(IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & counter))) Then ');
+        document.writeln('              Else ');
+        document.writeln('                  flashversion = counter ');
+        document.writeln('              End If ');
+        document.writeln('          Next ');
+        document.writeln('  End If');
+        document.writeln('End Function');
+        document.writeln('</scr' + 'ipt>');
+    //}
+}
+
+function canDetectPlugins() {
+    if( detectableWithVB || (navigator.plugins && navigator.plugins.length > 0) ) {
+        return true;
+    } else {
+        return false;
+    }
+}
+
+// Only perform flash check in IE
+if (isIE)
+{
+    //check if flash exist
+    pluginFound = detectPlugin('Shockwave','Flash');
+    // if not found, try to detect flash with VisualBasic
+    if(!pluginFound && detectableWithVB) {
+        pluginFound = detectActiveXControl('ShockwaveFlash.ShockwaveFlash');
+        //if flash is found, check for version
+        if (pluginFound) {
+            // Version check based upon the values entered above in "Globals"
+            var hasReqestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+
+            var flashVersion = GetSwfVer();
+
+            // If flash version does not meet requirement, forward user to flash message page
+            if (!hasReqestedVersion)
+            {
+                var alternateContent = flashVersion + 'An old version of the Flash plugin was detected. <strong><a href="https://wayback.archive-it.org/5902/20181004023433/http://www.macromedia.com/go/getflash/">Please upgrade your Flash plugin.</a></strong>';
+                document.write(alternateContent);  // insert non-flash content
+                location.href = '/flash_message.jsp';
+            }
+        }
+    }
+
+}
+//-->
+</script>
+<script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/js/jquery.selectbox.js"></script>
+<script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/js/init.js"></script>
+
+<!-- Search Input -->
+<script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/js/modernizr.js"></script>
+<script type="text/javascript" src="/5902/20181004023433js_/https://www.nsf.gov/js/inputpolyfil.js"></script> 
+
+<!-- DigitalGov Search -->
+<script type="text/javascript">
+//<![CDATA[
+      var usasearch_config = { siteHandle:"nsf" };
+
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "https://wayback.archive-it.org/5902/20181004023433/https://search.usa.gov/javascripts/remote.loader.js";
+      document.getElementsByTagName("head")[0].appendChild(script);
+
+//]]>
+</script>
+
+
+
+      	</table>
+</div>
+
+    </td> 
+    <td class="ftr_greytext" bgcolor="#e6e6e6"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="5" height="1" alt="" border="0"/></td> 
+  </tr>  
+  <tr> 
+    <td colspan="3" bgcolor="#e6e6e6"><img src="/5902/20181004023433im_/https://www.nsf.gov/images/x.gif" width="5" height="5" alt="" border="0"/></td> 
+  </tr> 
+</table> 
+
+</body>
+
+<!-- InstanceEnd -->
+</html>
+<!--
+     FILE ARCHIVED ON 02:34:33 Oct 04, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:13:16 Oct 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
