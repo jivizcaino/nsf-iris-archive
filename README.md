@@ -45,9 +45,22 @@ File: `raw/pages/excel-files_nsf_2007_36.xls`.
 - Type-of-cost data come only from Form RD-1, the questionnaire sent to larger R&D performers. The cost-type universe is therefore smaller than total industrial R&D. This also explains why h-27 totals fall below published total industrial R&D in early years.
 - Industry estimates from 2004 onward are not directly comparable with earlier years (change in the method that assigns industry codes).
 
-## BERD 2023 (NSF 25-354)
+## BRDIS, BRDS, and BERD, 2015 to 2023
 
-Source: https://ncses.nsf.gov/surveys/business-enterprise-research-development/2023. All 76 Excel tables are in `raw_berd2023/`. Extract of table 10: `data/berd2023_tab10_type_of_cost.csv`.
+All Excel data tables for each year are in `raw_brdis_berd/<year>/`. Sources (NCSES report numbers): 2015 NSF 18-313, 2016 NSF 19-318 (BRDIS); 2017 NSF 20-311, 2018 NSF 21-312 (BRDS); 2019 NSF 22-329, 2020 NSF 23-314, 2021 NSF 23-351, 2022 NSF 24-335, 2023 NSF 25-354 (BERD). Table numbers differ by year; table 10 (type of cost) is the same in every year.
+
+Panel extract of table 10, 2015 to 2023: `data/berd_tab10_type_of_cost_2015_2023_long.csv` (long, with flags) and `data/berd_tab10_type_of_cost_2015_2023_shares.csv` (shares). The cost items are identical across years, except that royalties and licensing fees start in 2016.
+
+| Year | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+|---|---|---|---|---|---|---|---|---|---|
+| Salaries, wages, fringe / total | 57.4 | 57.4 | 57.8 | 56.2 | 54.4 | 55.8 | 54.7 | 53.5 | 53.7 |
+| Adding stock pay and temporary staff | 66.9 | 67.6 | 68.0 | 66.9 | 66.6 | 69.2 | 69.4 | 68.3 | 69.7 |
+
+The 2008 to 2014 BRDIS reports are only on Archive-It. They are queued in the crawler.
+
+### BERD 2023 table guide (NSF 25-354)
+
+Extract of table 10 for 2023 only: `data/berd2023_tab10_type_of_cost.csv`.
 
 Tables relevant to the panel, all by NAICS industry (about 70 rows, including detailed nonmanufacturing) and company size:
 

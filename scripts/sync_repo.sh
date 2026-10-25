@@ -3,12 +3,12 @@
 set -e
 SRC=/home/user/iris; DST=/home/user/nsf-iris-archive; BR=ccr-3e40781d-04vz1j
 mkdir -p "$DST/raw/pages" "$DST/raw/logs" "$DST/scripts" "$DST/data"
-cp -u "$SRC"/crawl/pages/* "$DST/raw/pages/"
+cp -ru "$SRC"/crawl/pages/. "$DST/raw/pages/"
 cp "$SRC/crawl/crawl2_log.tsv" "$SRC/crawl/state2.json" "$DST/raw/logs/"
 cp -u "$SRC"/scripts/* "$DST/scripts/"
 cp -u "$SRC"/data/* "$DST/data/" 2>/dev/null || true
 cp -u "$SRC/README.md" "$DST/README.md"
-mkdir -p "$DST/raw_berd2023"; cp -u "$SRC"/berd/raw/x/*/*.xlsx "$SRC"/berd/raw/x/*.xlsx "$DST/raw_berd2023/" 2>/dev/null || true
+mkdir -p "$DST/raw_brdis_berd"; for y in 2015 2016 2017 2018 2019 2020 2021 2022 2023; do mkdir -p "$DST/raw_brdis_berd/$y"; cp -u "$SRC"/berd/y$y/*.xlsx "$DST/raw_brdis_berd/$y/"; done; rm -rf "$DST/raw_berd2023"
 cd "$DST"
 git checkout -q -B "$BR" 2>/dev/null || true
 git add -A

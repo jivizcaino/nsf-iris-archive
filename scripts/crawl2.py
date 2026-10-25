@@ -34,6 +34,11 @@ if state_f.exists():
 else:
     seen = {ROOT}; heap = [(0, 0, ROOT)]
 counter = len(seen)
+EXTRA_SEEDS = ["https://www.nsf.gov/statistics/srvyindustry/", "https://www.nsf.gov/statistics/2018/nsf18302/"]
+for sd in EXTRA_SEEDS:
+    if sd not in seen:
+        seen.add(sd); counter += 1; heapq.heappush(heap, (0, counter, sd))
+BRDIS_PAGE = re.compile(r"^https://www\.nsf\.gov/statistics/(srvyindustry/|(20\d\d/)?nsf\d{5}/)", re.I)
 
 def fetch(url):
     wait = 60
@@ -55,12 +60,24 @@ def orig_of(base, h):
     if re.search(r"\.(gif|jpe?g|png|css|js|ico)$", o, re.I): return None
     return o
 
+def brdis_link(base, h, parent):
+    u = urllib.parse.urljoin(base, html.unescape(h).strip()).split("#")[0]
+    m = re.match(r"https?://wayback\.archive-it\.org/5902/\d+[a-z_]*/(.*)", u)
+    o = re.sub(r"^https?:/+", "https://", m.group(1) if m else u).replace("http://", "https://")
+    if "srvyindustry/" in parent and re.match(r"^https://www\.nsf\.gov/statistics/(20\d\d/)?nsf\d{5}/$", o): return o
+    if re.match(r"^https://www\.nsf\.gov/statistics/(20\d\d/)?nsf\d{5}/", o) and re.search(r"\.(xlsx?|zip|pdf)$", o, re.I) \
+       and re.search(r"tab|dst|table", o, re.I) and not o.lower().endswith(".pdf"): return o
+    if re.match(r"^https://www\.nsf\.gov/statistics/(20\d\d/)?nsf\d{5}/[a-z_]*\.(cfm|htm)", o) and re.search(r"tab|content|toc|data", o, re.I) and BRDIS_PAGE.match(parent): return o
+    return None
+
 n = 0
 while heap:
     p, _, orig = heapq.heappop(heap); n += 1
     code, ctype, eff, body = fetch(PRE + orig)
-    rel = orig[len(ROOT):] or "index.html"
-    safe = re.sub(r"[^A-Za-z0-9._=-]", "_", rel)
+    rel = (orig[len(ROOT):] or "index.html") if orig.startswith(ROOT) else "brdis/" + re.sub(r"^https://www\.nsf\.gov/statistics/", "", orig)
+    (OUT / "pages" / "brdis").mkdir(exist_ok=True)
+    safe = ("brdis/" + re.sub(r"[^A-Za-z0-9._=-]", "_", rel[6:]) or "index.html") if rel.startswith("brdis/") else re.sub(r"[^A-Za-z0-9._=-]", "_", rel)
+    if safe.endswith("/") or safe.endswith("_"): safe += "index.html"
     fn = OUT / "pages" / safe
     fn.write_bytes(body)
     log.write(f"{p}\t{code}\t{ctype}\t{len(body)}\t{safe}\t{orig}\n"); log.flush()
@@ -69,6 +86,8 @@ while heap:
         t = body.decode("latin-1")
         for h in re.findall(r'(?:href|src|action)\s*=\s*["\']([^"\']+)', t, re.I):
             o = orig_of(eff or (PRE + orig), h)
+            if o is None and BRDIS_PAGE.match(orig):
+                o = brdis_link(eff or (PRE + orig), h, orig)
             if o and o not in seen:
                 seen.add(o); counter += 1; heapq.heappush(heap, (prio(o, p), counter, o))
     state_f.write_text(json.dumps({"seen": sorted(seen), "heap": heap}))
