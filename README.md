@@ -149,6 +149,12 @@ The wage share alone (excluding fringe benefits) is the measure available on bot
 
 Caption: Wages of R&D personnel as a share of total R&D cost, by harmonized industry group (blue), against all industries (gray). Fringe benefits excluded. SIC classification through 1998 and NAICS from 1999 (dashed line); the two segments are not joined. Data are biennial from 1977 to 1997; lines break where NSF withheld or did not report a year. The 1985 group values use IRIS h-25 total R&D as weights, because h-27 reports no dollar totals for 1985. † marks groups whose SIC-NAICS link is recommended with care (see `data/crosswalk_sic_naics_rd.csv`). Source: NSF Survey of Industrial Research and Development (IRIS h-27; SIRD 1999-2007) and BRDIS 2008.
 
+## Figure: R&D wages-and-fringe share by industry, 2002 to 2023
+
+`figures/wages_fringe_share_by_industry_2002_2023.png` and `.pdf`, produced by `scripts/plot_wages_fringe_share.py` from `data/panel_harmonized_rd_cost_shares.csv` (NAICS side).
+
+Caption: Wages and fringe benefits of R&D personnel as a share of total R&D cost, by industry (blue), against all industries (gray). 2002-08: sum of the two reported items; from 2009 NSF reports them as one item. Stock-based compensation and temporary staffing (reported from 2008) are excluded. The dashed line marks the change from SIRD to BRDIS between 2007 and 2008; the two segments are not joined. Lines break where NSF withheld a year. Source: NSF SIRD 2002-07, BRDIS 2008-16, BRDS 2017-18, BERD 2019-23.
+
 ## Open questions
 
 1. How SIRD treated stock-based compensation and temporary staff before 2008 (wages, other costs, or not counted).
