@@ -71,7 +71,10 @@ def brdis_link(base, h, parent):
     return None
 
 n = 0
+STOP_AT = 900  # pre-1999 single-year IRIS tables: skipped by decision (longitudinal h- tables cover 1953-98)
 while heap:
+    if heap[0][0] >= STOP_AT:
+        print("DONE (stopped at priority", STOP_AT, "with", len(heap), "pre-1999 single-year tables not fetched)", flush=True); break
     p, _, orig = heapq.heappop(heap); n += 1
     code, ctype, eff, body = fetch(PRE + orig)
     rel = (orig[len(ROOT):] or "index.html") if orig.startswith(ROOT) else "brdis/" + re.sub(r"^https://www\.nsf\.gov/statistics/", "", orig)
@@ -92,4 +95,4 @@ while heap:
                 seen.add(o); counter += 1; heapq.heappush(heap, (prio(o, p), counter, o))
     state_f.write_text(json.dumps({"seen": sorted(seen), "heap": heap}))
     time.sleep(DELAY)
-print("DONE", n)
+print("DONE", n) if not heap or heap[0][0] < STOP_AT else None
