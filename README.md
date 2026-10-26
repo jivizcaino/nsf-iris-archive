@@ -155,6 +155,12 @@ Caption: Wages of R&D personnel as a share of total R&D cost, by harmonized indu
 
 Caption: Wages and fringe benefits of R&D personnel as a share of total R&D cost, by industry (blue), against all industries (gray). 2002-08: sum of the two reported items; from 2009 NSF reports them as one item. Stock-based compensation and temporary staffing (reported from 2008) are excluded. The dashed line marks the change from SIRD to BRDIS between 2007 and 2008; the two segments are not joined. Lines break where NSF withheld a year. Source: NSF SIRD 2002-07, BRDIS 2008-16, BRDS 2017-18, BERD 2019-23.
 
+## Figure: broad R&D labour share by industry, 2008 to 2023
+
+`figures/broad_labor_share_by_industry_2008_2023.png` and `.pdf`, produced by `scripts/plot_broad_labor_share.py` from `data/panel_harmonized_rd_cost_shares.csv` (NAICS side).
+
+Caption: Share of total R&D cost, by industry. Blue: salaries, wages, fringe benefits, stock-based compensation, and temporary staffing. Orange: salaries, wages, and fringe benefits. The gap between the lines is stock-based compensation plus temporary staffing. Lines break where NSF withheld a year; the blue line is missing more often because stock pay and temporary staffing are withheld more often. Source: NSF BRDIS 2008-16, BRDS 2017-18, BERD 2019-23.
+
 ## Open questions
 
 1. How SIRD treated stock-based compensation and temporary staff before 2008 (wages, other costs, or not counted).
