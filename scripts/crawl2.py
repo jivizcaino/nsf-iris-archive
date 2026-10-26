@@ -71,7 +71,7 @@ def brdis_link(base, h, parent):
     return None
 
 n = 0
-STOP_AT = 900  # pre-1999 single-year IRIS tables: skipped by decision (longitudinal h- tables cover 1953-98)
+STOP_AT = 10**9  # fetch everything, including pre-1999 single-year tables
 while heap:
     if heap[0][0] >= STOP_AT:
         print("DONE (stopped at priority", STOP_AT, "with", len(heap), "pre-1999 single-year tables not fetched)", flush=True); break
