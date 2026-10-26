@@ -123,8 +123,27 @@ Comparability:
 
 Break: the count falls from 1,130,500 in 2007 (SIRD) to 832,000 in 2008 (BRDIS). This reflects the change of survey and of the employment concept. The series must not be spliced across 2007 to 2008 without an adjustment.
 
+## SIC to NAICS crosswalk
+
+Built by `scripts/build_crosswalk.py`.
+
+- `data/crosswalk_sic_naics_rd.csv`: 37 harmonized groups (all industries, manufacturing, nonmanufacturing, 28 manufacturing groups and aggregates, 7 nonmanufacturing groups). For each group: the IRIS SIC industries, SIC codes, the NAICS recipe, a definitional quality grade, the 1997-98 level check, the wage-share check, and a linking recommendation.
+- `data/panel_harmonized_rd_cost_shares.csv`: R&D cost by type for each harmonized group and year, SIC years 1962-98 and NAICS years 1999-2023 (dollar amounts and shares; `built_from` records the codes used).
+- `data/panel_harmonized_fte_se.csv`: FTE R&D scientists and engineers for each harmonized group and year.
+- `data/crosswalk_check_1997_98.csv`: total R&D in 1997 and 1998 under both classifications.
+
+Method:
+
+1. NAICS recipes are signed sums of codes, tried in order; the first one whose codes are all reported in a year is used. Residual groups are built by subtraction (for example other chemicals = 325 - 3251 - 3252 - 3254), which handles the changing "other" categories in the NAICS tables. SIC groups are built the same way from IRIS labels; for example, transportation equipment before 1985 is the sum of its three subgroups.
+2. Level check: NSF published 1997 and 1998 total R&D under NAICS (NSF 02-312, table A-3). The ratio of the NAICS to the SIC total is 1.00 for all industries and between 0.95 and 1.13 for food, primary metals, fabricated metals, machinery, computers, measuring instruments, aerospace, transportation equipment, and scientific R&D services. Ratios far from one (electrical equipment 0.5, medical and photographic equipment 0.57, wood 0.74, trade 1.45, health 0.51) reflect companies moving between industries: NSF assigns each company to one industry, so the change of classification moved whole firms.
+3. Share check: the wage share averaged over 1995-98 (SIC) against 1999-2002 (NAICS).
+4. Recommendation: "link" when the level ratio is within 0.85-1.15 and the wage-share gap is under 0.05; "link with care" when one of the two holds; "no overlap evidence" when NSF withheld the overlap cells; "do not link" otherwise.
+
+Groups recommended for a series from 1962: all industries, chemicals, fabricated metal products, computers and other electronics (from 1972), aerospace, transportation equipment (from 1972); with care, food, machinery except computers, electrical equipment, stone-clay-glass, measuring instruments, and the aggregate of SIC 35, 36, and 38. Primary metals passes the level check but its wage share jumps from 0.51 to 0.73 in 1999, as reported by NSF. Nonmanufacturing groups have SIC data only from 1995 and are of limited use for a long series.
+
+The wage share alone (excluding fringe benefits) is the measure available on both sides, 1962-2008. Wages and fringe benefits are combined from 2009.
+
 ## Open questions
 
-1. A crosswalk from SIC industries (1962 to 1998) to NAICS industries (1999 onward), at the level of about 15 to 20 manufacturing industries.
-2. How SIRD treated stock-based compensation and temporary staff before 2008 (wages, other costs, or not counted).
-3. Coverage of Form RD-1 by year, to compare the cost-type universe with total industrial R&D before 2008.
+1. How SIRD treated stock-based compensation and temporary staff before 2008 (wages, other costs, or not counted).
+2. Coverage of Form RD-1 by year, to compare the cost-type universe with total industrial R&D before 2008.

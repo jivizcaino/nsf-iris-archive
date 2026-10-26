@@ -1,0 +1,75 @@
+hid,group,year,sic_total,naics_total,ratio_naics_to_sic
+H00,All industries,1997,157539.0,157539.0,1.0
+H00,All industries,1998,169180.0,169180.0,1.0
+HM,Manufacturing,1997,121025.0,,
+HM,Manufacturing,1998,120401.0,,
+HN,Nonmanufacturing,1997,36514.0,,
+HN,Nonmanufacturing,1998,48780.0,,
+H01,"Food, beverages, and tobacco",1997,1787.0,1691.0,0.9462786793508674
+H01,"Food, beverages, and tobacco",1998,1711.0,1689.0,0.9871420222092344
+H02,"Textiles, apparel, and leather",1997,,378.0,
+H02,"Textiles, apparel, and leather",1998,,399.0,
+H03,Wood products and furniture,1997,348.0,266.0,0.764367816091954
+H03,Wood products and furniture,1998,374.0,271.0,0.7245989304812834
+H04,Paper,1997,,,
+H04,Paper,1998,,,
+H05,Chemicals,1997,,16492.0,
+H05,Chemicals,1998,21764.0,18969.0,0.8715769160080867
+H05a,Industrial chemicals,1997,,,
+H05a,Industrial chemicals,1998,,,
+H05b,Pharmaceuticals,1997,11589.0,,
+H05b,Pharmaceuticals,1998,12571.0,,
+H05c,Other chemicals,1997,,,
+H05c,Other chemicals,1998,,,
+H06,Petroleum and coal products,1997,,,
+H06,Petroleum and coal products,1998,1808.0,1395.0,0.771570796460177
+H07,Rubber and plastics products,1997,,1484.0,
+H07,Rubber and plastics products,1998,,1625.0,
+H08,"Stone, clay, glass, and nonmetallic minerals",1997,608.0,548.0,0.9013157894736842
+H08,"Stone, clay, glass, and nonmetallic minerals",1998,,558.0,
+H09,Primary metals,1997,988.0,992.0,1.0040485829959513
+H09,Primary metals,1998,,,
+H10,Fabricated metal products,1997,1798.0,1906.0,1.0600667408231368
+H10,Fabricated metal products,1998,1595.0,1781.0,1.116614420062696
+H11,"Machinery, except computers",1997,5659.0,5610.0,0.9913412263650822
+H11,"Machinery, except computers",1998,6014.0,,
+H12,"Computers, audio and video, and other electronics",1997,12840.0,,
+H12,"Computers, audio and video, and other electronics",1998,9060.0,8872.0,0.9792494481236204
+H13,Communications equipment,1997,,2930.0,
+H13,Communications equipment,1998,,8974.0,
+H14,Semiconductors and electronic components,1997,,,
+H14,Semiconductors and electronic components,1998,,9131.0,
+H15,"Electrical equipment, appliances, and components",1997,4909.0,2741.0,0.5583621918924424
+H15,"Electrical equipment, appliances, and components",1998,4811.0,2280.0,0.47391394720432345
+H16,Motor vehicles and parts,1997,,,
+H16,Motor vehicles and parts,1998,,,
+H17,Aerospace,1997,16296.0,17865.0,1.0962812960235642
+H17,Aerospace,1998,14449.0,16359.0,1.1321890788289848
+H18,Other transportation equipment,1997,,,
+H18,Other transportation equipment,1998,,,
+H19,Instruments and medical equipment,1997,13458.0,11071.0,0.822633377916481
+H19,Instruments and medical equipment,1998,,,
+H19a,Measuring and control instruments,1997,8135.0,8030.0,0.9870928088506453
+H19a,Measuring and control instruments,1998,,11232.0,
+H19b,"Medical, optical, and photographic equipment",1997,5323.0,3041.0,0.5712943828668045
+H19b,"Medical, optical, and photographic equipment",1998,6085.0,,
+H20,Other manufacturing,1997,2798.0,416.0,0.14867762687634023
+H20,Other manufacturing,1998,2795.0,,
+H21,"Machinery, electrical, electronic, and instruments (35, 36, 38)",1997,56542.0,45380.0,0.802589225708323
+H21,"Machinery, electrical, electronic, and instruments (35, 36, 38)",1998,,,
+H22,Transportation equipment,1997,31993.0,34422.0,1.075922858125215
+H22,Transportation equipment,1998,29279.0,31359.0,1.071040677618771
+HN1,Software and computer services,1997,11706.0,,
+HN1,Software and computer services,1998,,,
+HN2,Scientific R&D services,1997,,7023.0,
+HN2,Scientific R&D services,1998,9169.0,9062.0,0.9883302432108191
+HN3,Engineering and architectural services,1997,2039.0,2210.0,1.0838646395291809
+HN3,Engineering and architectural services,1998,2025.0,3180.0,1.5703703703703704
+HN4,Trade,1997,,,
+HN4,Trade,1998,11336.0,16492.0,1.454834156669019
+HN5,"Finance, insurance, and real estate",1997,,,
+HN5,"Finance, insurance, and real estate",1998,,,
+HN6,Utilities,1997,,,
+HN6,Utilities,1998,,,
+HN7,Health care services,1997,,639.0,
+HN7,Health care services,1998,1207.0,617.0,0.5111847555923777
