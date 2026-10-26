@@ -143,6 +143,12 @@ Groups recommended for a series from 1962: all industries, chemicals, fabricated
 
 The wage share alone (excluding fringe benefits) is the measure available on both sides, 1962-2008. Wages and fringe benefits are combined from 2009.
 
+## Figure: R&D wage share by industry, 1962 to 2008
+
+`figures/wage_share_by_industry_1962_2008.png` and `.pdf`, produced by `scripts/plot_wage_share.py` from `data/panel_harmonized_rd_cost_shares.csv`.
+
+Caption: Wages of R&D personnel as a share of total R&D cost, by harmonized industry group (blue), against all industries (gray). Fringe benefits excluded. SIC classification through 1998 and NAICS from 1999 (dashed line); the two segments are not joined. Data are biennial from 1977 to 1997; lines break where NSF withheld or did not report a year. The 1985 group values use IRIS h-25 total R&D as weights, because h-27 reports no dollar totals for 1985. † marks groups whose SIC-NAICS link is recommended with care (see `data/crosswalk_sic_naics_rd.csv`). Source: NSF Survey of Industrial Research and Development (IRIS h-27; SIRD 1999-2007) and BRDIS 2008.
+
 ## Open questions
 
 1. How SIRD treated stock-based compensation and temporary staff before 2008 (wages, other costs, or not counted).

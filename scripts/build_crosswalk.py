@@ -138,12 +138,50 @@ def naics_dollars():
     return l.drop_duplicates(["year", "ncode", "variable"])
 
 
+def h25_totals():
+    """Total R&D by SIC industry and year from IRIS h-25 (wide layout, three column blocks)."""
+    d = pd.read_excel(PAGES / "excel-files_historical_tables_h-25.xls", header=None)
+    hdr = list(d.index[d[0].astype(str).str.contains("Industry and size", na=False)]) + [len(d)]
+    out = {}
+    for a, b in zip(hdr[:-1], hdr[1:]):
+        starts = [c for c in range(d.shape[1]) if str(d.iloc[a, c]).startswith("Industry")]
+        for k, c0 in enumerate(starts):
+            c1 = starts[k + 1] if k + 1 < len(starts) else d.shape[1]
+            years = {c: int(str(d.iloc[a, c])[:4]) for c in range(c0 + 2, c1) if pd.notna(d.iloc[a, c])}
+            pending = ""
+            for r in range(a + 1, b):
+                lab = d.iloc[r, c0]
+                if pd.isna(lab):
+                    continue
+                lab = " ".join(re.sub(r"[.…]{2,}.*$", "", str(lab)).split())
+                lab = re.sub(r"(?<=[a-z])\d+,?$", "", lab).rstrip(",").strip() if not lab.endswith(" and") else lab
+                if "size of company" in lab.lower():
+                    break
+                vals = {y: pd.to_numeric(str(d.iloc[r, c]).replace(",", ""), errors="coerce") for c, y in years.items()}
+                if all(pd.isna(v) for v in vals.values()):
+                    pending = (pending + " " + lab) if (pending and lab[:1].islower()) else lab
+                    continue
+                if pending and lab[:1].islower():
+                    lab = pending + " " + lab
+                pending = ""
+                for y, v in vals.items():
+                    if pd.notna(v) and (y, lab) not in out:
+                        out[(y, lab)] = float(v)
+    return out
+
+
 def sic_dollars():
     l = pd.read_csv(DATA / "panel_rd_cost_by_type_long.csv", dtype={"code": str})
     l = l[l.classification.eq("SIC")].copy()
     tot = l[l.variable.eq("total")].set_index(["year", "label"])["value"]
     tot = tot[~tot.index.duplicated()]
     l = l.join(tot.rename("tot"), on=["year", "label"])
+    # 1985: h-27 reports shares without dollar totals; use h-25 totals as weights
+    h25 = h25_totals()
+    miss = l.tot.isna() & l.year.eq(1985)
+    l.loc[miss, "tot"] = [h25.get((y, lab), np.nan) for y, lab in zip(l.year[miss], l.label[miss])]
+    tv = l.variable.eq("total") & l.value.isna() & l.year.eq(1985)
+    l.loc[tv, "value"] = l.loc[tv, "tot"]
     # a few 1995-98 rows store percent components as fractions; detect by their sum
     psum = l[l.unit.eq("pct_of_total")].groupby(["year", "label"]).value.sum().rename("psum")
     l = l.join(psum, on=["year", "label"])
