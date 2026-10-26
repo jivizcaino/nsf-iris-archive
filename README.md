@@ -78,8 +78,53 @@ Type-of-cost items in table 10: salaries, wages, and fringe benefits; stock-base
 
 Labour share of total cost, all industries, 2023: 53.7 percent for salaries, wages, and fringe benefits; 69.7 percent adding stock-based compensation (11.7) and temporary staffing (4.2). Comparable 2007 SIRD figure: 56.8 percent (wages 46.7 plus fringe benefits 10.1). Stock-based compensation and temporary staffing are not separate items in SIRD; their treatment there must be checked in the technical notes.
 
+## Industry panel
+
+Built by `scripts/build_cost_panel.py` and `scripts/build_fte_panel.py`. The crawl was stopped after the 1999 to 2014 tables; the 2,123 pre-1999 single-year IRIS tables were not fetched, because the longitudinal tables cover 1953 to 1998.
+
+### R&D cost by type, 1962 to 2023
+
+- `data/panel_rd_cost_by_type_long.csv`: one row per classification, year, industry, and cost item, with the reported value, unit, disclosure flag, source file, and source row.
+- `data/panel_rd_cost_shares.csv`: one row per classification, year, and industry. Dollar amounts (millions) where reported, and shares of total cost (`s_*`).
+
+| Years | Classification | Source | Cost items | Unit of components |
+|---|---|---|---|---|
+| 1962 to 1998 | SIC | IRIS h-27 | wages (split by occupation before 1976), materials, depreciation (1998 only), other | dollars in 1962, 1972 to 1977, 1979, 1981, 1983; percent otherwise |
+| 1999 to 2000 | NAICS | SIRD single-year tables | wages, materials, depreciation, other | percent |
+| 2001 to 2007 | NAICS | SIRD single-year tables | wages, fringe benefits, materials, depreciation, other | percent |
+| 2008 | NAICS | BRDIS (company-funded plus other-funded) | wages, fringe benefits, stock compensation, temporary staffing, expensed equipment, materials, lease, depreciation, other | dollars |
+| 2009 to 2010 | NAICS | BRDIS (company-funded plus other-funded) | salaries, wages, and fringe combined; the 2008 items otherwise; other purchased services; allocated costs (2009) | dollars |
+| 2011 to 2023 | NAICS | BRDIS, BRDS, BERD (all funders) | as 2010; royalties from 2016 | dollars |
+
+Labour cost share, all industries (percent of total R&D cost):
+
+| | 1962 | 1970 | 1980s low (1989) | 1998 | 1999 | 2002 | 2007 | 2008 | 2014 | 2023 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Wages | 47.5 | 50.0 | 39.9 | 48.0 | 44.8 | 44.5 | 46.7 | 46.5 | | |
+| Wages and fringe benefits | | | | | | 53.0 | 56.8 | 57.3 | 57.4 | 53.7 |
+| Adding stock pay and temporary staff | | | | | | | | 62.4 | 66.4 | 69.7 |
+
+Comparability:
+
+1. Fringe benefits are reported separately from 2001. The fall in "other costs" between 2000 and 2002 (41.7 to 31.0 percent) matches the size of fringe benefits, so fringe benefits were part of "other costs" up to 2000. The 2001 fringe share (4.3 percent) looks incomplete; 2002 onward is about 9 to 11 percent.
+2. Wages alone are reported up to 2008; salaries, wages, and fringe benefits are combined from 2009. The series that runs longest without a break in definition is wages alone, 1962 to 2008.
+3. SIC to NAICS in 1999. IRIS has no SIC-NAICS crosswalk table for cost by type; the 1999 report (NSF 02-312) reclassifies 1997 and 1998 totals. A crosswalk of industries is not yet built.
+4. NSF changed the method that assigns industry codes in 2004 (SIRD) and the survey changed in 2008 (BRDIS). At the all-industries level, the labour share moves smoothly across 2007 to 2008.
+5. In 2008 to 2010 the all-funders figures are sums of the company-funded and other-funded tables. A total is rebuilt from components when the reported total is withheld and all components are reported (`total_computed`). Cells marked * (less than $0.5 million) are set to zero.
+6. Rows whose shares do not sum to one have withheld components (flag D).
+
+### FTE R&D scientists and engineers, 1954 to 2023
+
+`data/panel_fte_rd_scientists_engineers_long.csv`: thousands, by classification, year, and industry. Variable `fte_se` (scientists and engineers) in all years; `fte_rd_emp` (all R&D employees) from 2011.
+
+- 1954 to 1999 (SIC, IRIS h-19): FTE counted in January of the year after the survey year. Annual coverage from 1971 to 1999, with gaps before. Detailed nonmanufacturing industries from 1983. (S) marks cells withheld before 1993.
+- 1999 to 2007 (NAICS, SIRD).
+- 2008 to 2023 (NAICS, BRDIS, BRDS, BERD).
+
+Break: the count falls from 1,130,500 in 2007 (SIRD) to 832,000 in 2008 (BRDIS). This reflects the change of survey and of the employment concept. The series must not be spliced across 2007 to 2008 without an adjustment.
+
 ## Open questions
 
-1. Whether "wages" in 1962 to 1998 includes fringe benefits, or whether fringe benefits sit in "other costs". The technical notes (`tn.doc`) for each year should settle this. They are in the crawl queue.
-2. In which year fringe benefits first appear as a separate item (between 1999 and 2007).
-3. Coverage of Form RD-1 by year, to compare the cost-type universe with total R&D.
+1. A crosswalk from SIC industries (1962 to 1998) to NAICS industries (1999 onward), at the level of about 15 to 20 manufacturing industries.
+2. How SIRD treated stock-based compensation and temporary staff before 2008 (wages, other costs, or not counted).
+3. Coverage of Form RD-1 by year, to compare the cost-type universe with total industrial R&D before 2008.
