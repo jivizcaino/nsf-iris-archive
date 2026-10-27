@@ -1,0 +1,795 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> 
+<html>
+<head><!-- Start Wayback Rewrite JS Include -->
+<script type="text/javascript" src="/static/js/wombat.js?v=uVfyaniA" charset="utf-8"></script>
+<script type="text/javascript">
+if (window._WBWombatInit) {
+  _wb_uc = new URL("https://www.nsf.gov/statistics/iris/excel-files/nsf_89-323/b-29(2).xls");
+  wbinfo = {}
+  wbinfo.url = "https://www.nsf.gov/statistics/iris/excel-files/nsf_89-323/b-29(2).xls";
+  wbinfo.timestamp = "20181005061839";
+  wbinfo.request_ts = "20181005061839";
+  wbinfo.prefix = "https://wayback.archive-it.org/5902/";
+  wbinfo.mod = "";
+  wbinfo.is_framed = false;
+  wbinfo.is_live = false;
+  wbinfo.coll = "5902";
+  wbinfo.proxy_magic = "";
+  wbinfo.static_prefix = "/static/";
+  wbinfo.enable_auto_fetch = true;
+  wbinfo.auto_fetch_worker_prefix = "https://wayback.archive-it.org/5902/";
+  wbinfo.wombat_ts = "20181005061839";
+  wbinfo.wombat_sec = "1538720319";
+  wbinfo.wombat_scheme = ( _wb_uc.protocol || 'http').replace(/:$/, '');
+  wbinfo.wombat_host = _wb_uc.host;
+  wbinfo.wombat_opts = {
+    no_rewrite_prefixes: [
+                            "https://wayback.archive-it.org/5902/",
+                            "//archive-it.org/",
+                            "https://partner.archive-it.org/",
+                          ]
+  };
+  window._WBWombatInit(wbinfo);
+
+  // variables useful for rulesengine rewrites from old ait-client_rewrite.js
+  WB_RewriteUrl = _wb_wombat.rewrite_url;
+  WB_ExtractOrig = _wb_wombat.extract_orig;
+  WB_wombat_self_location = window.WB_wombat_location
+}
+</script>
+<script type="text/javascript" src="https://partner.archive-it.org/static/AIT_Analytics.js" async="async"></script>
+<!-- End Wayback Rewrite JS Include -->
+
+
+<title>NSF - File Not Found</title>
+
+<link href="/5902/20181005061839cs_/https://www.nsf.gov/styles/threshhold.css" rel="STYLESHEET" title="Threshold Page Style Sheet" type="text/css">
+
+<script>
+var homepage=0
+var finished=0
+var preloadFlag="on"
+
+function getCookie(Name) {
+  var search = Name + "="
+  offset = document.cookie.indexOf(search)
+  offset += search.length
+  end = document.cookie.indexOf(";", offset)
+  if (end == "-1")
+     end = document.cookie.length
+  return unescape(document.cookie.substring(offset, end))
+}
+
+var nsfprefs=getCookie("nsfprefs");
+        prefsarray=nsfprefs.split("::")
+        if (prefsarray[1]){
+                nsfmenu=prefsarray[0];
+                dark=prefsarray[1];
+        }
+        else {
+                nsfmenu="yes";
+                dark=0;
+
+        }
+//alert(nsfmenu);       
+var prefs=nsfmenu + "::" + dark
+</script>
+
+<script language="JavaScript1.2" src="/5902/20181005061839js_/https://www.nsf.gov/js/coolmenus3.js">
+
+</script>
+
+
+<script>
+
+if (bw.mac || bw.sun ) { 
+document.writeln('<link href="/styles/threshholdmac.css"')
+document.writeln('rel="STYLESHEET"')
+document.writeln('title="Threshold Page Style Sheet"')
+document.writeln('type="text/css">')
+}
+
+function showmenus(menu,num){
+  if (bw.min && finished==1){
+        oCMenu2.showSubs(menu,0,num);  }
+}
+</script>
+
+
+</head>
+<!-- HEADER START -->
+<body bgcolor="#FFFFFF" link="#006699" alink="#006699" vlink="#006699">             
+<!--
+     FILE ARCHIVED ON 06:18:39 Oct 05, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:57:38 Oct 26, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+	urlKey(b'gov,nsf)/statistics/iris/excel-files/nsf_89-323/b-29(2).xls')
+-->
+
+<a name="top"></a> 
+<script>
+	if ((bw.ie || bw.dom) && dark==1){
+
+ 		document.styleSheets[0].rules[0].style.color="#333333";
+ 		document.styleSheets[0].rules[1].style.color="#333333";
+ 		document.styleSheets[0].rules[2].style.color="#333333";	
+	}
+	else if (bw.ns4 && dark==1){
+		  document.tags.a.color="#333333";
+	}
+
+</script>
+
+
+<table width="605" border="0" cellspacing="0" cellpadding="0">
+	<tr> 
+		<td rowspan="4"><a href="#nav_end"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="1" border="0" alt="Bypass Top Navigation"></a> <a href="/5902/20181005061839/https://www.nsf.gov/start.htm"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/nsf.gif" width="60" height="60" border="0" alt="NSF Home Page"></a></td>
+		<td rowspan="4"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="30" height="1" border="0" alt=""></td>
+		<td colspan="7"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="25" border="0" alt=""></td>
+	</tr>
+	<tr> 
+		
+    <td class="topmenu"><a href="/5902/20181005061839/https://www.nsf.gov/home/menus/about.htm" onmouseover="showmenus('top0',0);">About 
+      NSF</a><br>
+			<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="75" height="1" border="0" alt=""></td>
+		<td class="topmenu"><a href="/5902/20181005061839/https://www.nsf.gov/home/menus/funding.htm" onmouseover="showmenus('top1',1);">Funding</a><br>
+			<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="65" height="1" border="0" alt=""></td>
+		<td class="topmenu"><a href="/5902/20181005061839/https://www.nsf.gov/home/menus/publications.htm" onmouseover="showmenus('top2',2);">Publications</a><br>
+			<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="85" height="1" border="0" alt=""></td>
+		<td class="topmenu"><a href="/5902/20181005061839/https://www.nsf.gov/home/menus/news.htm" onmouseover="showmenus('top3',3);">News &amp; Media</a><br>
+			<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="95" height="1" border="0" alt=""></td>
+		<td class="topmenu"><a href="/5902/20181005061839/https://www.nsf.gov/home/search.htm">Search</a></td>
+		<td><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="30" height="1" border="0" alt=""></td>
+		<td class="topmenu"><a href="/5902/20181005061839/https://www.nsf.gov/home/help/sitemap.htm">Site Map</a></td>
+	</tr>
+	<tr> 
+		<td colspan="5" bgcolor="#CCCCCC"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="1" border="0" alt=""></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr> 
+		<td valign="TOP"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/arrow01.gif" width="9" height="6" border="0" alt=""></td>
+		<td valign="TOP"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/arrow01.gif" width="9" height="6" border="0" alt=""></td>
+		<td valign="TOP"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/arrow01.gif" width="9" height="6" border="0" alt=""></td>
+		<td valign="TOP"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/arrow01.gif" width="9" height="6" border="0" alt=""></td>
+		<td valign="TOP"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/arrow01.gif" width="9" height="6" border="0" alt=""></td>
+		<td></td>
+		<td> 
+			<div align="center"> <a href="/5902/20181005061839/https://www.nsf.gov/home/help/sitemap.htm"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/sitemap.gif" width="29" height="29" border="0" alt="Site Map"></a> 
+			</div>
+		</td>
+	</tr>
+</table>
+
+<a name="nav_end"></a>
+
+<!-- HEADER END -->
+
+
+<table width="605" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td colspan="4"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="20" border="0" alt=""></td>
+</tr>
+
+<tr> 
+<td colspan="4" class="dirtitletop">File Not Found</td>
+</tr>
+
+<tr> 
+<td colspan="4"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="3" border="0" alt=""></td>
+</tr>
+
+<tr> 
+<td colspan="2"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/curve01.gif" width="79" height="23" border="0" alt=""></td>
+<td></td>
+</tr>
+
+<tr> 
+<td width="78"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="78" height="1" border="0" alt=""></td>
+<td bgcolor="#CC9933" width="1"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="1" border="0" alt=""></td>
+<td width="526"> <img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/3upsitemap.gif" width="55" height="210" border="0" align="RIGHT" alt=""> 
+<table border="0" cellspacing="0" cellpadding="0">
+<!-- master ROW for spacing start --> 
+<tr> 
+<td><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/bulletline.gif" width="8" height="1" border="0" alt=""></td>
+<td><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="6" height="1" border="0" alt=""></td>
+<td><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="395" height="1" border="0" alt=""></td>
+</tr>
+<!-- master ROW for spacing end --> 
+
+<!-- TABLE FOR HORIZONTAL NAVIGATION - END -->
+
+
+<tr> 
+<td colspan="3">
+<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="10" border="0" alt=""></td>
+</tr>
+<tr> 
+<td colspan="2"></td>
+<td><p>
+
+<p>We're sorry. The file you requested is not on our server. <br>
+This may be due to an error in the url you entered, or the file <br>
+may have been moved or deleted.</p>
+
+<p>Here are some links and search tools to help you find <br>
+what you're looking for:</p>
+
+<p><a href="/5902/20181005061839/https://www.nsf.gov/start.htm">NSF Home Page</a></p>
+
+<p><a href="/5902/20181005061839/https://www.nsf.gov/home/search.htm">NSF Search</a></p>
+
+<p><a href="/5902/20181005061839/https://www.nsf.gov/home/help/sitemap.htm">Site Map</a> ( <a href="/5902/20181005061839/https://www.nsf.gov/home/help/sitetext.htm">text version</a> )</p>
+
+<p><a href="/5902/20181005061839/https://www.nsf.gov/home/cns/">Custom News Service</a><br>&nbsp;</p>
+
+
+
+
+</td></tr>
+
+
+<tr> 
+<td colspan="3">
+<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="10" border="0" alt=""></td>
+</tr>
+<tr> 
+<td><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/bulletline.gif" width="18" height="5" border="0" alt=""></td>
+<td colspan="2" class="section">Online Document System (ODS) Search<br>
+<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/grayline01.gif" width="312" height="2" vspace="1" border="0" alt=""></td>
+</tr>
+<tr> 
+<td colspan="3">
+<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="10" border="0" alt=""></td>
+</tr>
+<tr> 
+<td colspan="2"></td>
+<td>
+      <form method="post" action="/5902/20181005061839/https://www.nsf.gov/cgi-bin/verity/srchods" name="">
+        <input type="hidden" name="SourceQueryText" value="PUB_STATUS = Current">
+       <input type="hidden" name="QueryMode" value="Internet">
+        <input type="text" name="QueryText" size="30">
+        <input type="submit" value="Search ODS" name="submit">
+      </form>
+     
+<p>Use this option to search within NSF numbered publications (such as program or vacancy announcements, official reports, etc.) only. Enter keywords, or a question describing what you're looking for. To search for words in combination, enclose them in quotes. </p>
+      <p><a href="/5902/20181005061839/https://www.nsf.gov/cgi-bin/pubsys/browser/odbrowse.pl">More 
+        ODS search options.</a></p>
+      <p>&nbsp;</p>
+
+</td></tr>
+
+<tr> 
+<td colspan="3">
+<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="10" border="0" alt=""></td>
+</tr>
+<tr> 
+<td><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/bulletline.gif" width="18" height="5" border="0" alt=""></td>
+<td colspan="2" class="section">Web Page Search<br>
+<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/grayline01.gif" width="312" height="2" vspace="1" border="0" alt=""></td>
+</tr>
+
+<tr> 
+<td colspan="3">
+<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="10" border="0" alt=""></td>
+</tr>
+<tr> 
+<td colspan="2"></td>
+<td> <form method="post" action="/5902/20181005061839/https://www.nsf.gov/search97cgi/vtopic">
+        <input type="hidden" name="Action" value="Search">
+        <input type="hidden" name="ResultTemplate" value="inetstd99.hts">
+        <input type="hidden" name="Collection" value="NSFweb">
+        <input type="hidden" name="Collection" value="domino">
+        <input type="hidden" name="ResultCount" value="25">
+        <input type="hidden" name="ResultMaxDocs" value="1000">
+		<input type="hidden" name="QueryMode" value="Internet">
+        <input type="text" name="queryText" size="30">
+        <input type="submit" value="Search NSF Web" name="submit2">
+      </form>
+     
+<p>Use this option to search NSF web pages as well as documents in the ODS. 
+Enter keywords, or a question describing what you're looking for. To search for words in combination, enclose them in quotes.</p> 
+      <p><a href="/5902/20181005061839/https://www.nsf.gov/home/search.htm&quot;">More Search Options. </a></p>
+	  
+	  </td></tr>
+
+
+	  
+</table>
+
+</td>
+</tr>
+<tr> 
+<td></td>
+</tr>
+<tr> 
+<td colspan="5"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="20" border="0" alt=""></td>
+</tr>
+</table>
+
+<table width="605" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="10" border="0" alt=""></td>
+</tr>
+<tr> 
+<td class="bottommenu"><a href="/5902/20181005061839/https://www.nsf.gov/start.htm">nsf.gov</a><br>
+<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="130" height="1" border="0" alt=""></td>
+<td colspan="2" class="bottommenu"> | 
+<a href="/5902/20181005061839/https://www.nsf.gov/home/menus/about.htm">About NSF</a> | 
+<a href="/5902/20181005061839/https://www.nsf.gov/home/menus/funding.htm">Funding</a> | 
+<a href="/5902/20181005061839/https://www.nsf.gov/home/menus/publications.htm">Publications</a> | 
+<a href="/5902/20181005061839/https://www.nsf.gov/home/menus/news.htm">News &amp; Media</a> | 
+<a href="/5902/20181005061839/https://www.nsf.gov/home/search.htm">Search</a> | <a href="/5902/20181005061839/https://www.nsf.gov/home/help/sitemap.htm">Site Map</a> | 
+<a href="/5902/20181005061839/https://www.nsf.gov/home/help/">Help</a></td>
+</tr>
+
+<tr> 
+<td colspan="3"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="5" border="0" alt=""></td>
+</tr>
+<tr> 
+<td colspan="3" bgcolor="#CC9933"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+
+<tr> 
+<td colspan="3"><img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/x.gif" width="1" height="15" border="0" alt=""></td>
+</tr>
+<tr> 
+<td valign="top">
+<img src="/5902/20181005061839im_/https://www.nsf.gov/images/common/nsf-foot.gif" width="110" height="37" border="0" alt="NSF Celebrating 50 Years"></td>
+
+<td valign="bottom"><span class="nsf">The National Science Foundation</span><br>
+<span class="nsfaddress">4201 Wilson Boulevard, Arlington, Virginia 
+22230, USA<br>
+Tel: 703-306-1234, FIRS: 800-877-8339 | TDD: 703-306-0090 </span></td>
+
+    <td valign="BOTTOM" class="contact"> 
+<a href="/5902/20181005061839/https://www.nsf.gov/home/help/contact.htm">Contact 
+      NSF</a><br>
+<a href="/5902/20181005061839/https://www.nsf.gov/home/customize.htm">Customize</a><br>	
+
+
+
+ </td>
+
+</tr>
+</table>
+
+
+<script>
+
+
+
+if (bw.min){
+
+
+
+var mDebugging=2 
+
+oCMenu2=new makeCoolMenu("oCMenu2") 
+
+oCMenu2.useframes=0 
+
+oCMenu2.frame="frmMain" 
+
+oCMenu2.offlineUrl="" 
+
+oCMenu2.onlineUrl="" 
+
+oCMenu2.NS4padding="3px" 
+
+if (bw.sun)
+
+	oCMenu2.useNS4links=0
+
+else
+
+	oCMenu2.useNS4links=1
+
+oCMenu2.checkselect=1
+
+oCMenu2.pagecheck=1 
+
+oCMenu2.checkscroll=0 
+
+oCMenu2.resizecheck=1 
+
+oCMenu2.wait=900 
+
+if (window.location.pathname=="/home/search.htm")
+
+	oCMenu2.hideForm="document.searchform"
+
+
+
+//Background bar properties
+
+oCMenu2.usebar=0 
+
+oCMenu2.barcolor="" 
+
+oCMenu2.barwidth="" 
+
+oCMenu2.barheight=0 
+
+oCMenu2.barx="" 
+
+oCMenu2.bary="" 
+
+oCMenu2.barinheritborder=0 
+
+
+
+//Placement properties
+
+oCMenu2.rows=1 
+
+if (homepage==0){
+
+	if (!bw.ie)
+
+		oCMenu2.fromtop=45 
+
+	else
+
+		oCMenu2.fromtop=51
+
+} else {
+
+	if (!bw.ie)
+
+		oCMenu2.fromtop=20 
+
+	else
+
+		oCMenu2.fromtop=26
+
+}
+
+oCMenu2.fromleft="" 
+
+oCMenu2.pxbetween=""
+
+
+
+if (homepage==0)
+
+	oCMenu2.menuplacement=new Array(112,198,272,368)
+
+else
+
+	oCMenu2.menuplacement=new Array(170,247,312,397)
+
+//	oCMenu2.menuplacement=new Array(173,250,315,400)
+
+
+
+
+
+//TOP LEVEL PROPERTIES
+
+oCMenu2.level[0]=new Array() 
+
+oCMenu2.level[0].width=140 
+
+oCMenu2.level[0].height=0 
+
+oCMenu2.level[0].bgcoloroff="" 
+
+oCMenu2.level[0].bgcoloron="" 
+
+oCMenu2.level[0].textcolor="#000000" 
+
+oCMenu2.level[0].hovercolor="#FFFFFF" 
+
+oCMenu2.level[0].style="padding:3px; font-family:arial, interface system, helvetica, sans-serif; font-size:10px; " 
+
+oCMenu2.level[0].border=0 
+
+oCMenu2.level[0].bordercolor="" 
+
+oCMenu2.level[0].offsetX=0 
+
+oCMenu2.level[0].offsetY=0 
+
+oCMenu2.level[0].NS4font="arial, interface system, helvetica, sans-serif"
+
+oCMenu2.level[0].NS4fontSize="1"
+
+oCMenu2.level[0].align="bottom" 
+
+//EXAMPLE SUB LEVEL[1] PROPERTIES 
+
+oCMenu2.level[1]=new Array() 
+
+oCMenu2.level[1].height=18
+
+//oCMenu2.level[0].width=120 
+
+oCMenu2.level[1].bgcoloroff="#99CCCC"
+
+oCMenu2.level[1].bgcoloron="#339999"
+
+oCMenu2.level[1].align="right" 
+
+oCMenu2.level[1].offsetX=-1
+
+oCMenu2.level[1].offsetY=-1
+
+oCMenu2.level[1].border=1 
+
+oCMenu2.level[1].bordercolor="#339999"
+
+
+
+//EXAMPLE SUB LEVEL[2] PROPERTIES 
+
+oCMenu2.level[2]=new Array() 
+
+oCMenu2.level[2].height=18
+
+//oCMenu2.level[0].width=120 
+
+oCMenu2.level[2].bgcoloroff="#DEEFEF"
+
+oCMenu2.level[2].bgcoloron="#FFFFFF"
+
+oCMenu2.level[2].hovercolor="#000000" 
+
+oCMenu2.level[2].align="right" 
+
+oCMenu2.level[2].offsetX=0
+
+oCMenu2.level[2].offsetY=0
+
+oCMenu2.level[2].border=1 
+
+oCMenu2.level[2].bordercolor="#339999"
+
+//oCMenu2.level[2].NS4font="tahoma,arial,helvetica"
+
+//oCMenu2.level[2].NS4fontSize="1"
+
+
+
+if (bw.ns6) 
+
+	arrowimg="arrow_menus_ns6.gif"
+
+else
+
+	arrowimg="arrow_menus.gif"
+
+	
+
+oCMenu2.makeMenu('top0','','','','')
+
+	oCMenu2.makeMenu('sub01','top0','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">General Info','','')
+
+		oCMenu2.makeMenu('sub001','sub01','Mission','/home/about/creation.htm','',140,0)
+
+		oCMenu2.makeMenu('sub002','sub01','History','/od/lpa/nsf50/history.htm','',140,0)
+
+		oCMenu2.makeMenu('sub003','sub01','Glossary','/home/help/glossary.htm','',140,0)
+
+		oCMenu2.makeMenu('sub004','sub01','GPRA at NSF','/od/gpra/','',140,0)
+
+		oCMenu2.makeMenu('sub005','sub01','Accountability Report','/cgi-bin/getpub?nsf02097','',140,0)
+
+		oCMenu2.makeMenu('sub006','sub01','MRE Guidelines','/home/about/mre01.html','',140,0)
+
+		oCMenu2.makeMenu('sub007','sub01','Contracting Opportunities','/home/about/contracting/','',140,0)
+
+	oCMenu2.makeMenu('sub02','top0','Visiting NSF','/home/visit/start.htm')
+
+	oCMenu2.makeMenu('sub03','top0','Jobs','/oirm/hrm/jobs/')
+
+	oCMenu2.makeMenu('sub04','top0','Staff Directory','https://wayback.archive-it.org/5902/20181005061839/http://staff.nsf.gov')
+
+	oCMenu2.makeMenu('sub05','top0','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">Program Areas','')
+
+		oCMenu2.makeMenu('sub020','sub05','Biology','/home/bio/','',160,0)
+
+		oCMenu2.makeMenu('sub021','sub05','Computer, Information Sciences','/home/cise/','',160,0)
+
+		oCMenu2.makeMenu('sub022','sub05','Crosscutting','/home/crssprgm/','',160,0)
+
+		oCMenu2.makeMenu('sub023','sub05','Education','/home/ehr/','',160,0)
+
+		oCMenu2.makeMenu('sub024','sub05','Engineering','/home/eng/','',160,0)
+
+		oCMenu2.makeMenu('sub025','sub05','Geosciences','/home/geo/','',160,0)
+
+		oCMenu2.makeMenu('sub026','sub05','International','/home/int/','',160,0)
+
+		oCMenu2.makeMenu('sub027','sub05','Math, Physical Sciences','/home/mps/','',160,0)
+
+		oCMenu2.makeMenu('sub028','sub05','Polar Research','/home/polar/','',160,0)
+
+		oCMenu2.makeMenu('sub029','sub05','Social, Behavioral, Economic','/home/sbe/','',160,0)
+
+		oCMenu2.makeMenu('sub030','sub05','Environmental','/home/crssprgm/be/','',160,0)
+
+	oCMenu2.makeMenu('sub06','top0','Budget','/home/budget/start.htm')
+
+	oCMenu2.makeMenu('sub07','top0','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">Partnerships','')
+
+		oCMenu2.makeMenu('sub031','sub07','Work with Other Agencies','/od/lpa/partners/partnerships/pages/ofa.htm','',140,0)
+
+		oCMenu2.makeMenu('sub032','sub07','Work with Congress','/od/lpa/congress/start.htm','',140,0)
+
+		oCMenu2.makeMenu('sub033','sub07','Work with States','/od/lpa/partners/states.htm','',140,0)
+
+		oCMenu2.makeMenu('sub034','sub07','Advisory Committees','/home/pubinfo/advisory.htm','',140,0)
+
+		oCMenu2.makeMenu('sub035','sub07','Grants Outreach','/home/grants/grants_outreach.htm','',140,0)
+
+		oCMenu2.makeMenu('sub036','sub07','Related Sites','/home/external/start.htm','',140,0)
+
+	oCMenu2.makeMenu('sub08','top0','Strategic Plan','/cgi-bin/getpub?nsf0104')
+
+	
+
+oCMenu2.makeMenu('top1','','','')
+
+	oCMenu2.makeMenu('sub10','top1','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">Funding Opportunities','','',140,0)
+
+		oCMenu2.makeMenu('sub100','sub10','What\'s New','/home/programs/recent.htm','',140,0)
+
+		oCMenu2.makeMenu('sub101','sub10','E-Bulletin','/home/ebulletin/','',140,0)
+
+		oCMenu2.makeMenu('sub102','sub10','Search','/verity/srchfund.htm','',140,0)
+
+		oCMenu2.makeMenu('sub103','sub10','Overview of Programs','/home/programs/start.htm','',140,0)
+
+		oCMenu2.makeMenu('sub104','sub10','Guide to Programs','/cgi-bin/getpub?gp','',140,0)
+
+	oCMenu2.makeMenu('sub11','top1','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">How To Obtain Funding','','',140,0)
+
+		oCMenu2.makeMenu('sub110','sub11','Step by Step Guide','/home/programs/guide.htm','',170,0)
+
+		oCMenu2.makeMenu('sub111','sub11','Grant Proposal Guide','/cgi-bin/getpub?gpg','',170,0)
+
+		oCMenu2.makeMenu('sub112','sub11','Electronic Submission (FastLane)','https://wayback.archive-it.org/5902/20181005061839/http://www.fastlane.nsf.gov/','',170,0)
+
+		oCMenu2.makeMenu('sub113','sub11','FAQ\'s','/bfa/cpo/policy/faqs.htm','',170,0)
+
+		oCMenu2.makeMenu('sub114','sub11','Guide to Proposal Writing','/cgi-bin/getpub?nsf9891','',170,0)
+
+	oCMenu2.makeMenu('sub12','top1','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">NSF Awards','','',140,0)
+
+		oCMenu2.makeMenu('sub120','sub12','Award Data','/home/grants/grants_awards.htm','',160,0)
+
+		oCMenu2.makeMenu('sub121','sub12','By State and Institution','https://wayback.archive-it.org/5902/20181005061839/http://ntalpha.bfa.nsf.gov/starth.ASP','',160,0)
+
+		oCMenu2.makeMenu('sub122','sub12','Search Abstracts','https://wayback.archive-it.org/5902/20181005061839/http://www.fastlane.nsf.gov/a6/A6AwardSearch.htm','',160,0)
+
+		oCMenu2.makeMenu('sub123','sub12','Recent Awards (FastLane)','https://wayback.archive-it.org/5902/20181005061839/http://www.fastlane.nsf.gov/servlet/A6RecentWeeks','',160,0)
+
+		oCMenu2.makeMenu('sub124','sub12','Browse Awards (FastLane)','https://wayback.archive-it.org/5902/20181005061839/http://www.fastlane.nsf.gov/a6/A6Start.htm','',160,0)
+
+		oCMenu2.makeMenu('sub125','sub12','Award Administration','/home/grants/grants_admin.htm','',160,0)
+
+		oCMenu2.makeMenu('sub126','sub12','Honorary Awards','/home/grants/grants_honors.htm','',160,0)
+
+		oCMenu2.makeMenu('sub127','sub12','Prospective New Awardee Guide','/cgi-bin/getpub?nsf9978','',160,0)
+
+	oCMenu2.makeMenu('sub13','top1','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">General Info & Policies','','',140,0)
+
+		oCMenu2.makeMenu('sub130','sub13','Overview of Grants and Awards','/home/grants.htm','',180,0)
+
+		oCMenu2.makeMenu('sub131','sub13','NSF Policy Office','/bfa/cpo/policy/start.htm','',180,0)
+
+		oCMenu2.makeMenu('sub132','sub13','Grant Policy Manual','/cgi-bin/getpub?gpm','',180,0)
+
+		oCMenu2.makeMenu('sub133','sub13','Terms and Conditions','/home/grants/grants_gac.htm','',180,0)
+
+		oCMenu2.makeMenu('sub134','sub13','Federal Demonstration Partnership','/home/grants/grants_fdp.htm','',180,0)
+
+	
+
+oCMenu2.makeMenu('top2','','','')
+
+	oCMenu2.makeMenu('sub21','top2','What\'s New','/pubsys/newdoc.htm','',140,0)
+
+	oCMenu2.makeMenu('sub22','top2','Most Popular','/home/pubinfo/popular.htm','',140,0)
+
+	oCMenu2.makeMenu('sub23','top2','Search or Browse','/pubsys/ods/','',140,0)
+
+	oCMenu2.makeMenu('sub25','top2','Index of All Publications','/pubsys/index.htm','',140,0)
+
+	oCMenu2.makeMenu('sub26','top2','Obtaining NSF Publications','/pubs/start.htm','',140,0)
+
+	oCMenu2.makeMenu('sub27','top2','Copyright and Reuse','/home/pubinfo/reuse.htm','',140,0)
+
+
+
+oCMenu2.makeMenu('top3','','','')
+
+	oCMenu2.makeMenu('sub30','top3','Custom News Service','/home/cns/start.htm')
+
+	oCMenu2.makeMenu('sub31','top3','Special Notices','/home/special/notices.htm')
+
+	oCMenu2.makeMenu('sub32','top3','News Highlights','/home/news.html')
+
+	oCMenu2.makeMenu('sub33','top3','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">News by Program','')
+
+		oCMenu2.makeMenu('sub300','sub33','Biology','/home/news/bio.htm','',160,0)
+
+		oCMenu2.makeMenu('sub301','sub33','Computer, Information Sciences','/home/news/cise.htm','',160,0)
+
+		oCMenu2.makeMenu('sub302','sub33','Education','/home/news/ehr.htm','',160,0)
+
+		oCMenu2.makeMenu('sub303','sub33','Engineering','/home/news/eng.htm','',160,0)
+
+		oCMenu2.makeMenu('sub304','sub33','Geosciences','/home/news/geo.htm','',160,0)
+
+		oCMenu2.makeMenu('sub305','sub33','Crosscutting','/home/news/crssprgm.htm','',160,0)
+
+		oCMenu2.makeMenu('sub306','sub33','Math, Physical Sciences','/home/news/mps.htm','',160,0)
+
+		oCMenu2.makeMenu('sub307','sub33','Polar Research','/home/news/polar.htm','',160,0)
+
+		oCMenu2.makeMenu('sub308','sub33','Social, Behavioral Sciences','/home/news/sbe.htm','',160,0)
+
+	oCMenu2.makeMenu('sub34','top3','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">News Products','')
+
+		oCMenu2.makeMenu('sub310','sub34','Press Releases','/od/lpa/news/press/pressrel.htm','',100,0)
+
+		oCMenu2.makeMenu('sub311','sub34','Press Statements','/od/lpa/news/press/pressrel.htm#statements','',100,0)
+
+		oCMenu2.makeMenu('sub312','sub34','Fact Sheets','/od/lpa/news/media/backgrnd.htm','',100,0)
+
+		oCMenu2.makeMenu('sub313','sub34','Tip Sheets','/od/lpa/news/media/storyideas.htm#tipsheets','',100,0)
+
+		oCMenu2.makeMenu('sub314','sub34','Media Advisories','/od/lpa/news/media/storyideas.htm#media','',100,0)
+
+		oCMenu2.makeMenu('sub315','sub34','Image Library','https://wayback.archive-it.org/5902/20181005061839/http://olpaimages.nsf.gov/','',100,0)
+
+	oCMenu2.makeMenu('sub35','top3','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">Meetings and Events','')
+
+		oCMenu2.makeMenu('sub320','sub35','NSF Events','/od/lpa/events_list.htm','',110,0)
+
+		oCMenu2.makeMenu('sub321','sub35','Press Conferences','/od/lpa/news/media/storyideas.htm#media','',110,0)
+
+		oCMenu2.makeMenu('sub322','sub35','NSB Calendar','/nsb/meetings/start.htm','',110,0)
+
+		oCMenu2.makeMenu('sub323','sub35','Director\'s Schedule','/od/lpa/forum/events.htm','',110,0)
+
+		oCMenu2.makeMenu('sub324','sub35','Advisory Committee','/home/pubinfo/advisory.htm','',110,0)
+
+	oCMenu2.makeMenu('sub36','top3','Science Nuggets','/sbe/nuggets/start.htm')
+
+		
+
+		
+
+//Leave these two lines! Making the styles and then constructing the menu
+
+
+
+
+
+	oCMenu2.makeStyle(); 
+
+	oCMenu2.construct()
+
+	var finished=1;
+
+}
+
+
+
+</script>
+
+
+</body></html><!--
+     FILE ARCHIVED ON 06:18:39 Oct 05, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:57:38 Oct 26, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
